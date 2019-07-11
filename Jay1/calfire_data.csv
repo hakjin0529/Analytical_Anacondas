@@ -1,0 +1,1450 @@
+Fire_Name,County,City,Lat,Lng,Start_Date,End_Date,Agency,Acres,Cause
+Town,Mendocino,Willits,39.4096,-123.3556,3/31/2000,4/5/2000,USFS,1500,escape control
+Cabbage,Mendocino,Willits,39.4096,-123.3556,4/1/2000,4/1/2000,USFS,1540,?
+Franklin,Mendocino,Willits,39.4096,-123.3556,4/2/2000,4/3/2000,USFS,400,na
+PNF 151 (Robinson),Lassen,Susanville,40.4163,-120.6531,4/4/2000,4/5/2000,USFS,500,na
+Assist (Azusa),Mono,Mammoth Lakes,37.6433,-118.9669,5/29/2000,6/1/2000,USFS,740,Campfire
+Elephant,Tulare,Camp Nelson,36.1427,-118.6093,6/1/2000,6/1/2000,CDF,497,Control Burn
+Dry,Los Angeles,Los Angeles,34.0549,-118.2445,6/6/2000,6/6/2000,USFS,356,Under Invest.
+Calabasas,Ventura,Ventura,34.2783,-119.2932,6/11/2000,6/11/2000,CC,800,Under Invest.
+Larkin,Butte,Paradise,39.7596,-121.622,6/13/2000,6/13/2000,CDF,475,Under Invest.
+Berryessa,Napa,Napa,38.2971,-122.2856,6/13/2000,6/16/2000,CDF,5731,Equip. Use
+Lindsay,Tulare,Camp Nelson,36.1427,-118.6093,6/18/2000,6/18/2000,CDF,400,Arson
+Telegraph,Ventura,Ventura,34.2783,-119.2932,6/26/2000,6/26/2000,CC,400,Equip. Use
+Telegraph,Ventura,Ventura,34.2783,-119.2932,6/26/2000,6/26/2000,CC,400,Equip. Use
+Richgrove,Tulare,Camp Nelson,36.1427,-118.6093,6/28/2000,6/28/2000,CDF,450,Elec. Power
+Richgrove,Tulare,Camp Nelson,36.1427,-118.6093,6/28/2000,6/28/2000,CDF,450,Elec. Power
+Barrett,San Diego,San Diego,32.7174,-117.1628,6/29/2000,6/30/2000,CDF,2000,Under Invest.
+Barrett,San Diego,San Diego,32.7174,-117.1628,6/29/2000,6/30/2000,CDF,2000,Under Invest.
+Granite,Mariposa,Yosemite Valley,37.7344,-119.6065,7/2/2000,7/4/2000,CDF,2000,Shooter
+Granite,Mariposa,Yosemite Valley,37.7344,-119.6065,7/2/2000,7/4/2000,CDF,2000,Shooter
+Citrus,San Bernardino,San Bernardino,34.1083,-117.2898,7/3/2000,7/4/2000,CDF,600,Under Invest.
+Citrus,San Bernardino,San Bernardino,34.1083,-117.2898,7/3/2000,7/4/2000,CDF,600,Under Invest.
+Assist (Morgan),San Bernardino,San Bernardino,34.1083,-117.2898,7/7/2000,7/8/2000,USFS,300,Under Invest.
+Assist (Morgan),San Bernardino,San Bernardino,34.1083,-117.2898,7/7/2000,7/8/2000,USFS,300,Under Invest.
+Success,Tulare,Camp Nelson,36.1427,-118.6093,7/9/2000,7/9/2000,CDF,320,Arson
+Success,Tulare,Camp Nelson,36.1427,-118.6093,7/9/2000,7/9/2000,CDF,320,Arson
+Goat,Lassen,Susanville,40.4163,-120.6531,7/17/2000,7/20/2000,CDF,1084,Campfire
+Goat,Lassen,Susanville,40.4163,-120.6531,7/17/2000,7/20/2000,CDF,1084,Campfire
+Bark KNF Assist #12,Siskiyou,Yreka,41.7326,-122.6378,7/21/2000,7/26/2000,USFS,1715,Under Invest.
+Bark KNF Assist #12,Siskiyou,Yreka,41.7326,-122.6378,7/21/2000,7/26/2000,USFS,1715,Under Invest.
+Assist #18 Buckman,San Diego,San Diego,32.7174,-117.1628,7/22/2000,7/22/2000,USFS,300,Under Invest.
+Assist #18 Buckman,San Diego,San Diego,32.7174,-117.1628,7/22/2000,7/22/2000,USFS,300,Under Invest.
+Shell,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,7/22/2000,7/22/2000,USFS,6300,Under Invest.
+Shell,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,7/22/2000,7/22/2000,USFS,6300,Under Invest.
+Happy Camp,Inyo,Bishop,37.365,-118.3947,7/23/2000,7/28/2000,BLM,5500,Under Invest.
+Happy Camp,Inyo,Bishop,37.365,-118.3947,7/23/2000,7/28/2000,BLM,5500,Under Invest.
+Manter,Tulare,Camp Nelson,36.1427,-118.6093,7/24/2000,8/9/2000,USFS,74439,Under Invest.
+Manter,Tulare,Camp Nelson,36.1427,-118.6093,7/24/2000,8/9/2000,USFS,74439,Under Invest.
+Patterson,Santa Clara,Saratoga,37.2638,-122.0231,7/26/2000,7/27/2000,CDF,432,Undetermined
+Patterson,Santa Clara,Saratoga,37.2638,-122.0231,7/26/2000,7/27/2000,CDF,432,Undetermined
+Corp. #13,Siskiyou,Yreka,41.7326,-122.6378,7/26/2000,7/26/2000,CDF,813,Railroad
+Morgan,Napa,Napa,38.2971,-122.2856,7/26/2000,7/27/2000,CDF,3283,Undetermined
+State (Pachenga),Riverside,Riverside,33.9534,-117.3962,7/29/2000,8/9/2000,CDF,11900,Under Invest.
+Chance,Tulare,Camp Nelson,36.1427,-118.6093,8/1/2000,8/5/2000,CC,1200,Lightning
+Golden II,Mono,Mammoth Lakes,37.6433,-118.9669,8/1/2000,8/8/2000,BLM,2150,Lightning
+Peak,Tulare,Camp Nelson,36.1427,-118.6093,8/2/2000,8/4/2000,CC,300,Lightning
+Drivers,Placer,Last Chance,39.1113,-120.6247,8/2/2000,8/4/2000,CDF,360,Under Invest.
+Winters,Yolo,Yolo,38.7318,-121.8078,8/2/2000,8/2/2000,CDF,380,Undetermined
+King,Tulare,Camp Nelson,36.1427,-118.6093,8/2/2000,8/9/2000,CC,3243,Lightning
+Sawmill,Inyo,Bishop,37.365,-118.3947,8/3/2000,8/3/2000,USFS,350,Lightning
+Northfork (5 EXP.),San Benito,Pinnacles,36.5308,-121.1452,8/3/2000,8/7/2000,CDF,1773,Equip. Use
+Parrotts,Calaveras,Angels Camp,38.0683,-120.5397,8/5/2000,8/6/2000,CDF,700,Undetermined
+Romero,Merced,Merced,37.303,-120.4844,8/9/2000,9/9/2000,CDF,1200,Undetermined
+Highway,Fresno,Fresno,36.7394,-119.7849,8/13/2000,8/17/2000,CDF,700,Arson
+Union,Shasta,Shasta Lake,40.68,-122.3627,8/14/2000,8/15/2000,CDF,350,Equip. Use
+"Corp. #15, Cooley",Siskiyou,Yreka,41.7326,-122.6378,8/17/2000,8/17/2000,CDF,600,Railroad
+Storrie,Plumas,East Quincy,39.9341,-120.8981,8/17/2000,9/9/2000,USFS,55261,Railroad
+Blech,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,8/21/2000,8/21/2000,CDF,463,Undetermined
+Hunter,Mariposa,Yosemite Valley,37.7344,-119.6065,8/27/2000,9/4/2000,CDF,8084,Equip. Use
+Hunter,Mariposa,Yosemite Valley,37.7344,-119.6065,8/27/2000,9/4/2000,CDF,8084,Equip. Use
+FKU 9369,Fresno,Fresno,36.7394,-119.7849,8/30/2000,8/31/2000,LOCAL,300,Undetermined
+FKU 9369,Fresno,Fresno,36.7394,-119.7849,8/30/2000,8/31/2000,LOCAL,300,Undetermined
+Black Ranch,Riverside,Riverside,33.9534,-117.3962,9/9/2000,9/11/2000,CDF,475,Shooting
+Black Ranch,Riverside,Riverside,33.9534,-117.3962,9/9/2000,9/11/2000,CDF,475,Shooting
+TRW Fire,Orange,Lake Forest,33.6469,-117.686,9/10/2000,9/10/2000,CC,480,Under Invest.
+TRW Fire,Orange,Lake Forest,33.6469,-117.686,9/10/2000,9/10/2000,CC,480,Under Invest.
+Lyons,San Diego,San Diego,32.7174,-117.1628,9/13/2000,9/14/2000,USFS,400,Arson
+Lyons,San Diego,San Diego,32.7174,-117.1628,9/13/2000,9/14/2000,USFS,400,Arson
+Paradise,Los Angeles,Los Angeles,34.0549,-118.2445,9/13/2000,9/13/2000,USFS,427,Under Invest.
+Paradise,Los Angeles,Los Angeles,34.0549,-118.2445,9/13/2000,9/13/2000,USFS,427,Under Invest.
+Yucca,Los Angeles,Los Angeles,34.0549,-118.2445,9/13/2000,9/13/2000,CC,868,Under Invest.
+Yucca,Los Angeles,Los Angeles,34.0549,-118.2445,9/13/2000,9/13/2000,CC,868,Under Invest.
+Harris,Santa Barbara,Santa Barbara,34.4221,-119.7027,9/13/2000,9/18/2000,CC,9700,Under Invest.
+Harris,Santa Barbara,Santa Barbara,34.4221,-119.7027,9/13/2000,9/18/2000,CC,9700,Under Invest.
+Concow,Butte,Paradise,39.7596,-121.622,9/19/2000,9/22/2000,CDF,1835,Equip. Use
+Concow,Butte,Paradise,39.7596,-121.622,9/19/2000,9/22/2000,CDF,1835,Equip. Use
+Sixteen,Yolo,Yolo,38.7318,-121.8078,9/21/2000,7/9/2002,CDF,400,Arson
+Sixteen,Yolo,Yolo,38.7318,-121.8078,9/21/2000,7/9/2002,CDF,400,Arson
+Weinstein,Tehama,Red Bluff,40.1785,-122.2359,9/29/2000,10/2/2000,CDF,8284,escape control
+Weinstein,Tehama,Red Bluff,40.1785,-122.2359,9/29/2000,10/2/2000,CDF,8284,escape control
+Worsham,Fresno,Fresno,36.7394,-119.7849,10/6/2000,10/6/2000,LOCAL,500,Vehicle
+Worsham,Fresno,Fresno,36.7394,-119.7849,10/6/2000,10/6/2000,LOCAL,500,Vehicle
+Latrobe,El Dorado,Diamond Springs,38.6946,-120.815,10/21/2000,10/21/2000,CDF,750,Elec. Power
+Latrobe,El Dorado,Diamond Springs,38.6946,-120.815,10/21/2000,10/21/2000,CDF,750,Elec. Power
+Hidden,Lake,Lakeport,39.043,-122.9159,10/21/2000,10/27/2000,CDF,4500,Elec. Power
+Hidden,Lake,Lakeport,39.043,-122.9159,10/21/2000,10/27/2000,CDF,4500,Elec. Power
+USFS #1,Sequoia NF,Sequoia,37.8066,-119.8955,1/1/2001,1/4/2001,USFS,303,na
+Viejas,San Diego,San Diego,32.7174,-117.1628,1/3/2001,1/8/2001,CDF,10353,Smoking
+M-9 Fire,Tehama,Red Bluff,40.1785,-122.2359,5/9/2001,5/9/2001,USFS,351,Under Invest.
+Jones,Siskiyou,Yreka,41.7326,-122.6378,5/9/2001,5/14/2001,USFS,1440,Debris
+Hilton,Lassen,Susanville,40.4163,-120.6531,5/20/2001,5/23/2001,CDF,390,Debris
+Larkin,Butte,Paradise,39.7596,-121.622,5/20/2001,5/21/2001,LOCAL,400,Equip. Use
+White,Tulare,Camp Nelson,36.1427,-118.6093,5/23/2001,5/26/2001,USFS,332,Under Invest.
+Devil,Lassen,Susanville,40.4163,-120.6531,5/27/2001,6/1/2001,CDF,4400,Equip. Use
+Freeman,Tehama,Red Bluff,40.1785,-122.2359,5/29/2001,5/29/2001,CDF,390,Vehicle
+Big,Trinity,Hayfork,40.5543,-123.1831,6/2/2001,6/3/2001,USFS,800,Under Invest.
+Powerline,Imperial,Imperial,32.8476,-115.5695,6/3/2001,6/3/2001,BLM,777,Under Invest.
+Flat,Humboldt,Fortuna,40.5974,-124.1561,6/5/2001,6/5/2001,CDF,300,Campfire
+Hog,Tehama,Red Bluff,40.1785,-122.2359,6/13/2001,6/13/2001,CDF,340,Equip. Use
+Merced Falls Fire,Merced,Merced,37.303,-120.4844,6/13/2001,6/14/2001,CDF,400,Weadeater
+San Benito Cattle Co.,San Benito,Pinnacles,36.5308,-121.1452,6/13/2001,6/13/2001,CDF,580,Arson
+Assist SNF-562,Merced,Merced,37.303,-120.4844,6/13/2001,6/13/2001,LOCAL,1200,Under Invest.
+165,Madera,Madera Acres,37.0191,-120.0669,6/13/2001,6/13/2001,LOCAL,1500,Undetermined
+Jackson,Amador,Amador City,38.4194,-120.8242,6/13/2001,6/13/2001,CDF,2240,Welding
+Hemlock,San Bernardino,San Bernardino,34.1083,-117.2898,6/14/2001,6/20/2001,USFS,1074,Escape
+Shinn,San Bernardino,San Bernardino,34.1083,-117.2898,6/16/2001,6/18/2001,USFS,300,Under Invest.
+Pacheco,Merced,Merced,37.303,-120.4844,6/16/2001,6/17/2001,CDF,1550,Vehicle
+Tram,Riverside,Riverside,33.9534,-117.3962,6/17/2001,6/18/2001,CDF,393,Arson
+Red Bank,Tehama,Red Bluff,40.1785,-122.2359,6/17/2001,6/17/2001,CDF,650,Vehicle
+Canyon,Kern,Bakersfield,35.3739,-119.0195,6/18/2001,6/19/2001,USFS,566,Under Invest.
+Bevan,Amador,Amador City,38.4194,-120.8242,6/23/2001,6/23/2001,CDF,500,Equip. Use
+Democrat,Tulare,Camp Nelson,36.1427,-118.6093,6/23/2001,6/25/2001,USFS,550,Under Invest.
+Ridge,Mendocino,Willits,39.4096,-123.3556,6/23/2001,6/25/2001,CDF,610,Equip. Use
+Watkins,Riverside,Riverside,33.9534,-117.3962,6/23/2001,6/24/2001,CDF,1407,Arson
+Vander Bowen,Tulare,Camp Nelson,36.1427,-118.6093,6/29/2001,6/29/2001,CDF,596,Vehicle
+McNamammara,Merced,Merced,37.303,-120.4844,7/1/2001,7/1/2001,LOCAL,700,Undetermined
+McLaughlin,Inyo,Bishop,37.365,-118.3947,7/2/2001,7/5/2001,USFS,2900,Lightning
+Lake,Calaveras,Angels Camp,38.0683,-120.5397,7/3/2001,7/3/2001,CDF,550,Misc.
+Payen,Sacramento,Sacramento,38.5816,-121.4944,7/5/2001,7/5/2001,CDF,300,Elec. Power
+Sixteen,Amador,Amador City,38.4194,-120.8242,7/6/2001,7/6/2001,CDF,550,Undetermined
+Ballinger,Riverside,Riverside,33.9534,-117.3962,7/9/2001,7/9/2001,CDF,350,Undetermined
+Silent,Riverside,Riverside,33.9534,-117.3962,7/11/2001,7/12/2001,CDF,548,Equip. Use
+Hoover Complex,Mariposa,Yosemite Valley,37.7344,-119.6065,7/13/2001,7/13/2001,NPS,8007,Lightning
+Crane,Merced,Merced,37.303,-120.4844,7/16/2001,7/16/2001,LOCAL,900,Under Invest.
+Reche,Riverside,Riverside,33.9534,-117.3962,7/22/2001,7/23/2001,CDF,1798,Vehicle
+Briceburg,Mariposa,Yosemite Valley,37.7344,-119.6065,7/24/2001,7/25/2001,CDF,800,Under Invest.
+Stream,Lassen,Susanville,40.4163,-120.6531,7/26/2001,7/26/2001,USFS,3560,Lightning
+Shelby,San Bernardino,San Bernardino,34.1083,-117.2898,7/27/2001,7/28/2001,CDF,729,Railroad
+Powerhouse,Shasta,Shasta Lake,40.68,-122.3627,7/28/2001,8/1/2001,CDF,490,Undetermined
+Clay,Sacramento,Sacramento,38.5816,-121.4944,7/31/2001,7/31/2001,CDF,535,Misc.
+Del Puerto,Stanislaus,Modesto,37.6391,-120.9969,8/3/2001,8/4/2001,CDF,400,Campfire
+BLM D431 Shaffer,Lassen,Susanville,40.4163,-120.6531,8/8/2001,8/8/2001,BLM,1100,Lightning
+Cowhead/BLM D438,Modoc,Alturas,41.4871,-120.5424,8/8/2001,8/9/2001,BLM,1670,Lightning
+Modoc Complex,Modoc,Alturas,41.4871,-120.5424,8/8/2001,8/8/2001,USFS,5367,Lightning
+Trough,Mendocino,Willits,39.4096,-123.3556,8/8/2001,8/20/2001,USFS,24970,Undetermined
+East Fire,Shasta,Shasta Lake,40.68,-122.3627,8/9/2001,8/10/2001,CDF,624,Elec. Power
+Blue Complex,Modoc,Alturas,41.4871,-120.5424,8/9/2001,8/10/2002,USFS,37950,Lightning
+Observation,Lassen,Susanville,40.4163,-120.6531,8/9/2001,8/12/2002,USFS,67700,Lightning
+GAP,Placer,Last Chance,39.1113,-120.6247,8/12/2001,8/17/2001,USFS,2462,Under Invest.
+Assist Crater,Mono,Mammoth Lakes,37.6433,-118.9669,8/12/2001,8/15/2001,USFS,5800,Lightning
+Orosco,Cleveland NF,Santa Ysabel,33.1092,-116.6731,8/14/2001,8/15/2001,DF/USF,813,Under Invest
+Ponderosa,Placer,Last Chance,39.1113,-120.6247,8/17/2001,8/23/2001,CDF,2780,Vehicle
+Creek,Mariposa,Yosemite Valley,37.7344,-119.6065,8/18/2001,8/24/2001,CDF,11095,Arson
+Highway,Sequoia NF,Sequoia,37.8066,-119.8955,8/19/2001,8/29/2001,USFS,4152,Arson
+Leonard,Calaveras,Angels Camp,38.0683,-120.5397,8/19/2001,8/25/2001,CDF,5167,Equip. Use
+North Fork,Madera,Madera Acres,37.0191,-120.0669,8/20/2001,8/20/2001,CDF,2930,Under Invest.
+Star,El Dorado,Diamond Springs,38.6946,-120.815,8/25/2001,9/22/2001,USFS,16761,Under Invest.
+Oregon,Trinity,Hayfork,40.5543,-123.1831,8/28/2001,8/31/2001,CDF,1680,Undetermined
+Hyampon,Trinity,Hayfork,40.5543,-123.1831,8/31/2001,9/5/2001,USFS,1065,Undetermined
+Darby,Calaveras,Angels Camp,38.0683,-120.5397,9/5/2001,9/24/2001,CDF,14280,Undetermined
+Poe,Butte,Paradise,39.7596,-121.622,9/6/2001,9/12/2001,CDF,8333,Elec. Power
+Happy Camp Cmplx,Siskiyou,Yreka,41.7326,-122.6378,9/14/2001,10/10/2001,USFS,8500,Lightning
+Stables,Angeles NF,Falling Springs,34.3017,-117.8393,10/12/2001,10/15/2001,USFS,6544,Under Invest.
+HWY 70,Butte,Paradise,39.7596,-121.622,10/24/2001,10/26/2001,CDF,1711,Arson
+Moore,Calaveras,Angels Camp,38.0683,-120.5397,10/27/2001,10/31/2001,CDF,580,Undetermined
+Crane,Merced,Merced,37.303,-120.4844,11/2/2001,11/2/2001,LOCAL,330,Undetermined
+Bell,San Diego,San Diego,32.7174,-117.1628,12/8/2001,12/11/2001,CDF,1204,Undetermined
+Green (State),Riverside,Riverside,33.9534,-117.3962,2/9/2002,2/13/2002,CDF,2400,Elec. Power
+Gavilan Fire,San Diego,San Diego,32.7174,-117.1628,2/10/2002,2/15/2002,CDF,5763,VMP Burn
+Tecopa,Inyo,Bishop,37.365,-118.3947,3/5/2002,3/5/2002,BLM,300,n/a
+Nicholas,Madera,Madera Acres,37.0191,-120.0669,3/16/2002,3/16/2002,LOCAL,12000,Debris Burning
+Cajalco,Riverside,Riverside,33.9534,-117.3962,3/17/2002,3/17/2002,CDF,575,Undetermined
+Aliso,San Diego,San Diego,32.7174,-117.1628,3/21/2002,3/22/2002,MIL,2400,Under Invest.
+Airport,Inyo,Bishop,37.365,-118.3947,3/22/2002,3/24/2002,CDF,846,Undetermined
+Bell (Outside Origin),San Diego,San Diego,32.7174,-117.1628,4/13/2002,4/14/2002,CDF,350,Undetermined
+Evening Fire,Orange,Lake Forest,33.6469,-117.686,4/21/2002,4/23/2002,CC,657,PWF
+Kellogg,Del Norte,Crescent City,41.7559,-124.2018,4/28/2002,4/28/2002,CDF,300,Vehicle
+Myers,Merced,Merced,37.303,-120.4844,5/7/2002,5/7/2002,CDF,320,Undetermined
+Myers,Merced,Merced,37.303,-120.4844,5/7/2002,5/7/2002,CDF,320,Undetermined
+Tivy,Fresno,Fresno,36.7394,-119.7849,5/9/2002,5/10/2002,CDF,680,Elec. Power
+Tivy,Fresno,Fresno,36.7394,-119.7849,5/9/2002,5/10/2002,CDF,680,Elec. Power
+Bouquet,Angeles NF,Falling Springs,34.3017,-117.8393,5/11/2002,5/13/2002,USFS,4977,Undetermined
+Bouquet,Angeles NF,Falling Springs,34.3017,-117.8393,5/11/2002,5/13/2002,USFS,4977,Undetermined
+State 925 (Antonio),Riverside,Riverside,33.9534,-117.3962,5/13/2002,5/15/2002,CDF,1472,Undetermined
+State 925 (Antonio),Riverside,Riverside,33.9534,-117.3962,5/13/2002,5/15/2002,CDF,1472,Undetermined
+Mateo,Cleveland NF,Santa Ysabel,33.1092,-116.6731,5/13/2002,5/13/2002,USFS,1500,Undetermined
+Mateo,Cleveland NF,Santa Ysabel,33.1092,-116.6731,5/13/2002,5/13/2002,USFS,1500,Undetermined
+Shannon,Los Angeles,Los Angeles,34.0549,-118.2445,5/23/2002,5/23/2002,CC,356,Undetermined
+Shannon,Los Angeles,Los Angeles,34.0549,-118.2445,5/23/2002,5/23/2002,CC,356,Undetermined
+Ahlem,Merced,Merced,37.303,-120.4844,5/23/2002,5/23/2002,LOCAL,6000,Undetermined
+Ahlem,Merced,Merced,37.303,-120.4844,5/23/2002,5/23/2002,LOCAL,6000,Undetermined
+Arrowhead,San Bernardino,San Bernardino,34.1083,-117.2898,5/31/2002,6/5/2002,USFS,2688,Under Invest.
+Arrowhead,San Bernardino,San Bernardino,34.1083,-117.2898,5/31/2002,6/5/2002,USFS,2688,Under Invest.
+Wolf,Ventura,Ventura,34.2783,-119.2932,6/1/2002,6/14/2002,USFS,21645,Under Invest.
+Wolf,Ventura,Ventura,34.2783,-119.2932,6/1/2002,6/14/2002,USFS,21645,Under Invest.
+Bee,Riverside,Riverside,33.9534,-117.3962,6/2/2002,6/2/2002,USFS,432,Under Invest.
+Bee,Riverside,Riverside,33.9534,-117.3962,6/2/2002,6/2/2002,USFS,432,Under Invest.
+Rocky(will do),Sequoia NF,Sequoia,37.8066,-119.8955,6/2/2002,6/4/2002,USFS,498,Under Invest.
+Rocky(will do),Sequoia NF,Sequoia,37.8066,-119.8955,6/2/2002,6/4/2002,USFS,498,Under Invest.
+Copper,Los Angeles,Los Angeles,34.0549,-118.2445,6/5/2002,6/12/2002,USFS,23407,Under Invest.
+Copper,Los Angeles,Los Angeles,34.0549,-118.2445,6/5/2002,6/12/2002,USFS,23407,Under Invest.
+Twin,Amador,Amador City,38.4194,-120.8242,6/8/2002,6/8/2002,CDF,300,Undetermined
+Twin,Amador,Amador City,38.4194,-120.8242,6/8/2002,6/8/2002,CDF,300,Undetermined
+Skyway,Butte,Paradise,39.7596,-121.622,6/8/2002,6/9/2002,CDF,2000,Under Invest.
+Skyway,Butte,Paradise,39.7596,-121.622,6/8/2002,6/9/2002,CDF,2000,Under Invest.
+Area,Fresno,Fresno,36.7394,-119.7849,6/9/2002,6/10/2002,CDF,400,Elec. Power
+Area,Fresno,Fresno,36.7394,-119.7849,6/9/2002,6/10/2002,CDF,400,Elec. Power
+Pony,Amador,Amador City,38.4194,-120.8242,6/9/2002,6/9/2002,CDF,720,Elec. Power
+Field,Yuba,Yuba City,39.1404,-121.617,6/9/2002,6/11/2002,CDF,945,Under Invest.
+Davis,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,6/9/2002,6/9/2002,CDF,2118,Rekindle
+Davis,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,6/9/2002,6/9/2002,CDF,2118,Rekindle
+Forks,Siskiyou,Yreka,41.7326,-122.6378,6/12/2002,6/15/2002,USFS,1400,Under Invest.
+State of Calif. #24,Tulare,Camp Nelson,36.1427,-118.6093,6/14/2002,6/14/2002,LOCAL,641,Vehicle
+Borel,Kern,Bakersfield,35.3739,-119.0195,6/15/2002,6/17/2002,CC,3430,Under Invest.
+Bluecut,San Bernardino,San Bernardino,34.1083,-117.2898,6/16/2002,6/22/2002,USFS,6864,Under Invest.
+Sudden Ranch,Santa Barbara,Santa Barbara,34.4221,-119.7027,6/17/2002,6/19/2002,CC,7782,Under Invest.
+Mias (need correct),Riverside,Riverside,33.9534,-117.3962,6/18/2002,6/22/2002,CDF,565,Under Invest.
+Vieux,Alameda,Pleasanton,37.6624,-121.8747,6/18/2002,6/18/2002,CDF,1029,Elec. Power
+Copo,Los Angeles,Los Angeles,34.0549,-118.2445,6/18/2002,6/21/2002,USFS,1460,Under Invest.
+Box,Madera,Madera Acres,37.0191,-120.0669,6/19/2002,6/19/2002,LOCAL,300,Smoking
+Troy(4 exp rept with,San Diego,San Diego,32.7174,-117.1628,6/19/2002,6/22/2003,CDF,1188,Campfire
+Stage,Tulare,Camp Nelson,36.1427,-118.6093,6/22/2002,6/22/2002,CDF,1100,Equip. Use
+Louisiana,San Bernardino,San Bernardino,34.1083,-117.2898,6/26/2002,6/30/2002,USFS,6574,Under Invest.
+600,Madera,Madera Acres,37.0191,-120.0669,6/27/2002,6/27/2002,LOCAL,448,Equip. Use
+Gondola,El Dorado,Diamond Springs,38.6946,-120.815,7/3/2002,7/7/2002,USFS,670,Human
+Gondola,El Dorado,Diamond Springs,38.6946,-120.815,7/3/2002,7/7/2002,USFS,670,Human
+Cottonwood,Merced,Merced,37.303,-120.4844,7/4/2002,7/4/2002,CDF,1000,Undetermined
+Cottonwood,Merced,Merced,37.303,-120.4844,7/4/2002,7/4/2002,CDF,1000,Undetermined
+White,Mariposa,Yosemite Valley,37.7344,-119.6065,7/9/2002,7/10/2002,CDF,300,Smoking
+White,Mariposa,Yosemite Valley,37.7344,-119.6065,7/9/2002,7/10/2002,CDF,300,Smoking
+Black,Lassen,Susanville,40.4163,-120.6531,7/12/2002,7/13/2002,BLM,300,Lightning
+Black,Lassen,Susanville,40.4163,-120.6531,7/12/2002,7/13/2002,BLM,300,Lightning
+BLM #596,Lassen,Susanville,40.4163,-120.6531,7/12/2002,7/13/2002,BLM,4500,Lightning
+BLM #596,Lassen,Susanville,40.4163,-120.6531,7/12/2002,7/13/2002,BLM,4500,Lightning
+BLM #587,Lassen,Susanville,40.4163,-120.6531,7/13/2002,7/20/2002,BLM,500,Lightning
+BLM #587,Lassen,Susanville,40.4163,-120.6531,7/13/2002,7/20/2002,BLM,500,Lightning
+Garnet,San Diego,San Diego,32.7174,-117.1628,7/13/2002,7/16/2002,USFS/CDF,1166,Undetermined
+Garnet,San Diego,San Diego,32.7174,-117.1628,7/13/2002,7/16/2002,USFS/CDF,1166,Undetermined
+Mussolini,Siskiyou,Yreka,41.7326,-122.6378,7/13/2002,7/16/2002,CDF,3260,Equip. Use
+Mussolini,Siskiyou,Yreka,41.7326,-122.6378,7/13/2002,7/16/2002,CDF,3260,Equip. Use
+Sour Biscuit-Zone 2,Del Norte,Crescent City,41.7559,-124.2018,7/13/2002,8/2/2002,USFS,28772,Lightning
+Sour Biscuit-Zone 2,Del Norte,Crescent City,41.7559,-124.2018,7/13/2002,8/2/2002,USFS,28772,Lightning
+Knox/Annie,Modoc,Alturas,41.4871,-120.5424,7/14/2002,7/14/2002,BLM,300,Lightning
+Knox/Annie,Modoc,Alturas,41.4871,-120.5424,7/14/2002,7/14/2002,BLM,300,Lightning
+Horse Complex,Lassen,Susanville,40.4163,-120.6531,7/15/2002,7/15/2002,BLM,1580,Lightning
+Horse Complex,Lassen,Susanville,40.4163,-120.6531,7/15/2002,7/15/2002,BLM,1580,Lightning
+Inyo Complex,Inyo,Bishop,37.365,-118.3947,7/15/2002,7/16/2002,USFS,6550,Lightning
+Inyo Complex,Inyo,Bishop,37.365,-118.3947,7/15/2002,7/16/2002,USFS,6550,Lightning
+HWY 58,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,7/18/2002,7/19/2002,CDF,1380,Arson
+HWY 58,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,7/18/2002,7/19/2002,CDF,1380,Arson
+Deer,Kern,Bakersfield,35.3739,-119.0195,7/21/2002,7/24/2002,USFS,1800,Under Invest.
+Deer,Kern,Bakersfield,35.3739,-119.0195,7/21/2002,7/24/2002,USFS,1800,Under Invest.
+McNally,Tulare,Camp Nelson,36.1427,-118.6093,7/21/2002,9/3/2002,USFS,150696,Human
+McNally,Tulare,Camp Nelson,36.1427,-118.6093,7/21/2002,9/3/2002,USFS,150696,Human
+St. Pauli,El Dorado,Diamond Springs,38.6946,-120.815,7/26/2002,7/28/2002,USFS,320,Under Invest.
+St. Pauli,El Dorado,Diamond Springs,38.6946,-120.815,7/26/2002,7/28/2002,USFS,320,Under Invest.
+Stanza,Siskiyou,Yreka,41.7326,-122.6378,7/26/2002,8/2/2002,USFS,2880,Lightning
+Stanza,Siskiyou,Yreka,41.7326,-122.6378,7/26/2002,8/2/2002,USFS,2880,Lightning
+Shelly Creek,Del Norte,Crescent City,41.7559,-124.2018,7/28/2002,8/1/2002,USFS,850,Under Invest.
+Shelly Creek,Del Norte,Crescent City,41.7559,-124.2018,7/28/2002,8/1/2002,USFS,850,Under Invest.
+Pines,San Diego,San Diego,32.7174,-117.1628,7/29/2002,8/16/2002,CDF,61690,Elec. Power
+Pines,San Diego,San Diego,32.7174,-117.1628,7/29/2002,8/16/2002,CDF,61690,Elec. Power
+Vasco,Contra Costa,Concord,37.9769,-122.0336,8/5/2002,8/5/2002,CDF,549,Undetermined
+Vasco,Contra Costa,Concord,37.9769,-122.0336,8/5/2002,8/5/2002,CDF,549,Undetermined
+Pope,Napa,Napa,38.2971,-122.2856,8/9/2002,8/10/2002,CDF,800,Equip. Use
+Pope,Napa,Napa,38.2971,-122.2856,8/9/2002,8/10/2002,CDF,800,Equip. Use
+Ft. Hunter Ligget,Monterey,King City,36.2127,-121.1261,8/10/2002,8/11/2002,MIL,1400,Under Invest.
+Ft. Hunter Ligget,Monterey,King City,36.2127,-121.1261,8/10/2002,8/11/2002,MIL,1400,Under Invest.
+Bryant,Riverside,Riverside,33.9534,-117.3962,8/11/2002,8/12/2002,CDF,498,Play/W/Fire
+Supply HIA Assist #1,Humboldt,Fortuna,40.5974,-124.1561,8/14/2002,8/18/2002,BIA,410,Under Invest.
+Redhill,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,8/17/2002,8/19/2002,USFS,715,Under Invest.
+Showers,El Dorado,Diamond Springs,38.6946,-120.815,8/19/2002,8/21/2002,USFS,384,Human
+Assist #73,San Diego,San Diego,32.7174,-117.1628,8/24/2002,8/25/2002,USFS,850,Undetermined
+Lytle,San Bernardino,San Bernardino,34.1083,-117.2898,8/29/2002,9/4/2002,USFS,554,Under Invest.
+Hickok,El Dorado,Diamond Springs,38.6946,-120.815,8/31/2002,8/31/2002,CDF,775,Play/W/Fire
+Freeway,Los Angeles,Los Angeles,34.0549,-118.2445,9/1/2002,9/3/2002,CC,1043,Under Invest.
+Curve BDU8451 379,Los Angeles,Los Angeles,34.0549,-118.2445,9/1/2002,9/5/2003,USFS,20857,Under Invest.
+Squirrel,Shasta,Shasta Lake,40.68,-122.3627,9/3/2002,9/3/2002,CDF,625,Smoking
+Leona,Los Angeles,Los Angeles,34.0549,-118.2445,9/3/2002,9/6/2002,USFS,5124,Under Invest.
+Mountain,Los Angeles,Los Angeles,34.0549,-118.2445,9/9/2002,9/11/2002,CC,1200,Under Invest.
+Mountain,Los Angeles,Los Angeles,34.0549,-118.2445,9/9/2002,9/11/2002,CC,1200,Under Invest.
+Oasis Inc.,Los Angeles,Los Angeles,34.0549,-118.2445,9/14/2002,9/14/2002,CC,1305,Under Invest.
+Oasis Inc.,Los Angeles,Los Angeles,34.0549,-118.2445,9/14/2002,9/14/2002,CC,1305,Under Invest.
+Burns,Mendocino,Willits,39.4096,-123.3556,9/19/2002,9/20/2002,CDF,485,Undetermined
+Burns,Mendocino,Willits,39.4096,-123.3556,9/19/2002,9/20/2002,CDF,485,Undetermined
+Williams,Los Angeles,Los Angeles,34.0549,-118.2445,9/22/2002,10/7/2002,CC,38094,Under Invest.
+Williams,Los Angeles,Los Angeles,34.0549,-118.2445,9/22/2002,10/7/2002,CC,38094,Under Invest.
+Croy,Santa Clara,Saratoga,37.2638,-122.0231,9/23/2002,9/28/2002,CDF,3127,Elec. Power
+Croy,Santa Clara,Saratoga,37.2638,-122.0231,9/23/2002,9/28/2002,CDF,3127,Elec. Power
+Paiute,Inyo,Bishop,37.365,-118.3947,9/24/2002,9/24/2002,USFS,391,Human
+Paiute,Inyo,Bishop,37.365,-118.3947,9/24/2002,9/24/2002,USFS,391,Human
+Cone,Lassen,Susanville,40.4163,-120.6531,9/26/2002,9/30/2002,USFS,2006,Under Invest.
+,Tehama,Red Bluff,40.1785,-122.2359,10/1/2002,10/1/2002,CDF,300,Vehicle
+Sixteen,Yolo,Yolo,38.7318,-121.8078,10/1/2002,10/2/2002,CDF,1500,Undetermined
+Rock Creek 2,Madera,Madera Acres,37.0191,-120.0669,11/25/2002,11/27/2002,USFS,415,
+Sourgrass Complex,Calaveras,Angels Camp,38.0683,-120.5397,11/25/2002,11/30/2002,CDF,635,Debris Burning
+Plum,El Dorado,Diamond Springs,38.6946,-120.815,11/26/2002,11/28/2002,USFS,1765,
+Assist (Pacific),Los Angeles,Los Angeles,34.0549,-118.2445,1/6/2003,1/7/2003,CC,1300,n/a
+Local,Riverside,Riverside,33.9534,-117.3962,2/23/2003,2/23/2003,Local,12000,Escape
+Lundy,Mono,Mammoth Lakes,37.6433,-118.9669,4/24/2003,4/26/2003,Local,600,n/a
+Delima,Tulare,Camp Nelson,36.1427,-118.6093,5/3/2003,5/3/2003,Local,3000,Misc.
+New Idria/Griswold,San Benito,Pinnacles,36.5308,-121.1452,5/18/2003,5/18/2003,USFS,628,Vehicle
+FKU-6009,Fresno,Fresno,36.7394,-119.7849,5/28/2003,5/28/2003,Local,1000,Smoking
+Del Puerto Cyn.,Stanislaus,Modesto,37.6391,-120.9969,5/29/2003,6/1/2003,CDF,597,Equip. Use
+Bird,San Joaquin,Stockton,37.9577,-121.2908,6/1/2003,6/1/2003,CDF,6804,Equip. Use
+Fish (McNamera),Merced,Merced,37.303,-120.4844,6/2/2003,6/2/2003,Local,650,Debris Burning
+SNF Assist (165),Merced,Merced,37.303,-120.4844,6/5/2003,6/10/2003,USFS,300,n/a
+Shallock,Kern,Bakersfield,35.3739,-119.0195,6/6/2003,6/6/2003,CC,564,vehicle
+Gyle,Tehama,Red Bluff,40.1785,-122.2359,6/10/2003,6/10/2003,Local,300,Equip. Use
+152,Merced,Merced,37.303,-120.4844,6/15/2003,6/16/2003,CDF,1558,Munition
+Caliente,Kern,Bakersfield,35.3739,-119.0195,6/16/2003,6/17/2003,CC,1223,n/a
+Sycamore,San Diego,San Diego,32.7174,-117.1628,6/17/2003,6/18/2003,CDF,404,n/a
+Assist ABC Misc.,Inyo,Bishop,37.365,-118.3947,6/18/2003,6/22/2003,USFS,1173,Lightning
+FKU-7076,Fresno,Fresno,36.7394,-119.7849,6/19/2003,6/19/2003,Local,15000,Hostile Fire
+Nature,Tehama,Red Bluff,40.1785,-122.2359,6/23/2003,6/23/2003,CDF,610,Undetermined
+26 Fire,Madera,Madera Acres,37.0191,-120.0669,6/23/2003,6/23/2003,CDF,700,Undetermined
+Hwy 70,Butte,Paradise,39.7596,-121.622,6/24/2003,6/24/2003,Local,368,Vehicle
+Kern #8 (Martinez #2),Kern,Bakersfield,35.3739,-119.0195,6/26/2003,6/27/2003,CDF,329,n/a
+Sawmill,Riverside,Riverside,33.9534,-117.3962,6/26/2003,7/1/2003,CC,536,n/a
+Chimney,Tulare,Camp Nelson,36.1427,-118.6093,6/28/2003,6/29/2003,BIA,565,n/a
+Friday,Humboldt,Fortuna,40.5974,-124.1561,6/29/2003,6/30/2003,USFS,389,n/a
+Capay,Yolo,Yolo,38.7318,-121.8078,6/29/2003,6/29/2003,CDF,400,Smoking
+Tejon,Kern,Bakersfield,35.3739,-119.0195,6/29/2003,6/29/2005,CC,1155,n/a
+I-5,Merced,Merced,37.303,-120.4844,6/30/2003,6/30/2003,CDF,1000,Campfire
+Forty,Lake,Lakeport,39.043,-122.9159,7/1/2003,7/1/2003,CDF,300,Arson
+Hwy 25,San Benito,Pinnacles,36.5308,-121.1452,7/2/2003,7/2/2003,Local,360,Vehicle
+Dain,San Benito,Pinnacles,36.5308,-121.1452,7/2/2003,7/2/2003,CDF,500,Equip. Use
+A-3,Lassen,Susanville,40.4163,-120.6531,7/2/2003,7/2/2003,CDF,1100,Vehicle
+Hunter #9,Mariposa,Yosemite Valley,37.7344,-119.6065,7/3/2003,7/4/2003,CDF,641,Equip. Use
+State Fire,Riverside,Riverside,33.9534,-117.3962,7/3/2003,7/3/2003,CDF,855,Smoking
+Stage,Riverside,Riverside,33.9534,-117.3962,7/4/2003,7/4/2003,CDF,1700,Vehicle
+Kern #10 (Pump),Kern,Bakersfield,35.3739,-119.0195,7/7/2003,7/7/2003,CC,747,Equip. Use
+North Fork,Madera,Madera Acres,37.0191,-120.0669,7/8/2003,7/10/2003,CDF,360,Vehicle
+YNP #1734 (Woodlot),Mariposa,Yosemite Valley,37.7344,-119.6065,7/8/2003,7/11/2003,NPS,458,Undetermined
+Frazier,Tulare,Camp Nelson,36.1427,-118.6093,7/8/2003,7/7/2003,CDF,699,Equipment
+Castle,Tulare,Camp Nelson,36.1427,-118.6093,7/12/2003,7/12/2003,CDF,320,Arson
+CoopersTown #2,Stanislaus,Modesto,37.6391,-120.9969,7/12/2003,7/12/2003,CDF,396,Equip. Use
+Greig,Stanislaus,Modesto,37.6391,-120.9969,7/13/2003,7/13/2003,CDF,420,Vehicle
+Kern #14 (Hillside),Kern,Bakersfield,35.3739,-119.0195,7/15/2003,7/16/2003,CC,835,Equip. Use
+Coyote,San Diego,San Diego,32.7174,-117.1628,7/16/2003,7/26/2003,CDF,18705,Lightning
+Grant,Merced,Merced,37.303,-120.4844,7/18/2003,7/18/2003,Local,500,Undetermined
+BLM U575 (Ram),Lassen,Susanville,40.4163,-120.6531,7/20/2003,7/21/2003,BLM,375,Lightning
+Parkhill,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,7/20/2003,7/22/2003,CDF,1200,Vehicle
+Grapevine Kern #15,Kern,Bakersfield,35.3739,-119.0195,7/20/2003,7/20/2003,CC,1830,Undetermined
+STF #8 (Mountain Co,Tuolumne,Tuolumne,37.9608,-120.2375,7/20/2003,10/3/2003,USFS,3747,Lightning
+Del Puerto,Stanislaus,Modesto,37.6391,-120.9969,7/20/2003,7/22/2003,CDF,5170,Lightning
+BLM-U580/Smoke,Lassen,Susanville,40.4163,-120.6531,7/21/2003,7/25/2003,BLM,8010,Lightning
+Shinn BLM 590,Lassen,Susanville,40.4163,-120.6531,7/22/2003,7/22/2003,BLM,950,Lightning
+Local,Riverside,Riverside,33.9534,-117.3962,7/22/2003,7/22/2003,Local,2020,Undetermined
+Basin,Kern,Bakersfield,35.3739,-119.0195,7/23/2003,7/25/2003,CC,1002,n/a
+River,Madera,Madera Acres,37.0191,-120.0669,7/25/2003,7/25/2003,Local,300,Undetermined
+Canyon,Riverside,Riverside,33.9534,-117.3962,7/25/2003,7/27/2003,CDF,4336,Arson
+Little Kern (China),Kern,Bakersfield,35.3739,-119.0195,7/30/2003,8/3/2003,USFS,509,Lightning
+BLM U 643 (Barber),Modoc,Alturas,41.4871,-120.5424,7/31/2003,8/1/2003,BLM,1330,Lightning
+TIA 2415 ( Cooney),Tulare,Camp Nelson,36.1427,-118.6093,7/31/2003,8/27/2003,USFS,1928,Lightning
+Hoover,Stanislaus,Modesto,37.6391,-120.9969,8/4/2003,8/4/2003,CDF,2000,Lightning
+Chimney Incident,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,8/10/2003,8/11/2003,CDF,1500,Vehicle
+Local/Highway,Riverside,Riverside,33.9534,-117.3962,8/18/2003,8/18/2003,Local,300,Arson
+Locust,Riverside,Riverside,33.9534,-117.3962,8/18/2003,8/20/2003,CDF,1898,Rekindle
+Plus,Santa Clara,Saratoga,37.2638,-122.0231,8/20/2003,8/20/2003,Local,500,Equipment
+Alamos,Los Angeles,Los Angeles,34.0549,-118.2445,8/23/2003,8/24/2003,USFS,300,Undetermined
+Santa Clara Complex,Santa Clara,Saratoga,37.2638,-122.0231,8/25/2003,9/2/2003,CDF,30170,Lightning
+Pittsburg,Contra Costa,Concord,37.9769,-122.0336,8/26/2003,8/26/2003,CDF,300,Lightning
+White Rock,Mariposa,Yosemite Valley,37.7344,-119.6065,8/26/2003,8/26/2003,CDF,640,Lightning
+Lightning 23,Tuolumne,Tuolumne,37.9608,-120.2375,8/26/2003,8/26/2003,CDF,800,Lightning
+Smith,Tulare,Camp Nelson,36.1427,-118.6093,8/27/2003,8/27/2003,Local,320,Vehicle
+TNF 1993 (Cod Comp,Placer,Last Chance,39.1113,-120.6247,9/1/2003,9/1/2003,USFS,830,Lightning
+Assist (Dexter),Mono,Mammoth Lakes,37.6433,-118.9669,9/2/2003,9/2/2003,USFS,2515,Lightning
+SITES,Lake,Lakeport,39.043,-122.9159,9/3/2003,9/4/2003,CDF,390,Lightning
+40,Yolo,Yolo,38.7318,-121.8078,9/3/2003,9/3/2003,CDF,1400,Arson
+MNF-964 Asst / Smok,Lake,Lakeport,39.043,-122.9159,9/3/2003,9/10/2003,USFS,3500,Lightning
+MNF Assist (Grindsto,Glenn,Glenn,39.5218,-122.0139,9/3/2003,9/3/2003,USFS,8019,Lightning
+Lightning Honeydew 4,Humboldt,Fortuna,40.5974,-124.1561,9/3/2003,9/3/2003,CDF,13846,Lightning
+Canoe,Humboldt,Fortuna,40.5974,-124.1561,9/3/2003,10/15/2003,CDF,24882,Lightning
+SHF Assist (Loma),Trinity,Hayfork,40.5543,-123.1831,9/14/2003,9/22/2003,USFS,3074,n/a
+Sierra (Rocklin Assis,Placer,Last Chance,39.1113,-120.6247,9/18/2003,9/18/2003,LOCAL,594,Under Invest.
+Sierra (Rocklin Assis,Placer,Last Chance,39.1113,-120.6247,9/18/2003,9/18/2003,LOCAL,594,Under Invest.
+NPS #6 Paradise,Tulare,Camp Nelson,36.1427,-118.6093,9/27/2003,10/19/2003,NPS,1298,Lightning
+Gorman,San Bernardino,San Bernardino,34.1083,-117.2898,9/28/2003,9/29/2003,CDF,300,Undetermined
+MNF Assist (Spanish),Tehama,Red Bluff,40.1785,-122.2359,9/28/2003,10/2/2003,USFS,6050,n/a
+Lytle,San Bernardino,San Bernardino,34.1083,-117.2898,10/1/2003,10/1/2003,USFS,903,n/a
+Pass,Riverside,Riverside,33.9534,-117.3962,10/21/2003,10/23/2003,CDF,2397,Arson
+Assist 68 (Roblar 2),San Diego,San Diego,32.7174,-117.1628,10/21/2003,10/27/2003,MIL,8592,n/a
+Grand Prix,San Bernardino,San Bernardino,34.1083,-117.2898,10/21/2003,11/5/2003,CDF,66894,Undetermined
+Piru,Ventura,Ventura,34.2783,-119.2932,10/23/2003,11/14/2003,CC,63991,n/a
+Assist Verdale,Los Angeles,Los Angeles,34.0549,-118.2445,10/24/2003,10/24/2003,CC,8650,n/a
+Simi,Ventura,Ventura,34.2783,-119.2932,10/25/2003,11/3/2003,CC,108204,n/a
+Cedar,San Diego,San Diego,32.7174,-117.1628,10/25/2003,11/4/2003,USFS,273246,Human
+Tuk,Humboldt,Fortuna,40.5974,-124.1561,10/26/2003,10/30/2003,NPS,315,N/A
+Mountain,Riverside,Riverside,33.9534,-117.3962,10/26/2003,10/29/2003,CDF,10000,Equip. Use
+Mine,San Diego,San Diego,32.7174,-117.1628,10/26/2003,10/28/2003,CDF,46000,Arson
+Paradise,San Diego,San Diego,32.7174,-117.1628,10/26/2003,11/6/2003,CDF,56700,Equip. Use
+Whitmore,Shasta,Shasta Lake,40.68,-122.3627,10/27/2003,10/30/2003,CDF,1200,Undetermined
+Pine,Mendocino,Willits,39.4096,-123.3556,11/26/2003,11/28/2003,CDF,1200,Escape
+Sand,Modoc,Alturas,41.4871,-120.5424,11/28/2003,11/29/2003,USFS,300,Escape
+UPPER SANTA ANA,San Bernardino,San Bernardino,34.1083,-117.2898,3/25/2004,3/26/2004,USFS,350,ESCAPE
+SHF ASSIST (HAMILTON),Tehama,Red Bluff,40.1785,-122.2359,4/9/2004,4/12/2004,USFS,301,HUMAN
+PLEASURE FIRE,Riverside,Riverside,33.9534,-117.3962,4/25/2004,4/26/2004,CDF,2464,VEHICLE
+GAFFORD,Riverside,Riverside,33.9534,-117.3962,5/2/2004,5/3/2004,CDF,450,UNDETERMINED
+ASSIST #31 (INDIA FIRE),San Diego,San Diego,32.7174,-117.1628,5/2/2004,5/3/2004,MIL.,2040,UI
+EAGLE,Riverside,Riverside,33.9534,-117.3962,5/2/2004,5/7/2004,CDF,8831,UNDETERMINED
+SCHOOL INC.,Riverside,Riverside,33.9534,-117.3962,5/3/2004,5/3/2004,CDF,377,DEBRIS
+ASSIST #6 (CACHUMA),Santa Barbara,Santa Barbara,34.4221,-119.7027,5/3/2004,5/7/2004,LOC,1127,UI
+CERRITO FIRE 681,Riverside,Riverside,33.9534,-117.3962,5/3/2004,5/7/2004,CDF,16460,UNDETERMINED
+FRAZIER,Tulare,Camp Nelson,36.1427,-118.6093,5/7/2004,5/7/2004,CDF,750,EQUIP. USE
+COTTONWOOD,Riverside,Riverside,33.9534,-117.3962,5/12/2004,5/15/2004,CDF,1845,CAMPFIRE
+COTTONWOOD,Plumas,East Quincy,39.9341,-120.8981,5/18/2004,5/18/2004,USFS,560,HUMAN
+BASALT,Merced,Merced,37.303,-120.4844,5/21/2004,5/21/2004,CDF,300,EQUIP. USE
+STAGE,Tulare,Camp Nelson,36.1427,-118.6093,5/21/2004,5/21/2004,CDF,313,POWERLINE
+BEALE,Yuba,Yuba City,39.1404,-121.617,6/3/2004,6/3/2004,CDF,300,POWERLINE
+PRIDMORE,Santa Clara,Saratoga,37.2638,-122.0231,6/4/2004,6/4/2004,CDF,300,VEHICLE
+GAVIOTA,Santa Barbara,Santa Barbara,34.4221,-119.7027,6/5/2004,6/11/2004,CC,7440,UI
+CASTLE,Tulare,Camp Nelson,36.1427,-118.6093,6/8/2004,6/8/2004,CDF,571,UNDETERMINED
+SOURCE,Madera,Madera Acres,37.0191,-120.0669,6/16/2004,6/16/2004,USFS,385,UI
+KERN #11 (WEST FIRE),Kern,Bakersfield,35.3739,-119.0195,6/18/2004,6/18/2004,CC,550,HUMAN
+MOKE ASSIST,Amador,Amador City,38.4194,-120.8242,6/20/2004,6/20/2004,USFS,400,UNDETERMINED
+SKEDADDLE,Lassen,Susanville,40.4163,-120.6531,6/22/2004,6/24/2004,USFS,368,LIGHTNING
+CRAG,Tulare,Camp Nelson,36.1427,-118.6093,6/24/2004,6/24/2004,USFS,871,LIGHTNING
+ASSIST ANF (INTERSTATE06/26/04,Los Angeles,Los Angeles,34.0549,-118.2445,6/26/2004,6/26/2004,USFS,300,HUMAN
+FKU-7654,Fresno,Fresno,36.7394,-119.7849,6/26/2004,6/26/2004,LOC,5000,CONTROL BURN
+MEADOW,Mariposa,Yosemite Valley,37.7344,-119.6065,6/27/2004,7/1/2004,USFS,5060,LIGHTNING
+BLUFF WFU,Shasta,Shasta Lake,40.68,-122.3627,6/28/2004,6/28/2004,NPS,3304,LIGHTNING
+CABEU002411 (CHULAR),Monterey,King City,36.2127,-121.1261,6/30/2004,7/1/2004,CDF,300,POWERLINE
+"BLACK, H",Tuolumne,Tuolumne,37.9608,-120.2375,7/1/2004,7/1/2004,CDF,375,LIGHTNING
+WARNER,San Diego,San Diego,32.7174,-117.1628,7/1/2004,7/1/2004,CDF,600,UNDETERMINED
+CORRAL HOLLOW,Santa Cruz,Felton,37.0513,-122.0733,7/10/2004,7/11/2004,CDF,700,ELEC. POW.
+GATOS,Fresno,Fresno,36.7394,-119.7849,7/11/2004,7/13/2004,CDF,1307,POWERLINE
+VERBENIA,Riverside,Riverside,33.9534,-117.3962,7/11/2004,7/16/2004,CDF,3833,UNDETERMINED
+PINE,Los Angeles,Los Angeles,34.0549,-118.2445,7/12/2004,7/21/2004,CC,17418,HUMAN
+SUNSET,Placer,Last Chance,39.1113,-120.6247,7/13/2004,7/13/2004,LOC,320,UNDETERMINED
+LAKEVIEW,Riverside,Riverside,33.9534,-117.3962,7/13/2004,7/13/2004,CDF,350,UNDETERMINED
+MATAGUARY,San Diego,San Diego,32.7174,-117.1628,7/13/2004,7/15/2004,CDF,8649,P/W/F
+ROCKYKRN#1,Kern,Bakersfield,35.3739,-119.0195,7/14/2004,7/14/2004,CC,510,UI
+SILVER,Santa Clara,Saratoga,37.2638,-122.0231,7/15/2004,7/16/2004,LOC,435,UI
+STATE (MELTON),Riverside,Riverside,33.9534,-117.3962,7/17/2004,7/20/2004,CDF,3667,MISC.
+ASSIST (FOOTHILL),Los Angeles,Los Angeles,34.0549,-118.2445,7/17/2004,7/21/2004,CC/USFS,6002,UI
+MENDOTA,Fresno,Fresno,36.7394,-119.7849,7/18/2004,7/18/2004,LOC,500,SMOKING
+PELICAN,Stanislaus,Modesto,37.6391,-120.9969,7/19/2004,7/24/2004,LOC,1500,HUMAN
+JALAMA,Santa Barbara,Santa Barbara,34.4221,-119.7027,7/20/2004,7/22/2004,LOC,307,UI
+USFS #6 (CAMP),Kern,Bakersfield,35.3739,-119.0195,7/22/2004,7/23/2004,USFS,700,HUMAN
+STATE,Riverside,Riverside,33.9534,-117.3962,7/22/2004,7/22/2004,CDF,750,UNDETERMINED
+STRAYLOR,Lassen,Susanville,40.4163,-120.6531,7/22/2004,7/29/2004,CDF,3422,VEHICLE
+ASSIST (CROWN COMPLE 07/20/04,Los Angeles,Los Angeles,34.0549,-118.2445,7/23/2004,7/23/2004,USFS,18026,HUMAN
+LIGHT#37,Siskiyou,Yreka,41.7326,-122.6378,7/24/2004,7/24/2004,CDF,400,LIGHTNING
+IRONGATE,Siskiyou,Yreka,41.7326,-122.6378,7/24/2004,7/26/2004,CDF,2400,LIGHTNING
+ARMSTRONG #2,Calaveras,Angels Camp,38.0683,-120.5397,7/27/2004,8/14/2004,CDF,879,ARSON
+SIMS,Trinity,Hayfork,40.5543,-123.1831,7/28/2004,8/3/2004,USFS,4030,UI
+HWY 4 #2,Calaveras,Angels Camp,38.0683,-120.5397,8/6/2004,8/9/2004,CDF,3443,UNDETERMINED
+EAST ANF 2861,Los Angeles,Los Angeles,34.0549,-118.2445,8/7/2004,8/9/2004,USFS,1330,N/A
+CREEK,Mendocino,Willits,39.4096,-123.3556,8/8/2004,8/11/2004,CDF,328,UNDETERMINED
+STEVENS,Placer,Last Chance,39.1113,-120.6247,8/8/2004,8/12/2004,CDF,934,ELEC. POW.
+KINCAID,Santa Clara,Saratoga,37.2638,-122.0231,8/8/2004,8/10/2004,CDF,1246,UNDETERMINED
+HUNT,Calaveras,Angels Camp,38.0683,-120.5397,8/10/2004,8/12/2004,CDF,600,EQUIP. USE
+EARLY,Tuolumne,Tuolumne,37.9608,-120.2375,8/11/2004,8/9/2004,USFS,1670,UI
+OREGON,Butte,Paradise,39.7596,-121.622,8/11/2004,8/15/2004,CDF,2030,ELEC. POW.
+BEAR,Shasta,Shasta Lake,40.68,-122.3627,8/11/2004,8/16/2004,CDF,10848,EQUIP. USE
+DEEP,Tulare,Camp Nelson,36.1427,-118.6093,8/12/2004,8/16/2004,USFS,3148,HUMAN
+NOD BBT4 (SNAKE),Lassen,Susanville,40.4163,-120.6531,8/13/2004,8/16/2004,BLM,500,LIGHTNING
+STONEY,Lassen,Susanville,40.4163,-120.6531,8/13/2004,8/16/2004,BLM,500,LIGHTNING
+LGT#60 (BELFAST),Lassen,Susanville,40.4163,-120.6531,8/13/2004,8/16/2004,CDF/BLM,500,LIGHTNING
+FRENCH,Shasta,Shasta Lake,40.68,-122.3627,8/14/2004,8/20/2004,CDF,13005,UNDETERMINED
+MIX (VACA),Solano,Fairfield,38.2494,-122.04,8/18/2004,8/20/2004,CDF,377,ARSON
+LONG,Sonoma,Sonoma,38.2931,-122.4577,8/26/2004,8/26/2004,CDF,400,UNDETERMINED
+BEAR,Mariposa,Yosemite Valley,37.7344,-119.6065,9/2/2004,9/4/2004,CDF,400,UNDETERMINED
+PATTISON,Calaveras,Angels Camp,38.0683,-120.5397,9/3/2004,9/5/2004,CDF,2476,VEHICLE
+GEYSERS,Lake,Lakeport,39.043,-122.9159,9/3/2004,9/8/2004,CDF,12525,ELEC. POW.
+SCOTT,Sacramento,Sacramento,38.5816,-121.4944,9/4/2004,9/4/2004,CDF,700,UNDETERMINED
+CEMENT,NAPA,Napa,38.2971,-122.2856,9/4/2004,9/4/2004,CDF,1100,UNDETERMINED
+DOLCINI,Marin,Novato,38.1062,-122.5682,9/7/2004,9/9/2004,CC,360,UI
+CHINA,Kern,Bakersfield,35.3739,-119.0195,9/11/2004,9/12/2004,USFS,314,UI
+STF #2191,Tuolumne,Tuolumne,37.9608,-120.2375,9/12/2004,9/12/2004,USFS,800,UI
+OLD HIGHWAY,Mariposa,Yosemite Valley,37.7344,-119.6065,9/12/2004,9/15/2004,CDF,1347,DEBRIS
+POWER,Amador,Amador City,38.4194,-120.8242,10/6/2004,10/21/2004,USFS,16800,UI
+RUMSEY,Yolo,Yolo,38.7318,-121.8078,10/10/2004,10/16/2004,CDF,39138,UNDETERMINED
+FREDS,Dorado,Folsom,38.678,-121.1761,10/13/2004,10/17/2004,USFS,7700,UI
+URUTTA,Madera,Madera Acres,37.0191,-120.0669,5/1/2005,9/15/2005,CDF,435,UNDET.
+CLAYTON,Fresno,Fresno,36.7394,-119.7849,5/15/2005,5/16/2005,LOCAL,300,ARSON
+BLM #1(APRICOT),Fresno,Fresno,36.7394,-119.7849,5/17/2005,5/17/2005,CDF/BLM,667,CAMPFIRE
+MENDOTA,Fresno,Fresno,36.7394,-119.7849,5/17/2005,5/17/2005,LOCAL,800,RAILROAD
+JOHNSON RANCH VMP,Riverside,Riverside,33.9534,-117.3962,5/19/2005,6/1/2005,CDF,417,PRESCRIBED
+STATE 783 (ELM),Riverside,Riverside,33.9534,-117.3962,6/2/2005,6/4/2005,CDF,300,UNDET.
+LEHIGH KERN #7,Tulare,Camp Nelson,36.1427,-118.6093,6/2/2005,6/2/2005,CDF/CC,800,HUMAN
+DOS AMIGOS,Merced,Merced,37.303,-120.4844,6/3/2005,6/3/2005,CDF,1232,VEHICLE
+SPERRY,Stanislaus,Modesto,37.6391,-120.9969,6/4/2005,6/4/2005,CDF,1330,VEHICLE
+FIVE,Fresno,Fresno,36.7394,-119.7849,6/4/2005,6/5/2005,CDF,5514,VEHICLE
+VASCO,Contra Costa,Concord,37.9769,-122.0336,6/5/2005,6/5/2005,CDF,320,VEHICLE
+CITY (DULCE),San Bernardino,San Bernardino,34.1083,-117.2898,6/6/2005,6/7/2005,LOCAL,625,HUMAN
+PIONEER,San Bernardino,San Bernardino,34.1083,-117.2898,6/18/2005,6/19/2005,CDF,1876,UNDET.
+SOBOBA,Riverside,Riverside,33.9534,-117.3962,6/22/2005,6/24/2005,CDF,2000,EQUIP. USE
+PARADISE,San Bernardino,San Bernardino,34.1083,-117.2898,6/22/2005,6/25/2005,CDF,3082,UNDET.
+HACKBERRY ASSIST,San Bernardino,San Bernardino,34.1083,-117.2898,6/22/2005,6/27/2005,NPS,71000,LIGHTNING
+BRAGDON,Contra Costa,Concord,37.9769,-122.0336,7/1/2005,7/2/2005,CDF,490,VEHICLE
+BAILEY,Madera,Madera Acres,37.0191,-120.0669,7/2/2005,7/2/2005,CDF,1056,UNDET.
+ASSIST ORC(YORBA LINDA),Riverside,Riverside,33.9534,-117.3962,7/5/2005,7/5/2005,CDF/CC,1078,HUMAN
+"ASSIST ""TOVEY""",Los Angeles,Los Angeles,34.0549,-118.2445,7/5/2005,7/6/2005,CDF/CC,1200,UI
+MILLWOOD,Tulare,Camp Nelson,36.1427,-118.6093,7/7/2005,7/7/2005,CDF,2600,ARSON
+HIGH,Tulare,Camp Nelson,36.1427,-118.6093,7/9/2005,7/9/2005,CDF/CC,971,UI
+SQF NINE(NINE),Tulare,Camp Nelson,36.1427,-118.6093,7/9/2005,7/9/2005,USFS,1150,UI
+SIERRA,San Bernardino,San Bernardino,34.1083,-117.2898,7/14/2005,7/15/2005,CDF/CC,525,UI
+KRN-25 (CHINA LAKE),Kern,Bakersfield,35.3739,-119.0195,7/19/2005,7/19/2005,BLM,1282,HUMAN
+TESLA,Alameda,Pleasanton,37.6624,-121.8747,7/19/2005,7/20/2005,CDF,6744,ARSON
+BRUNS,Contra Costa,Concord,37.9769,-122.0336,7/20/2005,7/20/2005,CDF,350,UNDET.
+ASSIST(PINYON COMPLEX),Inyo,Bishop,37.365,-118.3947,7/22/2005,7/22/2005,USFS,743,LIGHTNING
+ASSIST-KINGSTON,San Bernardino,San Bernardino,34.1083,-117.2898,7/22/2005,7/23/2005,BLM,3500,LIGHTNING
+RANCH,Tehama,Red Bluff,40.1785,-122.2359,7/25/2005,7/25/2005,CDF,430,VEHICLE
+QUARTZ,Madera,Madera Acres,37.0191,-120.0669,7/25/2005,7/27/2005,CDF,550,EQUIP. USE
+KOOPMAN,Alameda,Pleasanton,37.6624,-121.8747,7/26/2005,7/26/2005,CDF,430,ARSON
+RED,Tulare,Camp Nelson,36.1427,-118.6093,7/27/2005,7/28/2005,CDF,870,EQUIP. USE
+LAGUNA,Merced,Merced,37.303,-120.4844,7/30/2005,7/30/2005,CDF,447,VEHICLE
+WENTZEL,Calaveras,Angels Camp,38.0683,-120.5397,8/1/2005,8/1/2005,CDF,356,EQUIP. USE
+COWPIE(I5),Merced,Merced,37.303,-120.4844,8/1/2005,8/1/2005,CDF,3200,MISC
+ASSIST BDF (HALLORAN,San Bernardino,San Bernardino,34.1083,-117.2898,8/3/2005,8/3/2005,NPS,1500,UI
+"MNF ASSIST - DEER
+FIER(DEER)",Lake,Lakeport,39.043,-122.9159,8/9/2005,8/9/2005,USFS,1700,HUMAN
+36-2(36),Tehama,Red Bluff,40.1785,-122.2359,8/10/2005,8/11/2005,CDF,2700,EQUIP. USE
+"ASSIST#54
+MSN#50885(SHOTHOLE)",San Diego,San Diego,32.7174,-117.1628,8/17/2005,8/17/2005,DOD,350,N/A
+ROAD 33(33),Madera,Madera Acres,37.0191,-120.0669,8/21/2005,8/21/2005,LOCAL,400,UNDET.
+BLM-B4TX(BARREL),Modoc,Alturas,41.4871,-120.5424,8/22/2005,8/22/2005,BLM,24800,LIGHTNING
+TNF-1215(HARDING),Sierra,Sierra City,39.5657,-120.6339,8/24/2005,8/24/2005,USFS,2270,HUMAN
+FOLEY(ARTOIS),Tehama,Red Bluff,40.1785,-122.2359,8/25/2005,8/25/2005,CDF,314,EQUIP. USE
+MORGAN,Madera,Madera Acres,37.0191,-120.0669,8/26/2005,8/26/2005,LOCAL,500,LIGHTNING
+MANTON,Tehama,Red Bluff,40.1785,-122.2359,8/26/2005,8/29/2005,CDF,1830,VEHICLE
+ASSIST (BLAISDELL),Riverside,Riverside,33.9534,-117.3962,8/26/2005,8/30/2005,BLM,5493,HUMAN
+ENGINEERS,Mariposa,Yosemite Valley,37.7344,-119.6065,8/29/2005,8/29/2005,CDF,550,EQUIP. USE
+10238,Fresno,Fresno,36.7394,-119.7849,8/30/2005,8/30/2005,LOCAL,1000,EQUIP. USE
+"ASSIST ""GORMAN""",Kern,Bakersfield,35.3739,-119.0195,9/3/2005,9/5/2005,CDF/CC,2386,UI
+CABEU003316(JOHNSO,Monterey,King City,36.2127,-121.1261,9/4/2005,9/5/2005,CDF,1393,VEHICLE
+VOLCAN,San Diego,San Diego,32.7174,-117.1628,9/6/2005,9/11/2005,CDF,685,VEHICLE
+KINGSTON 3,San Bernardino,San Bernardino,34.1083,-117.2898,9/12/2005,9/14/2005,BLM,650,UI
+CLOVER,Lake,Lakeport,39.043,-122.9159,9/16/2005,9/17/2005,CDF,751,UNDET.
+LICHENS,Siskiyou,Yreka,41.7326,-122.6378,9/17/2005,9/17/2005,CDF,746.5,"DEBRIS
+BURNING"
+PINE,Tulare,Camp Nelson,36.1427,-118.6093,9/19/2005,9/19/2005,CDF/CC,1600,UNDET.
+LA PALOMA,Mariposa,Yosemite Valley,37.7344,-119.6065,9/20/2005,9/20/2005,CDF,700,LIGHTNING
+LOS BANOS,Merced,Merced,37.303,-120.4844,9/20/2005,9/20/2005,CDF,900,LIGHTNING
+KERN #44 (CRANE),Kern,Bakersfield,35.3739,-119.0195,9/25/2005,9/25/2005,CDF/CC,412,UI
+STATE FIRE (SAN TIMOTEO),Riverside,Riverside,33.9534,-117.3962,9/28/2005,9/28/2005,CDF,1100,MISC
+ASSIST (TOPANGA),San Bernardino,San Bernardino,34.1083,-117.2898,9/28/2005,10/7/2005,CDF/CC,24175,UI
+ASSIST (THURMAN),San Bernardino,San Bernardino,34.1083,-117.2898,9/29/2005,9/29/2005,USFS,935,UI
+BREWER,Placer,Last Chance,39.1113,-120.6247,10/4/2005,10/4/2005,LOCAL,400,UNDET.
+BORDER #50,San Diego,San Diego,32.7174,-117.1628,10/5/2005,10/8/2005,CDF,4103,UNDET.
+RIVER,Madera,Madera Acres,37.0191,-120.0669,10/5/2005,10/5/2005,LOCAL,6000,EQUIP. USE
+WOODHOUSE,Riverside,Riverside,33.9534,-117.3962,10/5/2005,10/7/2005,CDF,6500,RAILROAD
+RUMSEY SERIES #3,Yolo,Yolo,38.7318,-121.8078,10/11/2005,10/12/2005,CDF,301,UNDET.
+LOCAL LIGHTNING #1,Riverside,Riverside,33.9534,-117.3962,10/17/2005,10/17/2005,LOCAL,500,LIGHTNING
+ALPAUGH,Tulare,Camp Nelson,36.1427,-118.6093,10/28/2005,10/28/2005,LOCAL,330,UNDET.
+BAGLEY,Shasta,Shasta Lake,40.68,-122.3627,11/8/2005,11/8/2005,USFS,468,UNDET.
+ASSIST #57 SCHOOL FI,Ventura,Ventura,34.2783,-119.2932,11/18/2005,11/19/2005,CDF/CC,3891,UNDET.
+PLUNGE,San Bernardino,San Bernardino,34.1083,-117.2898,1/22/2006,2/2/2006,USFS,485,UI
+ASSIST CNF (SIERRA),Riverside,Riverside,33.9534,-117.3962,2/6/2006,2/6/2006,USFS,10584,HUMAN
+COMMAND),Siskiyou,Yreka,41.7326,-122.6378,2/25/2006,2/27/2006,CDF,3019,MISC
+ALMAZAN (TORCH),Fresno,Fresno,36.7394,-119.7849,5/13/2006,5/14/2006,CDF,1964,EQUIP. USE
+ASSIST (GREASE),Plumas,East Quincy,39.9341,-120.8981,5/16/2006,5/16/2006,USFS,366,UI
+BILLY,Merced,Merced,37.303,-120.4844,5/26/2006,5/26/2006,CDF,753,EQUIP. USE
+STUHR,Stanislaus,Modesto,37.6391,-120.9969,5/26/2006,5/26/2006,CDF,1418,VEHICLE
+HIGHWAY,Riverside,Riverside,33.9534,-117.3962,5/27/2006,5/28/2006,CDF,400,HUMAN
+ALPAUGH,Tulare,Camp Nelson,36.1427,-118.6093,5/27/2006,5/27/2006,LOCAL,1700,EQUIP. USE
+SKINNER,Riverside,Riverside,33.9534,-117.3962,5/30/2006,5/30/2006,CDF,317,HUMAN
+CORT (COURT),Riverside,Riverside,33.9534,-117.3962,6/3/2006,6/4/2006,CDF,362,EQUIP. USE
+RIFLE RANGE (AUBERR,Fresno,Fresno,36.7394,-119.7849,6/4/2006,6/4/2006,CDF,371,AMMUNITION
+FKU-4708,Fresno,Fresno,36.7394,-119.7849,6/7/2006,6/7/2006,LOCAL,300,VEHICLE
+ABERDEEN,Inyo,Bishop,37.365,-118.3947,6/7/2006,6/7/2006,CDF,357,LIGHTNING
+ARRASTRE,San Bernardino,San Bernardino,34.1083,-117.2898,6/9/2006,6/10/2006,USFS,361,LIGHTNING
+PETZ,San Joaquin,Stockton,37.9577,-121.2908,6/10/2006,6/10/2006,CDF,335,VEHICLE
+STOKES,Tulare,Camp Nelson,36.1427,-118.6093,6/17/2006,6/17/2006,CDF,320,ARSON
+PERKINS,Santa Barbara,Santa Barbara,34.4221,-119.7027,6/19/2006,6/26/2006,USFS,14988,HUMAN
+W,Tulare,Camp Nelson,36.1427,-118.6093,6/24/2006,6/24/2006,CDF,800,ARSON
+OBSERVATION COMPLE,Lassen,Susanville,40.4163,-120.6531,6/25/2006,6/30/2006,BLM,4300,LIGHTNING
+MDF-276 MILLER COMPL,Modoc,Alturas,41.4871,-120.5424,6/26/2006,7/3/2006,USFS,300,LIGHTNING
+LGT. #17,Modoc,Alturas,41.4871,-120.5424,6/26/2006,6/27/2006,CDF,500,LIGHTNING
+LGT #22 (3-9),Lassen,Susanville,40.4163,-120.6531,6/26/2006,6/27/2006,CDF,504,LIGHTNING
+CHENEY,Lassen,Susanville,40.4163,-120.6531,6/26/2006,6/27/2006,CDF,600,LIGHTNING
+GOODALE,Inyo,Bishop,37.365,-118.3947,6/26/2006,6/29/2006,CDF,3750,LIGHTNING
+23-Mar,Modoc,Alturas,41.4871,-120.5424,6/27/2006,6/27/2006,CDF,450,LIGHTNING
+BOLLY),Tehama,Red Bluff,40.1785,-122.2359,6/27/2006,6/27/2006,USFS,1247,LIGHTNING
+DEL PUERTO,Stanislaus,Modesto,37.6391,-120.9969,6/30/2006,7/3/2006,CDF,2590,DEBRIS
+CORRAL,San Joaquin,Stockton,37.9577,-121.2908,7/2/2006,7/2/2006,CDF,460,ARSON
+PEDRO,Tuolumne,Tuolumne,37.9608,-120.2375,7/3/2006,7/5/2006,CDF,2000,MISC.
+PICO,San Bernardino,San Bernardino,34.1083,-117.2898,7/6/2006,7/7/2006,LOCAL,420,UI
+KINGSTON,San Bernardino,San Bernardino,34.1083,-117.2898,7/6/2006,7/12/2006,CDF,488,LIGHTNING
+PUSHWALLA COMPLEX,Riverside,Riverside,33.9534,-117.3962,7/7/2006,7/10/2006,USFS,2000,LIGHTNING
+ARCO,Kern,Bakersfield,35.3739,-119.0195,7/9/2006,7/12/2006,CDF,698,UI
+MDF-242 (HAPPY COMP,Modoc,Alturas,41.4871,-120.5424,7/9/2006,7/9/2006,USFS,1780,LIGHTNING
+MILLARD FIRE ASSIST,Riverside,Riverside,33.9534,-117.3962,7/9/2006,7/9/2006,USFS,24210,LIGHTNING
+CANYON,Stanislaus,Modesto,37.6391,-120.9969,7/9/2006,7/17/2006,CDF,34000,EQUIP. USE
+SAWTOOTH COMPLEX,San Bernardino,San Bernardino,34.1083,-117.2898,7/9/2006,7/20/2006,CDF,62000,LIGHTNING
+BECK,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,7/11/2006,7/12/2006,BLM,1500,UI
+MIDWAY,Alameda,Pleasanton,37.6624,-121.8747,7/11/2006,7/11/2006,CDF,6400,UNDET.
+SQUIRREL,Madera,Madera Acres,37.0191,-120.0669,7/14/2006,7/14/2006,LOCAL,500,VEHICLE
+EDGEMONT,San Bernardino,San Bernardino,34.1083,-117.2898,7/14/2006,7/15/2006,CDF,575,ELEC. POW.
+GEYSERS,Mendocino,Willits,39.4096,-123.3556,7/17/2006,7/17/2006,CDF,321,UNDET.
+SKYWAY 2,Butte,Paradise,39.7596,-121.622,7/17/2006,7/17/2006,CDF,451,VEHICLE
+29,Lake,Lakeport,39.043,-122.9159,7/17/2006,7/21/2006,CDF,550,VEHICLE
+CREEK,Lassen,Susanville,40.4163,-120.6531,7/18/2006,7/21/2006,CDF,1234,UNDET.
+BORDER FIRE # 16,San Diego,San Diego,32.7174,-117.1628,7/20/2006,7/20/2006,CDF,315,UNDET.
+COYTOE,Tulare,Camp Nelson,36.1427,-118.6093,7/20/2006,7/21/2006,CDF,1325,LIGHTNING
+BURNT,Fresno,Fresno,36.7394,-119.7849,7/21/2006,7/21/2006,NPS,627,LIGHTNING
+OLIVE,Merced,Merced,37.303,-120.4844,7/21/2006,7/21/2006,LOCAL,25007,MISC.
+RIDGE,Kern,Bakersfield,35.3739,-119.0195,7/22/2006,7/28/2006,CDF,445,LIGHTNING
+RAMP FIRE,San Bernardino,San Bernardino,34.1083,-117.2898,7/22/2006,7/22/2006,USFS,448,HUMAN
+WHISPERING PINES,San Bernardino,San Bernardino,34.1083,-117.2898,7/22/2006,7/26/2006,CDF/NPS,993,LIGHTNING
+CABEU-002665 (RICCO),Monterey,King City,36.2127,-121.1261,7/22/2006,7/27/2006,CDF,14506,LIGHTNING
+COYOTE FIRE,Riverside,Riverside,33.9534,-117.3962,7/23/2006,7/26/2006,CDF,467,LIGHTNING
+SCOTT,Kern,Bakersfield,35.3739,-119.0195,7/23/2006,7/23/2006,CDF,600,LIGHTNING
+"""Y""",San Luis Obispo,San Luis Obispo,35.2828,-120.6597,7/23/2006,7/23/2006,CDF,660,ELEC. POW.
+HAPPY CAMP,Siskiyou,Yreka,41.7326,-122.6378,7/23/2006,9/24/2006,USFS,3318,LIGHTNING
+ASSIST 103 (HORSE),San Diego,San Diego,32.7174,-117.1628,7/23/2006,8/1/2006,USFS,16681,HUMAN
+UNCLES COMPLEX,Siskiyou,Yreka,41.7326,-122.6378,7/23/2006,10/31/2006,USFS,30454,LIGHTNING
+PANTHER,Trinity,Hayfork,40.5543,-123.1831,7/24/2006,8/7/2006,USFS,904,LIGHTNING
+MT. PINOS LIGHTNING C,Kern,Bakersfield,35.3739,-119.0195,7/24/2006,7/29/2006,CDF,3194,LIGHTNING
+ORLEANS COMPLEX,Humboldt,Fortuna,40.5974,-124.1561,7/24/2006,9/30/2006,USFS,15710,LIGHTNING
+LAKIN,Siskiyou,Yreka,41.7326,-122.6378,7/25/2006,8/1/2006,USFS,480,LIGHTNING
+EMPIRE,Los Angeles,Los Angeles,34.0549,-118.2445,7/25/2006,7/25/2006,CDF,1094,LIGHTNING
+RAYMOND,Madera,Madera Acres,37.0191,-120.0669,7/26/2006,7/26/2006,CDF,477,SMOKING
+HOY,Siskiyou,Yreka,41.7326,-122.6378,7/26/2006,7/28/2006,CDF,1283,ELEC. POW.
+HUNTER,Mendocino,Willits,39.4096,-123.3556,7/26/2006,7/26/2006,USFS,16296,LIGHTNING
+MDF- 484 (SAGE),Modoc,Alturas,41.4871,-120.5424,7/27/2006,8/5/2006,USFS,4855,LIGHTNING
+BAR COMPLEX,Trinity,Hayfork,40.5543,-123.1831,7/27/2006,7/27/2006,USFS,100414,LIGHTNING
+JUNCTION,Trinity,Hayfork,40.5543,-123.1831,7/29/2006,7/29/2006,CDF,3126,MISC.
+ANTELOPE,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,8/1/2006,8/1/2006,CDF,400,UNDET.
+MNF ASSIST (KINGSLEY,Tehama,Red Bluff,40.1785,-122.2359,8/2/2006,8/2/2006,USFS,6854,LIGHTNING
+COTTONWOOD,Kern,Bakersfield,35.3739,-119.0195,8/5/2006,8/6/2006,BLM,2346,UI
+COVINGTON,San Bernardino,San Bernardino,34.1083,-117.2898,8/7/2006,8/7/2006,NPS,532,LIGHTNING
+GOLF,Riverside,Riverside,33.9534,-117.3962,8/8/2006,8/10/2006,CDF,800,EQUIP. USE
+GILAMN (GILMAN),Riverside,Riverside,33.9534,-117.3962,8/12/2006,8/13/2006,CDF,300,EQUIP. USE
+QUAIL,Los Angeles,Los Angeles,34.0549,-118.2445,8/13/2006,8/16/2006,CDF,4864,UI
+MARYSVILLE,Yuba,Yuba City,39.1404,-121.617,8/16/2006,8/17/2006,CDF,388,UNDET.
+BOUNDARY,Mariposa,Yosemite Valley,37.7344,-119.6065,8/21/2006,8/22/2006,NPS,536,HUMAN
+EMERALD,San Bernardino,San Bernardino,34.1083,-117.2898,8/29/2006,8/29/2006,CDF/LRA,921,SHOOTERS
+PIGEON,Trinity,Hayfork,40.5543,-123.1831,9/2/2006,10/16/2006,USFS,6452,HUMAN
+RALSTON,Placer,Last Chance,39.1113,-120.6247,9/5/2006,9/18/2006,USFS,8423,UI
+ASSIST (SAWMILL),Mono,Mammoth Lakes,37.6433,-118.9669,9/14/2006,9/15/2006,USFS,7434,HUMAN
+ORCHARD,Riverside,Riverside,33.9534,-117.3962,9/16/2006,9/16/2006,CDF,1580,UNDET.
+RANCH,Riverside,Riverside,33.9534,-117.3962,9/17/2006,9/17/2006,CDF,1670,UNDET.
+BASSETTS,Sierra,Sierra City,39.5657,-120.6339,9/19/2006,9/26/2006,USFS,2114,UI
+PINNACLES,San Bernardino,San Bernardino,34.1083,-117.2898,9/19/2006,9/21/2006,USFS,2370,UI
+NAPA,NAPA,Napa,38.2971,-122.2856,9/22/2006,9/24/2006,CDF,387,ELEC. POW.
+82,Yolo,Yolo,38.7318,-121.8078,9/22/2006,9/22/2006,CDF,500,UNDET.
+ADAMS,Fresno,Fresno,36.7394,-119.7849,9/24/2006,9/24/2006,LOCAL,800,DEBRIS
+NOBLE,Mendocino,Willits,39.4096,-123.3556,9/24/2006,9/30/2006,CDF,1014,UNDET.
+"CUYAM,A",San Luis Obispo,San Luis Obispo,35.2828,-120.6597,10/9/2006,10/10/2006,CDF,850,UI
+RUBE,Fresno,Fresno,36.7394,-119.7849,10/10/2006,10/10/2006,USFS,341,LIGHTNING
+SUNRISE,Riverside,Riverside,33.9534,-117.3962,10/13/2006,10/14/2006,CDF,497,VEHICLE
+PHELPS,Fresno,Fresno,36.7394,-119.7849,10/25/2006,10/25/2006,CDF,1600,EQUIP. USE
+ESPERANZA,Riverside,Riverside,33.9534,-117.3962,10/26/2006,10/31/2006,CDF,40200,ARSON
+SIERRA,San Bernardino,San Bernardino,34.1083,-117.2898,11/6/2006,11/7/2006,USFS,640,HUMAN
+SHEKELL,Ventura,Ventura,34.2783,-119.2932,12/3/2006,12/5/2006,CDF,13600,UI
+CITRUS,San Bernardino,San Bernardino,34.1083,-117.2898,12/4/2006,12/4/2006,USFS,525,UI
+WESTSIDE,Kern,Bakersfield,35.3739,-119.0195,12/7/2006,12/9/2006,CDF,4025,UI
+MOCKINGBIRD,Riverside,Riverside,33.9534,-117.3962,1/5/2007,1/6/2007,CDF,671,EQUIP. USE
+DIABLO,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,1/14/2007,1/16/2007,CDF,332,STRUCTURE EXPOS
+ALESSANDRO,Riverside,Riverside,33.9534,-117.3962,3/4/2007,3/4/2007,CDF,680,UNDET.
+SIERRA,Riverside,Riverside,33.9534,-117.3962,3/11/2007,3/12/2007,CDF,1044,ARSON
+241 FIRE,Orange,Lake Forest,33.6469,-117.686,3/11/2007,3/13/2007,CDF,2036,HUMAN
+LITTLE 5,Fresno,Fresno,36.7394,-119.7849,3/22/2007,3/23/2007,CDF,300,OTHER
+LAS FLORES,San Bernardino,San Bernardino,34.1083,-117.2898,3/31/2007,4/1/2007,LOCAL,4100,UI
+WALKER,Mono,Mammoth Lakes,37.6433,-118.9669,4/6/2007,4/8/2007,BLM,901,UI
+GOLDEN,Inyo,Bishop,37.365,-118.3947,4/14/2007,4/15/2007,NPS,1988,UI
+RIVER DAY,Riverside,Riverside,33.9534,-117.3962,4/28/2007,4/29/2007,LOCAL,488,UNDET.
+JAMES,Kern,Bakersfield,35.3739,-119.0195,4/29/2007,5/3/2007,BLM,1350,UI
+GRIFFITH PARK,Los Angeles,Los Angeles,34.0549,-118.2445,5/8/2007,5/11/2007,LOCAL,817,UI
+DAWSON,Riverside,Riverside,33.9534,-117.3962,5/8/2007,5/9/2007,CDF,990,EQUIP. USE
+ISLAND,Los Angeles,Los Angeles,34.0549,-118.2445,5/10/2007,5/15/2007,CDF,4750,UI
+WOFFORD,Kern,Bakersfield,35.3739,-119.0195,5/13/2007,5/15/2007,BLM,525,UI
+BRAYE,Yolo,Yolo,38.7318,-121.8078,5/18/2007,5/22/2007,CDF,450,UNDET.
+GORMAN,Los Angeles,Los Angeles,34.0549,-118.2445,5/19/2007,5/22/2007,CDF,2050,UI
+HWY 41,Madera,Madera Acres,37.0191,-120.0669,5/20/2007,5/20/2007,CDF,338,UNDET.
+HONEY,Butte,Paradise,39.7596,-121.622,5/22/2007,5/23/2007,CDF,726,MISC.
+BOLLI,Shasta,Shasta Lake,40.68,-122.3627,5/22/2007,5/27/2007,USFS,730,UI
+HORSE,Tulare,Camp Nelson,36.1427,-118.6093,5/28/2007,5/30/2007,CDF,410,ARSON
+SHANNON,Tulare,Camp Nelson,36.1427,-118.6093,6/3/2007,6/4/2007,CDF,2140,EQUIP. USE
+GOLDLEDGE,Tulare,Camp Nelson,36.1427,-118.6093,6/3/2007,6/28/2007,USFS,4196,UI
+INKOPAH,Imperial,Imperial,32.8476,-115.5695,6/5/2007,6/6/2007,CDF,1500,UNDET.
+OAK,Tulare,Camp Nelson,36.1427,-118.6093,6/11/2007,6/17/2007,BIA,500,UI
+DYE,Tehama,Red Bluff,40.1785,-122.2359,6/13/2007,6/16/2007,CDF,387,CAMPFIRE
+PINE,Lassen,Susanville,40.4163,-120.6531,6/23/2007,6/23/2007,CDF,314,DEBRIS
+MOUNTAIN,Kern,Bakersfield,35.3739,-119.0195,6/24/2007,6/25/2007,CDF,761,UI
+ANGORA,El Dorado,Diamond Springs,38.6946,-120.815,6/24/2007,7/2/2007,USFS,3100,CAMPFIRE
+WHITE,Kern,Bakersfield,35.3739,-119.0195,6/24/2007,7/3/2007,CDF,12454,UI
+"CONNER, W",Tehama,Red Bluff,40.1785,-122.2359,6/28/2007,6/28/2007,CDF,446,EQUIP. USE
+RANCHO,Santa Barbara,Santa Barbara,34.4221,-119.7027,6/30/2007,7/3/2007,USFS,482,UI
+ZACA,Santa Barbara,Santa Barbara,34.4221,-119.7027,7/4/2007,9/2/2007,CDF,240207,HUMAN
+MERIDIAN,San Bernardino,San Bernardino,34.1083,-117.2898,7/5/2007,7/6/2007,CDF,467,LIGHTNING
+ANTELOPE COMPLEX,Plumas,East Quincy,39.9341,-120.8981,7/5/2007,7/13/2007,USFS,22902,LIGHTNING
+ROCK 2,Tulare,Camp Nelson,36.1427,-118.6093,7/6/2007,7/7/2007,USFS,1005,UI
+INYO COMPLEX,Inyo,Bishop,37.365,-118.3947,7/6/2007,7/16/2007,USFS,35176,LIGHTNING
+CANYON,Los Angeles,Los Angeles,34.0549,-118.2445,7/7/2007,7/8/2007,CDF,815,UI
+PASS,Mendocino,Willits,39.4096,-123.3556,7/10/2007,7/16/2007,CDF,443,UNDET.
+JUNE,Mono,Mammoth Lakes,37.6433,-118.9669,7/10/2007,7/12/2007,USFS,680,LIGHTNING
+POWER,Shasta,Shasta Lake,40.68,-122.3627,7/10/2007,7/12/2007,CDF,776,UNDET.
+FLETCHER,Modoc,Alturas,41.4871,-120.5424,7/10/2007,7/19/2007,USFS,8121,UI
+ELK COMPLEX,Siskiyou,Yreka,41.7326,-122.6378,7/10/2007,9/15/2007,USFS,17684,LIGHTNING
+CHINA-BACK COMPLEX,Siskiyou,Yreka,41.7326,-122.6378,7/13/2007,7/21/2007,USFS,2906,LIGHTNING
+DIGIER,Kern,Bakersfield,35.3739,-119.0195,7/21/2007,7/22/2007,CDF,364,UI
+32,Butte,Paradise,39.7596,-121.622,8/3/2007,8/7/2007,CDF,382,UI
+BANGOR,Butte,Paradise,39.7596,-121.622,8/7/2007,8/7/2007,CDF,1057,ARSON
+TAR,Kings,Hanford,36.3275,-119.6457,8/10/2007,8/19/2007,CDF,5644,ARSON
+BEAR,Siskiyou,Yreka,41.7326,-122.6378,8/13/2007,8/17/2007,CDF,841,EQUIP. USE
+HWY 128,Yolo,Yolo,38.7318,-121.8078,8/14/2007,8/15/2007,CDF,400,SMOKING
+DUNTON,Stanislaus,Modesto,37.6391,-120.9969,8/16/2007,8/16/2007,CDF,540,EQUIP. USE
+CEMETARY,Santa Barbara,Santa Barbara,34.4221,-119.7027,8/20/2007,8/22/2007,CDF,450,UI
+VISTA,Tulare,Camp Nelson,36.1427,-118.6093,8/22/2007,8/26/2007,USFS,420,UI
+GROUSE,Tulare,Camp Nelson,36.1427,-118.6093,8/27/2007,9/8/2007,USFS,1022,LIGHTNING
+LAZY,Tehama,Red Bluff,40.1785,-122.2359,8/29/2007,9/9/2007,USFS,599,LIGHTNING
+WALLOW,Trinity,Hayfork,40.5543,-123.1831,8/29/2007,9/3/2007,USFS,1440,UI
+QUIEN,San Benito,Pinnacles,36.5308,-121.1452,8/30/2007,9/2/2007,CDF,486,LIGHTNING
+NORTH,Los Angeles,Los Angeles,34.0549,-118.2445,9/2/2007,9/8/2007,USFS,2200,LIGHTNING
+LICK,Santa Clara,Saratoga,37.2638,-122.0231,9/3/2007,9/11/2007,CDF,47760,DEBRIS
+MOONLIGHT,Plumas,East Quincy,39.9341,-120.8981,9/3/2007,9/15/2007,USFS,64997,UI
+BALD,Tuolumne,Tuolumne,37.9608,-120.2375,9/6/2007,9/10/2007,NPS,425,LIGHTNING
+PINE,San Diego,San Diego,32.7174,-117.1628,9/12/2007,9/16/2007,USFS,2170,HUMAN
+BUTLER 2,San Bernardino,San Bernardino,34.1083,-117.2898,9/14/2007,10/1/2007,USFS,14039,UI
+ANGEL,San Diego,San Diego,32.7174,-117.1628,9/15/2007,9/21/2007,CDF,837,CAMPFIRE
+RANCH,Angeles NF,Falling Springs,34.3017,-117.8393,10/20/2007,10/30/2007,USFS,58401,UI
+MCCOY,San Diego,San Diego,32.7174,-117.1628,10/21/2007,10/25/2007,USFS,353,UI
+SEDGEWICK,Santa Barbara,Santa Barbara,34.4221,-119.7027,10/21/2007,10/23/2007,USFS,710,UI
+CANYON,Los Angeles,Los Angeles,34.0549,-118.2445,10/21/2007,10/27/2007,CDF,4521,UI
+SANTIAGO,Orange,Lake Forest,33.6469,-117.686,10/21/2007,11/8/2007,CDF,28400,HUMAN
+BUCKWEED,Los Angeles,Los Angeles,34.0549,-118.2445,10/21/2007,10/26/2007,CDF,38356,UI
+HARRIS,San Diego,San Diego,32.7174,-117.1628,10/21/2007,11/9/2007,CDF,90440,UNDET.
+WITCH,San Diego,San Diego,32.7174,-117.1628,10/21/2007,10/31/2007,CDF,197990,EQUIP. USE
+CORONADO HILLS,San Diego,San Diego,32.7174,-117.1628,10/22/2007,10/23/2007,SMC,300,UI
+GRASS VALLEY,San Bernardino,San Bernardino,34.1083,-117.2898,10/22/2007,10/29/2007,USFS,1247,UI
+MAGIC,Los Angeles,Los Angeles,34.0549,-118.2445,10/22/2007,10/27/2007,CDF,2824,UI
+RICE,San Diego,San Diego,32.7174,-117.1628,10/22/2007,11/5/2007,CDF,9472,HUMAN/OTHER
+SLIDE,San Bernardino,San Bernardino,34.1083,-117.2898,10/22/2007,10/31/2007,USFS,12759,UI
+AMMO FIRE,San Diego,San Diego,32.7174,-117.1628,10/23/2007,10/28/2007,MIL.,21004,UI
+POOMACHA,San Diego,San Diego,32.7174,-117.1628,10/23/2007,11/11/2007,CDF,49410,MISC.
+JACK,Mariposa,Yosemite Valley,37.7344,-119.6065,10/29/2007,12/15/2007,NPS,1108,LIGHTNING
+O'HARRELL,Mono,Mammoth Lakes,37.6433,-118.9669,10/30/2007,11/15/2007,USFS,560,LIGHTNING
+CORRAL,Los Angeles,Los Angeles,34.0549,-118.2445,11/24/2007,11/27/2007,CDF,4901,HUMAN
+"CONTROL BURN, GEYSERS",Lake,Lakeport,39.043,-122.9159,2/13/2008,2/13/2008,LOCAL,400,DEBRIS
+BLUFF,Inyo,Bishop,37.365,-118.3947,3/16/2008,3/20/2008,CDF,680,CAMPFIRE
+WAWONA NW,Mariposa,Yosemite Valley,37.7344,-119.6065,4/9/2008,4/19/2008,"NPS, USFS",1130,0
+JOHNSON VMP,Riverside,Riverside,33.9534,-117.3962,4/11/2008,5/29/2008,LOCAL,424,DEBRIS
+SANTA ANITA,Los Angeles,Los Angeles,34.0549,-118.2445,4/26/2008,5/2/2008,OCAL/LAC,584,1
+APACHE,Riverside,Riverside,33.9534,-117.3962,4/29/2008,5/4/2008,USFS,769,SMOKING
+HONEY BEE,Tulare,Camp Nelson,36.1427,-118.6093,5/6/2008,5/23/2008,USFS,1225,LIGHTNING
+COLYEAR,Tehama,Red Bluff,40.1785,-122.2359,5/6/2008,5/9/2008,CDF,1331,DEBRIS
+BIGHORN,Los Angeles,Los Angeles,34.0549,-118.2445,5/14/2008,5/21/2008,USFS,490,MISC.
+AVOCADO,Fresno,Fresno,36.7394,-119.7849,5/20/2008,5/21/2008,CDF,1100,EQUIP
+GATOS,Fresno,Fresno,36.7394,-119.7849,5/22/2008,5/22/2008,CDF,331,POWERLINES
+SUMMIT,Santa Cruz,Felton,37.0513,-122.0733,5/22/2008,5/27/2008,CDF,4270,UI
+JOHNSON VMP,Riverside,Riverside,33.9534,-117.3962,5/28/2008,5/29/2008,CDF,424,EQUIP
+CLOVER,Tulare,Camp Nelson,36.1427,-118.6093,5/28/2008,7/20/2008,USFS,15300,LIGHTNING
+85,Sonoma,Sonoma,38.2931,-122.4577,6/5/2008,6/6/2008,CDF,322,POWER EQUIP
+GRAPEVINE,Kern,Bakersfield,35.3739,-119.0195,6/6/2008,6/8/2008,CDF/CC,507,UI
+RICHBAR,Kern,Bakersfield,35.3739,-119.0195,6/7/2008,6/8/2008,USFS,312,ARSON
+ACOMA,San Bernardino,San Bernardino,34.1083,-117.2898,6/7/2008,6/10/2008,BLM,356,UI
+INDIANS,Monterey,King City,36.2127,-121.1261,6/8/2008,7/10/2008,USFS,81378,CAMPFIRE
+PINE,Sonoma,Sonoma,38.2931,-122.4577,6/10/2008,6/13/2008,CDF,989,UNDETERMINE
+LAGRANGE,Tuolumne,Tuolumne,37.9608,-120.2375,6/10/2008,6/11/2008,CDF,1346,EQUIP
+Ophir,Butte,Paradise,39.7596,-121.622,6/10/2008,6/13/2008,LOCAL,1600,UI
+41,Madera,Madera Acres,37.0191,-120.0669,6/10/2008,6/11/2008,CDF,3300,EQUIP
+JACKSON,Sacramento,Sacramento,38.5816,-121.4944,6/10/2008,6/12/2008,LOCAL,6400,UI
+MARTIN,Santa Cruz,Felton,37.0513,-122.0733,6/11/2008,6/28/2008,CDF,520,CAMPFIRE
+HUMBOLDT,Butte,Paradise,39.7596,-121.622,6/11/2008,6/21/2008,CDF,23344,ARSON
+WHISKEY,Tehama,Red Bluff,40.1785,-122.2359,6/12/2008,6/22/2008,USFS,7783,MISC.
+TRABING,Santa Cruz,Felton,37.0513,-122.0733,6/20/2008,6/24/2008,CDF,630,EQUIP
+ALBION RIVER LIGHTNING,Mendocino,Willits,39.4096,-123.3556,6/20/2008,6/30/2008,CDF,1000,LIGHTNING
+MAD COMPLEX,Humboldt,Fortuna,40.5974,-124.1561,6/20/2008,7/21/2008,USFS,3705,LIGHTNING
+HELLS HALF COMPLEX,Humboldt,Fortuna,40.5974,-124.1561,6/20/2008,7/28/2008,USFS,15146,LIGHTNING
+UKONOM-SOUTH COMPLEX,Humboldt,Fortuna,40.5974,-124.1561,6/20/2008,9/15/2008,USFS,29327,LIGHTNING
+LIME COMPLEX,Trinity,Hayfork,40.5543,-123.1831,6/20/2008,8/15/2008,USFS/BLM,98715,LIGHTNING
+BRUSHY 3 LIGHTNING,Mendocino,Willits,39.4096,-123.3556,6/21/2008,7/13/2008,CDF,327,LIGHTNING
+OSO LIGHTNING,Mendocino,Willits,39.4096,-123.3556,6/21/2008,7/13/2008,CDF,373,LIGHTNING
+COLEMAN FISH HATCHERY R3,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/2/2008,CDF,388,LIGHTNING
+BRUSHY 1  LIGHTNING,Mendocino,Willits,39.4096,-123.3556,6/21/2008,7/9/2008,CDF,391,LIGHTNING
+SHAMROCK EAST LIGHTNING,Mendocino,Willits,39.4096,-123.3556,6/21/2008,7/12/2008,CDF,469,LIGHTNING
+DONKEY MINE RD/OAK RU,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/2/2008,CDF,557,LIGHTNING
+IGO 13,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/24/2008,CDF,600,LIGHTNING
+SILVER KNOB,Madera,Madera Acres,37.0191,-120.0669,6/21/2008,7/2/2008,USFS,600,LIGHTNING
+BREAKNECK,Butte,Paradise,39.7596,-121.622,6/21/2008,7/9/2008,CDF,715,LIGHTNING
+HUMMINGBIRD,Santa Clara,Saratoga,37.2638,-122.0231,6/21/2008,6/24/2008,CDF,750,LIGHTNING
+LYNCH,Butte,Paradise,39.7596,-121.622,6/21/2008,6/21/2008,CDF,800,MISC.
+PARADISE,Humboldt,Fortuna,40.5974,-124.1561,6/21/2008,8/1/2008,CDF,1076,LIGHTNING
+STEIN,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/7/2008,CDF,1148,LIGHTNING
+IGO 15,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/24/2008,CDF,1200,LIGHTNING
+EO2A,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/6/2008,CDF,1200,LIGHTNING
+FLEA VALLEY,Butte,Paradise,39.7596,-121.622,6/21/2008,6/21/2008,CDF,1248,LIGHTNING
+FLEA VALLEY #2,Butte,Paradise,39.7596,-121.622,6/21/2008,6/21/2008,CDF,1248,MISC.
+LEWISTON 8,Trinity,Hayfork,40.5543,-123.1831,6/21/2008,7/23/2008,CDF,1311,LIGHTNING
+WHITMORE RD/OLD CROW C2,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/15/2008,CDF,2054,LIGHTNING
+OLIVER,Madera,Madera Acres,37.0191,-120.0669,6/21/2008,6/26/2008,USFS,2200,LIGHTNING
+IGO 17,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/24/2008,CDF,2400,LIGHTNING
+NORTH MOUNTAIN,Tuolumne,Tuolumne,37.9608,-120.2375,6/21/2008,7/3/2008,USFS,2889,LIGHTNING
+JACK SMITH LIGHTNING,Mendocino,Willits,39.4096,-123.3556,6/21/2008,7/13/2008,CDF,3000,LIGHTNING
+SQUAW 1 LIGHTNING 2,Mendocino,Willits,39.4096,-123.3556,6/21/2008,7/13/2008,CDF,3000,LIGHTNING
+DAUGHERTY/GATE LIGHTNING,Mendocino,Willits,39.4096,-123.3556,6/21/2008,7/13/2008,CDF,3000,LIGHTNING
+(MERGED WITH YOLLA BOLLY COMPLEX),Mendocino,Willits,39.4096,-123.3556,6/21/2008,6/29/2008,USFS,3000,LIGHTNING
+POPCORN,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,6/22/2008,CDF,3000,LIGHTNING
+WAGERS LIGHTNING,Mendocino,Willits,39.4096,-123.3556,6/21/2008,6/21/2008,CDF,3000,LIGHTNING
+WEST BRANCH,Butte,Paradise,39.7596,-121.622,6/21/2008,6/21/2008,CDF,3206,LIGHTNING
+BROWN COMPLEX,San Benito,Pinnacles,36.5308,-121.1452,6/21/2008,6/24/2008,CDF,3870,LIGHTNING
+STA 57 ONO CDF IGO 2,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/24/2008,CDF,4000,LIGHTNING
+IGO 6,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/24/2008,CDF,4200,LIGHTNING
+IGO 18,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/24/2008,CDF,4200,LIGHTNING
+WILD,NAPA,Napa,38.2971,-122.2856,6/21/2008,6/26/2008,CDF,4200,UI
+YUBA RIVER COMPLEX,Yuba,Yuba City,39.1404,-121.617,6/21/2008,7/15/2008,USFS,4254,LIGHTNING
+MALLO B,Mendocino,Willits,39.4096,-123.3556,6/21/2008,7/17/2008,CDF,4466,LIGHTNING
+IGO 16,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/24/2008,CDF,4800,LIGHTNING
+MOON,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,8/9/2008,CDF,6030,LIGHTNING
+WHISKEYTOWN COMPLEX,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/19/2008,NPS,6420,LIGHTNING
+RED MOUNTAIN 1,Mendocino,Willits,39.4096,-123.3556,6/21/2008,8/1/2008,CDF,7515,LIGHTNING
+PETERSON COMPLEX,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,7/2/2008,USFS,7842,LIGHTNING
+SODA COMPLEX,Lake,Lakeport,39.043,-122.9159,6/21/2008,7/26/2008,USFS,8632,LIGHTNING
+FREY,Butte,Paradise,39.7596,-121.622,6/21/2008,6/21/2008,CDF,10000,MISC.
+PLATINA 4,Trinity,Hayfork,40.5543,-123.1831,6/21/2008,7/4/2008,CDF,12980,LIGHTNING
+CUB COMPLEX,Lassen,Susanville,40.4163,-120.6531,6/21/2008,7/20/2008,USFS,19718,LIGHTNING
+AMERICAN RIVER COMPLEX,Placer,Last Chance,39.1113,-120.6247,6/21/2008,7/30/2008,USFS,20541,LIGHTNING
+LAKEHEAD,Shasta,Shasta Lake,40.68,-122.3627,6/21/2008,8/23/2008,CDF,27936,LIGHTNING
+CANYON COMPLEX,Plumas,East Quincy,39.9341,-120.8981,6/21/2008,9/30/2008,USFS,47680,LIGHTNING
+SISKIYOU / BLUE 2 COMPLEX,Siskiyou,Yreka,41.7326,-122.6378,6/21/2008,6/21/2008,USFS,82186,LIGHTNING
+BASIN COMPLEX,Monterey,King City,36.2127,-121.1261,6/21/2008,7/27/2008,USFS,162818,LIGHTNING
+QUARRY,San Mateo,San Mateo,37.544,-122.3067,6/22/2008,6/29/2008,CDF,300,UI
+ANTELOPE,Tehama,Red Bluff,40.1785,-122.2359,6/22/2008,6/26/2008,USFS,600,LIGHTNING
+CLIFF RIDGE LIGHTNING,Mendocino,Willits,39.4096,-123.3556,6/22/2008,7/12/2008,CDF,1000,LIGHTNING
+VENTURE,Shasta,Shasta Lake,40.68,-122.3627,6/22/2008,7/4/2008,CDF,1912,LIGHTNING
+MILL COMPLEX,Tehama,Red Bluff,40.1785,-122.2359,6/22/2008,6/29/2008,USFS,2100,LIGHTNING
+ORR SPRINGS RD UKV 2,Mendocino,Willits,39.4096,-123.3556,6/22/2008,7/10/2008,CDF,3000,LIGHTNING
+POPCORN,Lassen,Susanville,40.4163,-120.6531,6/22/2008,7/8/2008,CDF,3000,LIGHTNING
+WALKER,Colusa,Colusa,39.2141,-122.0093,6/22/2008,6/29/2008,CDF,15000,HUMAN
+BEAR WALLOW COMPLEX,Siskiyou,Yreka,41.7326,-122.6378,6/22/2008,9/30/2008,USFS,192038,LIGHTNING
+OLIVER,Mariposa,Yosemite Valley,37.7344,-119.6065,6/23/2008,7/6/2008,CDF,2789,LIGHTNING
+CORRAL,Lassen,Susanville,40.4163,-120.6531,6/23/2008,7/7/2008,CDF,12500,LIGHTNING
+MILL CREEK,Tehama,Red Bluff,40.1785,-122.2359,6/24/2008,7/1/2008,CDF,13580,LIGHTNING
+JUAN CREEK LIGHTNING,Mendocino,Willits,39.4096,-123.3556,6/27/2008,7/15/2008,CDF,450,UI
+PIUTE,Kern,Bakersfield,35.3739,-119.0195,6/28/2008,7/25/2008,USFS,37026,MISC.
+HARDY,Mendocino,Willits,39.4096,-123.3556,6/30/2008,6/30/2008,CDF,5581,LIGHTNING
+WIGGLE,Tulare,Camp Nelson,36.1427,-118.6093,7/1/2008,7/2/2008,CDF,450,ARSON
+GAP,Santa Barbara,Santa Barbara,34.4221,-119.7027,7/1/2008,7/28/2008,USFS,9443,MISC.
+DIXIE,Lassen,Susanville,40.4163,-120.6531,7/2/2008,7/4/2008,CDF,350,LIGHTNING
+ORR SPRINGS RD ORR 3,Mendocino,Willits,39.4096,-123.3556,7/3/2008,7/3/2008,CDF,3000,LIGHTNING
+BRUSHY LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/15/2008,CDF,391,LIGHTNING
+BURGER CK LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/12/2008,CDF,528,LIGHTNING
+CASOOSE CREEK LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/4/2008,CDF,550,LIGHTNING
+TRAVIS 3 LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/4/2008,CDF,750,LIGHTNING
+JAMESON LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/13/2008,CDF,925,LIGHTNING
+HORSE LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/8/2008,CDF,1000,UI
+LOST PIPE LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/10/2008,CDF,1200,LIGHTNING
+LOW GAP 1 LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/15/2008,CDF,1700,UI
+JACK SMITH LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/15/2008,CDF,2000,UI
+BUTCH LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/4/2008,CDF,2800,LIGHTNING
+MONTGOMERY FLAT LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/15/2008,CDF,3000,LIGHTNING
+ORR SERIES LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/13/2008,CDF,3000,LIGHTNING
+ALBION LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/4/2008,7/8/2008,CDF,3000,LIGHTNING
+TRAVIS 1 LIGHTNING,Mendocino,Willits,39.4096,-123.3556,7/5/2008,7/5/2008,CDF,650,LIGHTNING
+ALDER CREEK BEACH,Mendocino,Willits,39.4096,-123.3556,7/7/2008,7/7/2008,CDF,1000,LIGHTNING
+DINO IC,Merced,Merced,37.303,-120.4844,7/10/2008,7/11/2008,CDF,800,UNDETERMINE
+TEHIPITE,Fresno,Fresno,36.7394,-119.7849,7/19/2008,11/11/2008,NPS,11596,LIGHTNING
+HWY 152 E/ROMERO VI 113,Merced,Merced,37.303,-120.4844,7/21/2008,7/22/2008,CDF,700,UNDETERMINE
+"PANTHER (transferred to the
+Klamath Theater)",Siskiyou,Yreka,41.7326,-122.6378,7/24/2008,9/30/2008,USFS,72344,LIGHTNING
+RICH,Plumas,East Quincy,39.9341,-120.8981,7/29/2008,8/10/2008,USFS,6112,RAILROAD
+SHERWIN,Mono,Mammoth Lakes,37.6433,-118.9669,8/3/2008,8/8/2008,USFS,300,HUMAN
+CRAIG,Butte,Paradise,39.7596,-121.622,8/3/2008,8/11/2008,CDF,2001,UI
+TURKEY,Monterey,King City,36.2127,-121.1261,8/7/2008,8/8/2008,CDF,400,POWER EQUIP
+SMOKEY,Butte,Paradise,39.7596,-121.622,8/13/2008,8/13/2008,CDF,1324,LIGHTNING
+RIM,Butte,Paradise,39.7596,-121.622,8/13/2008,8/13/2008,CDF,1651,LIGHTNING
+EMPIRE,Butte,Paradise,39.7596,-121.622,8/13/2008,8/3/2008,CDF,2000,LIGHTNING
+CAMP ( BELDON & PIT),Butte,Paradise,39.7596,-121.622,8/13/2008,8/13/2008,CDF,47647,LIGHTNING
+RODEO 2,Tulare,Camp Nelson,36.1427,-118.6093,8/14/2008,8/15/2008,CDF,500,UNDETERMINE
+RODEO,Tulare,Camp Nelson,36.1427,-118.6093,8/14/2008,8/14/2008,CDF,500,UNDETERMINE
+ELK,Tulare,Camp Nelson,36.1427,-118.6093,8/14/2008,8/15/2008,CDF,600,ARSON
+SLINKARD,Siskiyou,Yreka,41.7326,-122.6378,8/17/2008,8/21/2008,USFS,374,LIGHTNING
+JACK,Siskiyou,Yreka,41.7326,-122.6378,8/17/2008,8/22/2008,NPS,6900,LIGHTNING
+AVENAL,Fresno,Fresno,36.7394,-119.7849,8/19/2008,8/20/2008,CDF,946,UI
+GLADDING,Placer,Last Chance,39.1113,-120.6247,9/1/2008,9/3/2008,CDF,1000,UI
+ELMORE,Shasta,Shasta Lake,40.68,-122.3627,9/7/2008,9/9/2008,USFS,343,ARSON
+GULCH,Shasta,Shasta Lake,40.68,-122.3627,9/7/2008,9/11/2008,USFS,2847,EQUIP
+DEERHORN,Humboldt,Fortuna,40.5974,-124.1561,9/8/2008,9/14/2008,USFS,381,UI
+HIDDEN,Tulare,Camp Nelson,36.1427,-118.6093,9/10/2008,9/30/2008,NP,3668,LIGHTNING
+ROBLAR,San Diego,San Diego,32.7174,-117.1628,9/25/2008,9/29/2008,MIL,400,MISC.
+CHALK,Monterey,King City,36.2127,-121.1261,9/25/2008,10/29/2008,USFS,16269,MISC.
+DOME ROCK,Tuolumne,Tuolumne,37.9608,-120.2375,9/30/2008,11/15/2008,USFS,919,LIGHTNING
+NOVEMBER,San Diego,San Diego,32.7174,-117.1628,10/8/2008,10/9/2008,MIL,1400,HUMAN
+DEER,NAPA,Napa,38.2971,-122.2856,10/10/2008,10/14/2008,CDF,300,EQUIP
+ANGEL,Marin,Novato,38.1062,-122.5682,10/12/2008,10/14/2008,CDF/CC,303,UI
+MAREK,Los Angeles,Los Angeles,34.0549,-118.2445,10/12/2008,10/16/2008,USFS,4824,MISC.
+JULIETT,San Diego,San Diego,32.7174,-117.1628,10/13/2008,10/17/2008,MIL,4026,UI
+SESNON,Los Angeles,Los Angeles,34.0549,-118.2445,10/13/2008,10/18/2008,CDF/CC,14703,UI
+WAWONA NW,Mariposa,Yosemite Valley,37.7344,-119.6065,10/14/2008,10/19/2008,NP,450,HUMAN
+LONG,Butte,Paradise,39.7596,-121.622,10/23/2008,10/23/2008,CDF,420,LIGHTNING
+LACKERMAN,Butte,Paradise,39.7596,-121.622,10/23/2008,10/23/2008,CDF,1310,LIGHTNING
+TEA INCIDENT,Santa Barbara,Santa Barbara,34.4221,-119.7027,11/13/2008,11/17/2008,CDF/CC,1940,CAMPFIRE
+SAYRE,Los Angeles,Los Angeles,34.0549,-118.2445,11/14/2008,11/21/2008,CDF/CC,11262,MISC.
+FREEWAY,Riverside,Riverside,33.9534,-117.3962,11/15/2008,11/22/2008,CDF,30305,MISC.
+FORT,San Bernardino,San Bernardino,34.1083,-117.2898,2/5/2009,2/7/2009,CAL FIRE,945,DEBRIS
+JESUSITA,Santa Barbara,Santa Barbara,34.4221,-119.7027,5/5/2009,5/20/2009,USFS,8733,UI
+MUSTANG,Stanislaus,Modesto,37.6391,-120.9969,5/13/2009,5/16/2009,CAL FIRE,570,DEBRIS
+LOST HORSE,Riverside,Riverside,33.9534,-117.3962,5/24/2009,5/26/2009,NPS,450,HUMAN
+OLIVER,Riverside,Riverside,33.9534,-117.3962,5/27/2009,5/27/2009,CAL FIRE,500,OTHER
+TUU LIGHTNING COMPLEX,Tulare,Camp Nelson,36.1427,-118.6093,5/28/2009,5/31/2009,CAL FIRE,485,LIGHTNING
+GROUSE,Mariposa,Yosemite Valley,37.7344,-119.6065,5/30/2009,7/13/2009,USFS,3047,LIGHTNING
+HARDEN,Tuolumne,Tuolumne,37.9608,-120.2375,6/8/2009,7/11/2009,USFS,1661,LIGHTNING
+SHOTGUN,Tulare,Camp Nelson,36.1427,-118.6093,6/17/2009,7/11/2009,USFS,900,LIGHTNING
+EXPLOSIVE,San Joaquin,Stockton,37.9577,-121.2908,6/19/2009,6/19/2009,CAL FIRE,2163,EQUIPMENT
+PARKWAY,Kern,Bakersfield,35.3739,-119.0195,6/22/2009,6/22/2009,CAL FIRE/C,690,EQUIPMENT
+ROCK,Calaveras,Angels Camp,38.0683,-120.5397,6/28/2009,6/28/2009,CAL FIRE,410,POWERLINE
+RUMSEY,Yolo,Yolo,38.7318,-121.8078,6/29/2009,7/2/2009,CAL FIRE,716,UNDETERMINED
+LION COMPLEX,Tulare,Camp Nelson,36.1427,-118.6093,6/30/2009,8/21/2009,USFS,3988,LIGHTNING
+BACKBONE,Trinity,Hayfork,40.5543,-123.1831,7/1/2009,7/24/2009,USFS,6324,LIGHTNING
+SULPHUR,Ventura,Ventura,34.2783,-119.2932,7/11/2009,7/13/2009,USFS,350,UI
+YANKEE,San Diego,San Diego,32.7174,-117.1628,7/11/2009,7/14/2009,MIL,2200,UI
+OSITO,Los Angeles,Los Angeles,34.0549,-118.2445,7/13/2009,7/14/2009,USFS,304,UI
+MAMMOTH,Placer,Last Chance,39.1113,-120.6247,7/16/2009,7/18/2009,CAL FIRE,650,UI
+FORK,Inyo,Bishop,37.365,-118.3947,7/18/2009,7/27/2009,USFS,3268,UI
+TENNANT,Siskiyou,Yreka,41.7326,-122.6378,7/19/2009,7/27/2009,USFS,3225,UI
+KNIGHT,Tuolumne,Tuolumne,37.9608,-120.2375,7/26/2009,8/11/2009,USFS,6130,UI
+ASH,Madera,Madera Acres,37.0191,-120.0669,7/27/2009,7/29/2009,CAL FIRE,300,EQUIPMENT
+WILDCAT,Tuolumne,Tuolumne,37.9608,-120.2375,7/29/2009,8/31/2009,USFS/NPS,1100,LIGHTNING
+PONDEROSA,Monterey,King City,36.2127,-121.1261,8/1/2009,8/7/2009,USFS,458,UI
+W-4,Lassen,Susanville,40.4163,-120.6531,8/1/2009,8/7/2009,BLM,1500,LIGHTNING
+HAT CREEK COMPLEX,Shasta,Shasta Lake,40.68,-122.3627,8/1/2009,8/12/2009,USFS,11269,LIGHTNING
+BROWN (H-31)(Part of HAT CR,Shasta,Shasta Lake,40.68,-122.3627,8/2/2009,8/12/2009,USFS,1000,LIGHTNING
+FAIRFIELD,Shasta,Shasta Lake,40.68,-122.3627,8/2/2009,8/21/2009,USFS,1664,LIGHTNING
+GOMEZ (SHU COMPLEX),Shasta,Shasta Lake,40.68,-122.3627,8/3/2009,8/17/2009,CAL FIRE,404,LIGHTNING
+GOOSE (SHU COMPLEX),Shasta,Shasta Lake,40.68,-122.3627,8/3/2009,8/17/2009,CAL FIRE,3918,LIGHTNING
+CASSEL (SHU COMPLEX),Shasta,Shasta Lake,40.68,-122.3627,8/3/2009,8/14/2009,CAL FIRE,6319,LIGHTNING
+CHALK (SHU COMPLEX),Shasta,Shasta Lake,40.68,-122.3627,8/3/2009,8/16/2009,CAL FIRE,6895,LIGHTNING
+LA BREA,Santa Barbara,Santa Barbara,34.4221,-119.7027,8/8/2009,8/23/2009,USFS,89489,HUMAN
+COFFIN,Trinity,Hayfork,40.5543,-123.1831,8/12/2009,8/15/2009,CAL FIRE,1300,HUMAN
+LOCKHEED,Santa Cruz,Felton,37.0513,-122.0733,8/12/2009,8/23/2009,CAL FIRE,7817,UI
+CORRAL,San Joaquin,Stockton,37.9577,-121.2908,8/13/2009,8/16/2009,CAL FIRE,12200,OTHER
+YUBA,Yuba,Yuba City,39.1404,-121.617,8/14/2009,8/24/2009,CAL FIRE,3891,UNDETERMINED
+ELEPHANT,Plumas,East Quincy,39.9341,-120.8981,8/16/2009,8/21/2009,USFS,448,UI
+RED ROCK,Siskiyou,Yreka,41.7326,-122.6378,8/21/2009,9/4/2009,USFS,1364,HUMAN
+MORRIS,Los Angeles,Los Angeles,34.0549,-118.2445,8/25/2009,9/3/2009,USFS,2168,UI
+RIDGE,San Diego,San Diego,32.7174,-117.1628,8/26/2009,8/29/2009,MIL,500,UI
+BRYSON,Monterey,King City,36.2127,-121.1261,8/26/2009,8/29/2009,CAL FIRE,3383,STRUCTURE (EX
+BIG MEADOWS,Mariposa,Yosemite Valley,37.7344,-119.6065,8/26/2009,9/10/2009,USFS,7425,HUMAN
+STATION,Los Angeles,Los Angeles,34.0549,-118.2445,8/26/2009,10/16/2009,USFS,160577,HUMAN
+DAY,Lassen,Susanville,40.4163,-120.6531,8/27/2009,8/30/2009,CAL FIRE,853,UNDETERMINED
+COTTONWOOD,Riverside,Riverside,33.9534,-117.3962,8/27/2009,8/31/2009,USFS,2409,UI
+GLORIA,Monterey,King City,36.2127,-121.1261,8/27/2009,9/1/2009,CAL FIRE,6437,EQUIPMENT
+PACHECO,Santa Clara,Saratoga,37.2638,-122.0231,8/29/2009,8/30/2009,CAL FIRE,1600,EQUIPMENT
+FORTY NINE,Placer,Last Chance,39.1113,-120.6247,8/30/2009,9/1/2009,CAL FIRE,311,ARSON
+OAK GLEN III,San Bernardino,San Bernardino,34.1083,-117.2898,8/30/2009,9/8/2009,CAL FIRE,1159,HUMAN
+PENDLETON,San Bernardino,San Bernardino,34.1083,-117.2898,8/31/2009,9/4/2009,MIL,860,HUMAN
+OASIS,Lake,Lakeport,39.043,-122.9159,9/7/2009,9/12/2009,CAL FIRE,1500,OPEN/OUTDOORS
+SILVER,Plumas,East Quincy,39.9341,-120.8981,9/19/2009,9/21/2009,USFS,307,UI
+VAIL,Riverside,Riverside,33.9534,-117.3962,9/19/2009,9/20/2009,CAL FIRE,398,EQUIPMENT
+GUIBERSON,Ventura,Ventura,34.2783,-119.2932,9/22/2009,10/1/2009,CALFIRE/CC,17500,UI
+CRAFTON,San Bernardino,San Bernardino,34.1083,-117.2898,9/23/2009,9/26/2009,CALFIRE,347,UNDETERMINED
+POWER,Tulare,Camp Nelson,36.1427,-118.6093,9/27/2009,9/29/2009,USFS,326,UI
+SIX (not in nfirs),Yolo,Yolo,38.7318,-121.8078,10/1/2009,10/1/2009,LOCAL,1235,UI
+SHEEP,San Bernardino,San Bernardino,34.1083,-117.2898,10/3/2009,10/10/2009,USFS,7128,UI
+MILL CREEK #4,Humboldt,Fortuna,40.5974,-124.1561,10/7/2009,10/17/2009,BIA,2750,UI
+LOMA,Santa Cruz,Felton,37.0513,-122.0733,10/25/2009,10/27/2009,CAL FIRE,485,UNDETERMINED
+HERNRICK VMP,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,11/14/2009,11/14/2009,CAL FIRE,600,DEBRIS
+DOE,Glenn,Glenn,39.5218,-122.0139,11/28/2009,11/29/2009,USFS,550,HUMAN
+PEDLEY,Riverside,Riverside,33.9534,-117.3962,5/12/2010,5/13/2010,CALFIRE,850,UI
+METZEN,Kern,Bakersfield,35.3739,-119.0195,5/15/2010,5/15/2010,CALFIRE/CC,360,OTHER
+COTTON,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,5/15/2010,5/17/2010,USFS,2044,UI
+MCKINLEY,Riverside,Riverside,33.9534,-117.3962,5/20/2010,5/22/2010,CALFIRE,1000,HUMAN
+BALE,Tulare,Camp Nelson,36.1427,-118.6093,6/4/2010,6/4/2010,CALFIRE,485,EQUIPMENT
+CHILDS,Merced,Merced,37.303,-120.4844,6/5/2010,6/5/2010,CALFIRE,462,HUMAN
+WHITES,Fresno,Fresno,36.7394,-119.7849,6/7/2010,6/7/2010,CALFIRE,350,EQUIPMENT
+STUHR,Stanislaus,Modesto,37.6391,-120.9969,6/8/2010,6/10/2010,CALFIRE,586,EQUIPMENT
+ROBINSON,Merced,Merced,37.303,-120.4844,6/11/2010,6/12/2010,CALFIRE,1600,UI
+DIABLO,Alameda,Pleasanton,37.6624,-121.8747,6/18/2010,6/19/2010,CALFIRE,475,
+PALERMO,Butte,Paradise,39.7596,-121.622,7/4/2010,7/5/2010,CALFIRE,900,MISUSE OF FIRE
+166,Santa Barbara,Santa Barbara,34.4221,-119.7027,7/12/2010,7/12/2010,CALFIRE/CC,350,UNDETERMINE
+ALISO,San Diego,San Diego,32.7174,-117.1628,7/13/2010,7/15/2010,MILITARY/USFS,3225,
+SKINNER,Riverside,Riverside,33.9534,-117.3962,7/15/2010,7/18/2010,CALFIRE,503,LIGHTNING
+BODFISH,Kern,Bakersfield,35.3739,-119.0195,7/15/2010,7/18/2010,USFS,552,LIGHTNING
+CACTUS,Riverside,Riverside,33.9534,-117.3962,7/15/2010,7/18/2010,CALFIRE,720,LIGHTNING
+SAND 2,Kern,Bakersfield,35.3739,-119.0195,7/16/2010,7/22/2010,USFS,1254,LIGHTNING
+SHEEP,Fresno,Fresno,36.7394,-119.7849,7/16/2010,7/16/2010,NPS,8967,LIGHTNING
+INDIAN,Kern,Bakersfield,35.3739,-119.0195,7/18/2010,7/24/2010,USFS,1822,LIGHTNING
+PATATO,Mono,Mammoth Lakes,37.6433,-118.9669,7/24/2010,7/27/2010,USFS,686,
+SLOPE,Tuolumne,Tuolumne,37.9608,-120.2375,7/25/2010,7/25/2010,NPS,1711,LIGHTNING
+MONO,Mono,Mammoth Lakes,37.6433,-118.9669,7/26/2010,7/29/2010,USFS,1205,LIGHTNING
+BULL,Kern,Bakersfield,35.3739,-119.0195,7/26/2010,8/10/2010,USFS,16442,HUMAN
+WEST,Kern,Bakersfield,35.3739,-119.0195,7/27/2010,8/6/2010,CALFIRE,1650,EQUIPMENT
+MCDONALD,Lassen,Susanville,40.4163,-120.6531,7/27/2010,8/10/2010,USFS,9408,LIGHTNING
+BRIGGS,Los Angeles,Los Angeles,34.0549,-118.2445,7/29/2010,7/30/2010,USFS,510,UI
+CROWN,Los Angeles,Los Angeles,34.0549,-118.2445,7/29/2010,8/3/2010,CALFIRE/CC,14000,UNDETERMINED
+DUTCH,Siskiyou,Yreka,41.7326,-122.6378,7/31/2010,8/4/2010,USFS,371,UI
+BAR,Plumas,East Quincy,39.9341,-120.8981,7/31/2010,8/10/2010,USFS,1040,UI
+BUCKHORN,Madera,Madera Acres,37.0191,-120.0669,8/7/2010,8/7/2010,USFS,466,LIGHTNING
+VERNON,Tuolumne,Tuolumne,37.9608,-120.2375,8/8/2010,8/8/2010,NPS,909,LIGHTNING
+PINECREST,Tuolumne,Tuolumne,37.9608,-120.2375,8/9/2010,10/15/2010,USFS,799,LIGHTNING
+STOKES 2,Tulare,Camp Nelson,36.1427,-118.6093,8/17/2010,8/18/2010,CALFIRE,879,HUMAN
+BASELINE,Placer,Last Chance,39.1113,-120.6247,8/20/2010,8/21/2010,CALFIRE,434,UNDETERMINE
+MONTE,San Diego,San Diego,32.7174,-117.1628,8/21/2010,8/23/2010,CAL FIRE,929,UI
+POZO,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,8/21/2010,8/22/2010,CALFIRE,1200,UNDETERMINE
+CURRY,Contra Costa,Concord,37.9769,-122.0336,8/24/2010,8/31/2010,CALFIRE/CC,375,OTHER
+INDIAN,Lake,Lakeport,39.043,-122.9159,8/24/2010,8/26/2010,CALFIRE,450,UNDETERMINE
+POST,Kern,Bakersfield,35.3739,-119.0195,8/25/2010,8/28/2010,CALFIRE/CC,1312,UNDETERMINE
+BULLARD,Yuba,Yuba City,39.1404,-121.617,8/27/2010,8/31/2010,USFS,1307,HUMAN
+COWBOY,San Diego,San Diego,32.7174,-117.1628,9/2/2010,9/7/2010,CAL FIRE,827,UI
+CANYON,Kern,Bakersfield,35.3739,-119.0195,9/12/2010,9/19/2010,USFS,9820,HUMAN
+WINTERTON,Inyo,Bishop,37.365,-118.3947,3/9/2011,3/9/2011,CALFIRE,395,DEBRIS
+CENTER,Inyo,Bishop,37.365,-118.3947,3/18/2011,3/20/2011,CALFIRE,850,UNDETERMINED
+METZ,Monterey,King City,36.2127,-121.1261,5/12/2011,5/14/2011,CALFIRE,832,OTHER
+COVE,Kern,Bakersfield,35.3739,-119.0195,5/27/2011,5/31/2011,USFS,1122,UI
+CATTLEMAN,Monterey,King City,36.2127,-121.1261,5/29/2011,5/29/2011,CALFIRE,382,OTHER
+COUGAR,Modoc,Alturas,41.4871,-120.5424,6/8/2011,6/13/2011,USFS,2000,HUMAN
+IKEA,Kern,Bakersfield,35.3739,-119.0195,6/12/2011,6/12/2011,LOCAL,640,OTHER
+ANTELOPE,Kern,Bakersfield,35.3739,-119.0195,6/19/2011,6/21/2011,LOCAL,5200,UNDETERMINE
+QUINN,Kern,Bakersfield,35.3739,-119.0195,6/21/2011,6/22/2011,LOCAL,3154,UNDETERMINE
+EASTMAN,Stanislaus,Modesto,37.6391,-120.9969,6/24/2011,6/24/2011,CAL FIRE,330,OTHER
+HIGHWAY,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,6/24/2011,6/24/2011,CAL FIRE,387,EQUIPMENT
+REST,Merced,Merced,37.303,-120.4844,6/26/2011,6/26/2011,CAL FIRE,575,OTHER
+STAGE,Tulare,Camp Nelson,36.1427,-118.6093,6/27/2011,7/2/2011,CALFIRE,1213,EQUIPMENT
+SPANISH,Humboldt,Fortuna,40.5974,-124.1561,7/1/2011,7/5/2011,CALFIRE,498,HUMAN
+CHRISMAN,San Joaquin,Stockton,37.9577,-121.2908,7/5/2011,7/5/2011,CALFIRE,400,EQUIPMENT
+CARBON CANYON,Orange,Lake Forest,33.6469,-117.686,7/7/2011,7/8/2011,LOCAL,508,UNDETERMINE
+LION,Tulare,Camp Nelson,36.1427,-118.6093,7/8/2011,10/10/2011,USFS,20500,LIGHTNING
+KRISTA,Yuba,Yuba City,39.1404,-121.617,7/9/2011,7/11/2011,CALFIRE,360,EQUIPMENT
+GRANITE,Tulare,Camp Nelson,36.1427,-118.6093,7/9/2011,7/12/2011,CALFIRE,780,UNDETERMINED
+FLYNN,Alameda,Pleasanton,37.6624,-121.8747,7/14/2011,7/14/2011,CALFIRE,500,EQUIPMENT
+SCORPION COMPLEX,Modoc,Alturas,41.4871,-120.5424,7/15/2011,7/18/2011,USFS,2945,UI
+FLYNN,Alameda,Pleasanton,37.6624,-121.8747,7/21/2011,7/22/2011,CALFIRE,545,INCENDIARY
+EAGLE,San Diego,San Diego,32.7174,-117.1628,7/21/2011,7/29/2011,CALFIRE,14100,INCENDIARY
+ROMERO,Merced,Merced,37.303,-120.4844,7/23/2011,7/23/2011,CALFIRE,489,UNDETERMINED
+ROMERO,Merced,Merced,37.303,-120.4844,7/23/2011,7/23/2011,CALFIRE,489,UNDETERMINE
+AVALANCHE,Mariposa,Yosemite Valley,37.7344,-119.6065,7/31/2011,10/1/2011,NPS,817,LIGHTNING
+PASS,Mendocino,Willits,39.4096,-123.3556,8/3/2011,8/7/2011,CALFIRE,616,EQUIPMENT
+GILMAN,Riverside,Riverside,33.9534,-117.3962,8/6/2011,8/7/2011,CALFIRE,945,UNDETERMINE
+KNOXVILLE,NAPA,Napa,38.2971,-122.2856,8/13/2011,8/15/2011,CALFIRE,506,UNDETERMINE
+ANNIE,Modoc,Alturas,41.4871,-120.5424,8/18/2011,8/21/2011,USFS,2076,UI
+ONION,Siskiyou,Yreka,41.7326,-122.6378,8/19/2011,9/10/2011,USFS,562,LIGHTNING
+KEN,San Bernardino,San Bernardino,34.1083,-117.2898,8/22/2011,8/24/2011,USFS,373,UI
+MOTOR,Mariposa,Yosemite Valley,37.7344,-119.6065,8/25/2011,9/4/2011,USFS,5231,
+OASIS,Los Angeles,Los Angeles,34.0549,-118.2445,8/27/2011,8/30/2011,LAC,355,UI
+BEACON,Solano,Fairfield,38.2494,-122.04,8/27/2011,8/27/2011,CALFIRE,715,UI
+WELLS,San Bernardino,San Bernardino,34.1083,-117.2898,8/28/2011,8/31/2011,USFS,1723,LIGHTNING
+KELLER,Riverside,Riverside,33.9534,-117.3962,8/29/2011,8/31/2011,CALFIRE,458,EQUIPMENT
+HILL,San Bernardino,San Bernardino,34.1083,-117.2898,9/2/2011,9/8/2011,CALFIRE,1135,UNDETERMINE
+FIGUEROA,Santa Barbara,Santa Barbara,34.4221,-119.7027,9/3/2011,9/5/2011,LOCAL,698,UI
+SODA,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,9/3/2011,9/4/2011,CALFIRE,1528,EQUIPMENT
+WILLOWS,Tulare,Camp Nelson,36.1427,-118.6093,9/4/2011,9/7/2011,USFS,310,UI
+ROADRUNNER,Tulare,Camp Nelson,36.1427,-118.6093,9/4/2011,9/5/2011,CALFIRE,335,UNDETERMINED
+CANYON,Kern,Bakersfield,35.3739,-119.0195,9/4/2011,9/11/2011,LOCAL,14585,EQUIPMENT
+WAGON WHEEL,Los Angeles,Los Angeles,34.0549,-118.2445,9/5/2011,9/6/2011,LOCAL,500,UI
+MILTON,San Joaquin,Stockton,37.9577,-121.2908,9/9/2011,9/11/2011,CALFIRE,1122,LIGHTNING
+KEENE COMPLEX,Kern,Bakersfield,35.3739,-119.0195,9/10/2011,9/14/2011,LOCAL,2577,LIGHTNING
+BRECKENRIDGE COMPLEX,Kern,Bakersfield,35.3739,-119.0195,9/10/2011,9/17/2011,LOCAL,25213,LIGHTNING
+COMANCHE COMPLEX,Kern,Bakersfield,35.3739,-119.0195,9/10/2011,9/17/2011,LOCAL,29338,LIGHTNING
+TENNESSEE,Tulare,Camp Nelson,36.1427,-118.6093,9/11/2011,9/12/2011,CALFIRE,380,LIGHTNING
+LONG,El Dorado,Diamond Springs,38.6946,-120.815,9/13/2011,10/1/2011,USFS,483,LIGHTNING
+TAMARACK,Mariposa,Yosemite Valley,37.7344,-119.6065,9/13/2011,10/17/2011,NPS,1011,LIGHTNING
+JOHN,Inyo,Bishop,37.365,-118.3947,9/13/2011,9/16/2011,CALFIRE,5300,EQUIPMENT
+BURST COMPLEX,Tuolumne,Tuolumne,37.9608,-120.2375,9/15/2011,9/15/2011,USFS,508,LIGHTNING
+MINT,Los Angeles,Los Angeles,34.0549,-118.2445,9/17/2011,9/18/2011,LOCA L,634,UI
+TUU SEPT.. LIGHTNING,Tulare,Camp Nelson,36.1427,-118.6093,9/23/2011,9/25/2011,CALFIRE,350,LIGHTNING
+OLD FIRE,Kern,Bakersfield,35.3739,-119.0195,9/23/2011,9/24/2011,LOCAL,410,LIGHTNING
+RUTH,Trinity,Hayfork,40.5543,-123.1831,9/23/2011,9/28/2011,USFS,1460,UI
+65 FIRE,Kern,Bakersfield,35.3739,-119.0195,9/23/2011,9/23/2011,LOCAL,2005,LIGHTNING
+WINDY POINT,Riverside,Riverside,33.9534,-117.3962,9/25/2011,9/26/2011,USFS,541,UI
+BUCKEYE,Mono,Mammoth Lakes,37.6433,-118.9669,9/25/2011,9/27/2011,LOCAL,1140,LIGHTNING
+GREAT,San Diego,San Diego,32.7174,-117.1628,10/1/2011,10/7/2011,CALFIRE,2135,UNDETERMINED
+ENF WIND COMPLEX,El Dorado,Diamond Springs,38.6946,-120.815,12/1/2011,12/1/2011,USFS,541,HUMAN
+BLUE,Tuolumne,Tuolumne,37.9608,-120.2375,12/1/2011,12/6/2011,CALFIRE,735,UI
+RIVER,Mariposa,Yosemite Valley,37.7344,-119.6065,5/18/2012,5/22/2012,CALFIRE,320,UNDETERMINED
+BANNER 4,San Diego,San Diego,32.7174,-117.1628,5/24/2012,5/29/2012,CAL FIRE,5320,UNDETERMINED
+BILLY,Merced,Merced,37.303,-120.4844,5/31/2012,5/31/2012,CAL FIRE,434,ELECTRICAL
+5 MILE,Los Angeles,Los Angeles,34.0549,-118.2445,6/8/2012,6/9/2012,CAL FIRE,525,EQUIPMENT
+LASSEN,Fresno,Fresno,36.7394,-119.7849,6/12/2012,6/13/2012,CALFIRE,418,UNDETERMINED
+GAINES,Mariposa,Yosemite Valley,37.7344,-119.6065,6/12/2012,6/14/2012,CAL FIRE,1700,ELECTRICAL
+OZENA,Ventura,Ventura,34.2783,-119.2932,6/16/2012,6/17/2012,USFS,361,UI
+CASCADE,Mariposa,Yosemite Valley,37.7344,-119.6065,6/16/2012,11/26/2012,NPS,1705,LIGHTNING
+HIGHLAND,Riverside,Riverside,33.9534,-117.3962,6/16/2012,6/18/2012,CAL FIRE,2171,UNDETERMINED
+VIEW,Riverside,Riverside,33.9534,-117.3962,6/17/2012,6/18/2012,CAL FIRE,375,ELECTRICAL
+OLD 2,San Diego,San Diego,32.7174,-117.1628,6/17/2012,6/20/2012,CAL FIRE,995,UNDETERMINED
+GULCH,Kern,Bakersfield,35.3739,-119.0195,6/19/2012,6/21/2012,USFS,385,HUMAN
+HILL,Ventura,Ventura,34.2783,-119.2932,6/23/2012,6/27/2012,USFS,689,UI
+DALE,Shasta,Shasta Lake,40.68,-122.3627,7/5/2012,7/7/2012,CALFIRE,1083,UNDETERMINED
+FISH,Inyo,Bishop,37.365,-118.3947,7/7/2012,7/9/2012,CAL FIRE,1103,UNDETERMINED
+MILL,Colusa,Colusa,39.2141,-122.0093,7/7/2012,7/18/2012,USFS,29502,UI
+SITES,Colusa,Colusa,39.2141,-122.0093,7/8/2012,7/9/2012,CAL FIRE,365,UNDETERMINED
+GRAPEVINE,Colusa,Colusa,39.2141,-122.0093,7/8/2012,7/12/2012,CAL FIRE,1870,UNDETERMINED
+RAIL,Colusa,Colusa,39.2141,-122.0093,7/9/2012,7/12/2012,CAL FIRE,1870,UNDETERMINED
+TURKEY,Monterey,King City,36.2127,-121.1261,7/9/2012,7/10/2012,CAL FIRE,2529,EQUIPMENT
+SEVEN,Tuolumne,Tuolumne,37.9608,-120.2375,7/10/2012,7/11/2012,CAL FIRE,840,UNDETERMINED
+FLAT,Trinity,Hayfork,40.5543,-123.1831,7/11/2012,7/17/2012,USFS,1688,UI
+ROBBERS,Placer,Last Chance,39.1113,-120.6247,7/11/2012,7/21/2012,CALFIRE,2650,ARSON
+WOODS CREEK,Fresno,Fresno,36.7394,-119.7849,7/15/2012,7/21/2012,USFS,325,LIGHTNING
+CALF,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,7/16/2012,7/18/2012,CALFIRE,640,EQUIPMENT
+SAND,Kern,Bakersfield,35.3739,-119.0195,7/17/2012,7/19/2012,CALFIRE,1428,EQUIPMENT
+SPANISH,Lassen,Susanville,40.4163,-120.6531,7/18/2012,7/21/2012,USFS,1169,N/A
+FOREST,Yolo,Yolo,38.7318,-121.8078,7/21/2012,7/24/2012,CALFIRE,520,EQUIPMENT
+READING,Shasta,Shasta Lake,40.68,-122.3627,7/23/2012,8/21/2012,NPS,28079,LIGHTNING
+PASKENTA,Tehama,Red Bluff,40.1785,-122.2359,7/25/2012,7/25/2012,CALFIRE,300,VEHICLE
+GRAPE,Kern,Bakersfield,35.3739,-119.0195,7/28/2012,7/29/2012,CALFIRE,370,UNDETERMINED
+NORTH,Mendocino,Willits,39.4096,-123.3556,7/28/2012,7/30/2012,CALFIRE,383,UNDETERMINED
+PEAK,Plumas,East Quincy,39.9341,-120.8981,7/29/2012,8/2/2012,USFS,800,UI
+CHIPS,Plumas,East Quincy,39.9341,-120.8981,7/29/2012,8/31/2012,USFS,75217,UI
+VOLCANO,Riverside,Riverside,33.9534,-117.3962,8/1/2012,8/5/2012,CALFIRE,356,EQUIPMENT
+SALT CREEK,Shasta,Shasta Lake,40.68,-122.3627,8/1/2012,8/4/2012,USFS,980,UI
+DILLON,Siskiyou,Yreka,41.7326,-122.6378,8/3/2012,8/7/2012,USFS,318,HUMAN
+RUSHMORE,Riverside,Riverside,33.9534,-117.3962,8/4/2012,8/4/2012,CALFIRE,1000,UNDETERMINED
+PIUTE COMLEX,Kern,Bakersfield,35.3739,-119.0195,8/4/2012,8/11/2012,USFS,1783,LIGHTNING
+BEAR,Fresno,Fresno,36.7394,-119.7849,8/5/2012,8/12/2012,USFS,835,LIGHTNING
+LAKE COMPLEX,Modoc,Alturas,41.4871,-120.5424,8/5/2012,8/9/2012,USFS,1668,LIGHTNING
+FORT COMPLEX,Siskiyou,Yreka,41.7326,-122.6378,8/5/2012,9/10/2012,USFS,23653,LIGHTNING
+BARRYPOINT (CA LAND),Modoc,Alturas,41.4871,-120.5424,8/6/2012,8/28/2012,USFS,38394,LIGHTNING
+INDIAN,Mono,Mammoth Lakes,37.6433,-118.9669,8/8/2012,8/15/2012,USFS,12574,LIGHTNING
+CHIHUAHUA 2,San Diego,San Diego,32.7174,-117.1628,8/9/2012,8/12/2012,CALFIRE,2006,LIGHTNING
+SOUTH COMPLEX,Inyo,Bishop,37.365,-118.3947,8/10/2012,10/16/2012,USFS,453,LIGHTNING
+JAWBONE COMPLEX,Kern,Bakersfield,35.3739,-119.0195,8/10/2012,8/22/2012,NPS/BLM,1218,LIGHTNING
+RAMSEY,Calaveras,Angels Camp,38.0683,-120.5397,8/11/2012,8/31/2012,USFS,1137,CAMPFIRE
+WYE,Colusa,Colusa,39.2141,-122.0093,8/12/2012,8/18/2012,CALFIRE,2934,UNDETERMINED
+WALKER,Colusa,Colusa,39.2141,-122.0093,8/12/2012,8/14/2012,CALFIRE,5000,UNDETERMINED
+RUSH,Lassen,Susanville,40.4163,-120.6531,8/12/2012,8/31/2012,NPS/BLM,271911,LIGHTNING
+MILL,Tehama,Red Bluff,40.1785,-122.2359,8/13/2012,8/23/2012,CALFIRE,1641,ARSON
+VALLECITO LIGHTNING COMPLEX,San Diego,San Diego,32.7174,-117.1628,8/13/2012,8/20/2012,CALFIRE,22829,LIGHTNING
+BUCK,Riverside,Riverside,33.9534,-117.3962,8/14/2012,8/18/2012,CALFIRE,2681,LIGHTNING
+NELSON (W-1),Modoc,Alturas,41.4871,-120.5424,8/17/2012,8/21/2012,NPS/BLM,3661,LIGHTNING
+BAGLEY COMPLEX,Shasta,Shasta Lake,40.68,-122.3627,8/18/2012,8/22/2012,NPS,1000,LIGHTNING
+PONDEROSA,Tehama,Red Bluff,40.1785,-122.2359,8/18/2012,9/2/2012,CALFIRE,27676,LIGHTNING
+NORTH PASS,Mendocino,Willits,39.4096,-123.3556,8/18/2012,9/1/2012,USFS,41983,LIGHTNING
+BAGLEY,Shasta,Shasta Lake,40.68,-122.3627,8/18/2012,9/1/2012,USFS,46011,LIGHTNING
+VISTA,Riverside,Riverside,33.9534,-117.3962,8/20/2012,8/21/2012,CALFIRE,500,EQUIPMENT
+ANTELOPE,Modoc,Alturas,41.4871,-120.5424,8/21/2012,8/25/2012,NPS,650,LIGHTNING
+WILLIAMS,Los Angeles,Los Angeles,34.0549,-118.2445,9/2/2012,9/11/2012,USFS,4192,UI
+SIXTEEN COMPLEX,Colusa,Colusa,39.2141,-122.0093,9/4/2012,9/11/2012,CALFIRE,19000,UNDETERMINED
+STAFFORD,Trinity,Hayfork,40.5543,-123.1831,9/5/2012,9/13/2012,USFS,4407,UI
+LIKELY,Lassen,Susanville,40.4163,-120.6531,9/5/2012,9/14/2012,USFS,9838,HUMAN
+SCOTTS,Lake,Lakeport,39.043,-122.9159,9/7/2012,9/14/2012,CALFIRE,4517,CAMPFIRE
+WARD,Shasta,Shasta Lake,40.68,-122.3627,9/11/2012,9/14/2012,USFS,550,UI
+SHOCKEY,San Diego,San Diego,32.7174,-117.1628,9/23/2012,9/27/2012,CAL FIRE,2555,UNDETERMINED
+RANGE,Riverside,Riverside,33.9534,-117.3962,9/29/2012,10/1/2012,CAL FIRE,351,MISC
+TWENTY NINE,Lake,Lakeport,39.043,-122.9159,10/18/2012,10/21/2012,CAL FIRE,300,ELECTRICAL
+DEVORE,San Bernardino,San Bernardino,34.1083,-117.2898,11/5/2012,11/6/2012,USFS,335,UI
+BECKS,Lake,Lakeport,39.043,-122.9159,1/22/2013,1/23/2013,CAL FIRE,335,DEBRIS BURNING
+RIVER,Inyo,Bishop,37.365,-118.3947,2/24/2013,2/28/2013,CAL FIRE,407,VEHICLE
+JURUPA,Riverside,Riverside,33.9534,-117.3962,2/28/2013,3/2/2013,CAL FIRE,300,UNDETERMINED
+SUMMIT,Riverside,Riverside,33.9534,-117.3962,5/1/2013,5/4/2013,CAL FIRE,2956,UNDETERMINED
+PANTHER,Tehama,Red Bluff,40.1785,-122.2359,5/1/2013,5/9/2013,CALFIRE,6896,HUMAN
+SPRINGS,Ventura,Ventura,34.2783,-119.2932,5/2/2013,5/9/2013,CC,24251,UI
+FOSTER,Mendocino,Willits,39.4096,-123.3556,5/3/2013,5/5/2013,CAL FIRE,300,DEBRIS BURNING
+TRES PINOS,San Benito,Pinnacles,36.5308,-121.1452,5/3/2013,5/4/2013,CAL FIRE,354,EQUIPMENT
+GORGONIO,Riverside,Riverside,33.9534,-117.3962,5/4/2013,5/4/2013,CAL FIRE,650,UNDETERMINED
+GRAND,Kern,Bakersfield,35.3739,-119.0195,5/15/2013,5/22/2013,USFS,4346,UI
+LAKE,Los Angeles,Los Angeles,34.0549,-118.2445,5/17/2013,5/20/2013,CC,712,HUMAN
+FELIPE,San Diego,San Diego,32.7174,-117.1628,5/23/2013,5/29/2013,CAL FIRE,2650,HUMAN
+RIVER,Merced,Merced,37.303,-120.4844,5/26/2013,5/27/2013,CAL FIRE,450,HUMAN
+GENERAL,San Diego,San Diego,32.7174,-117.1628,5/26/2013,5/31/2013,CAL FIRE,2500,HUMAN
+WHITE,Santa Barbara,Santa Barbara,34.4221,-119.7027,5/27/2013,6/5/2013,USFS,1984,HUMAN
+SHELTON,San Joaquin,Stockton,37.9577,-121.2908,5/30/2013,5/30/2013,CAL FIRE,303,EQUIPMENT
+POWERHOUSE,Los Angeles,Los Angeles,34.0549,-118.2445,5/30/2013,6/10/2013,USFS,30274,UI
+BRANCH,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,6/1/2013,6/4/2013,USFS,486,UI
+ROLLING,Madera,Madera Acres,37.0191,-120.0669,6/16/2013,6/18/2013,CAL FIRE,480,VEHICLE
+CARSTENS,Mariposa,Yosemite Valley,37.7344,-119.6065,6/16/2013,6/26/2013,USFS,1708,HUMAN
+MILL,San Bernardino,San Bernardino,34.1083,-117.2898,6/28/2013,7/2/2013,CAL FIRE,534,HUMAN
+KIRKER,Contra Costa,Concord,37.9769,-122.0336,7/1/2013,7/2/2013,CAL FIRE,492,ELECTRICAL POWER
+FOX,Modoc,Alturas,41.4871,-120.5424,7/3/2013,7/7/2013,CAL FIRE,502,LIGHTNING
+CHARIOT,San Diego,San Diego,32.7174,-117.1628,7/6/2013,7/15/2013,CAL FIRE,7055,UNDETERMINED
+KYBURZ,El Dorado,Diamond Springs,38.6946,-120.815,7/8/2013,7/11/2013,USFS,572,HUMAN
+MOUNTAIN,Riverside,Riverside,33.9534,-117.3962,7/15/2013,7/31/2013,CAL FIRE,27531,ELECTRICAL POWER
+RANCHO,Kern,Bakersfield,35.3739,-119.0195,7/19/2013,7/22/2013,CC,500,UNDETERMINED
+ASPEN,Fresno,Fresno,36.7394,-119.7849,7/22/2013,9/8/2013,USFS,22992,LIGHTNING
+WATER,Kern,Bakersfield,35.3739,-119.0195,7/23/2013,7/25/2013,CC,612,HUMAN
+DANCE,Humboldt,Fortuna,40.5974,-124.1561,7/29/2013,8/2/2013,USFS,577,UI
+FORKS COMPLEX,Siskiyou,Yreka,41.7326,-122.6378,7/31/2013,10/1/2013,USFS,37246,HUMAN
+POWER,Tuolumne,Tuolumne,37.9608,-120.2375,8/5/2013,8/13/2013,USFS,1070,UI
+FALLS,Riverside,Riverside,33.9534,-117.3962,8/5/2013,8/9/2013,USFS,1383,UI
+SILVER,Riverside,Riverside,33.9534,-117.3962,8/7/2013,8/15/2013,CAL FIRE,20292,UNDETERMINED
+CORRAL COMPLEX,Humboldt,Fortuna,40.5974,-124.1561,8/10/2013,10/2/2013,USFS,12503,LIGHTNING
+AMERICAN,Placer,Last Chance,39.1113,-120.6247,8/11/2013,8/29/2013,USFS,27440,UI
+SWEDES,Butte,Paradise,39.7596,-121.622,8/16/2013,8/22/2013,CAL FIRE,2264,EQUIPMENT
+RIM,Tuolumne,Tuolumne,37.9608,-120.2375,8/17/2013,10/27/2013,USFS,257314,UI
+HOUGH COMPLEX,Plumas,East Quincy,39.9341,-120.8981,8/18/2013,8/24/2013,USFS,513,LIGHTNING
+SHIRLEY COMPLEX,Kern,Bakersfield,35.3739,-119.0195,8/18/2013,8/22/2013,USFS,794,LIGHTNING
+GOBBLERS,San Bernardino,San Bernardino,34.1083,-117.2898,8/20/2013,8/30/2013,USFS,413,LIGHTNING
+MISSION,Monterey,King City,36.2127,-121.1261,8/22/2013,8/25/2013,USFS,4500,HUMAN
+WINDY PEAK,Fresno,Fresno,36.7394,-119.7849,8/23/2013,10/20/2013,USFS,681,LIGHTNING
+FISH,Tulare,Camp Nelson,36.1427,-118.6093,8/23/2013,9/5/2013,USFS,2060,LIGHTNING
+DEER,Tehama,Red Bluff,40.1785,-122.2359,8/23/2013,8/29/2013,CAL FIRE,11429,ELECTRICAL POWER
+MORGAN,Contra Costa,Concord,37.9769,-122.0336,9/8/2013,9/14/2013,CAL FIRE,3100,HUMAN
+CLOVER,Shasta,Shasta Lake,40.68,-122.3627,9/9/2013,9/15/2013,CAL FIRE,8073,UNDETERMINED
+PUTAH,NAPA,Napa,38.2971,-122.2856,10/3/2013,10/4/2013,CAL FIRE,376,UNDETERMINED
+SUMMIT,Butte,Paradise,39.7596,-121.622,10/4/2013,10/5/2013,CAL FIRE,305,MISCELLANEOUS
+DELUZ,San Diego,San Diego,32.7174,-117.1628,10/5/2013,10/9/2013,DOD,2236,UI
+MCCABE,Sonoma,Sonoma,38.2931,-122.4577,11/22/2013,11/28/2013,CAL FIRE,3505,ELECTRICAL POWER
+HIGHGLADE,Lake,Lakeport,39.043,-122.9159,11/23/2013,11/29/2013,USFS,305,UI
+PFEIFFER,Monterey,King City,36.2127,-121.1261,12/16/2013,12/20/2013,USFS,917,UI
+CAMPBELL,Tehama,Red Bluff,40.1785,-122.2359,1/2/2014,1/10/2014,USFS,865,HUMAN
+RED,Humboldt,Fortuna,40.5974,-124.1561,1/4/2014,1/12/2014,CAL FIRE,333,DEBRIS BURNING
+SODA,Tulare,Camp Nelson,36.1427,-118.6093,1/14/2014,4/19/2014,USFS,1612,UNDETERMINED
+COLBY,Los Angeles,Los Angeles,34.0549,-118.2445,1/16/2014,1/24/2014,USFS,1952,UNDETERMINED
+PIERCE,Riverside,Riverside,33.9534,-117.3962,3/15/2014,3/16/2014,LOCAL,350,ARSON
+ETIWANDA,San Bernardino,San Bernardino,34.1083,-117.2898,4/30/2014,5/1/2014,USFS,2200,HUMAN
+MIGUELITO,Santa Barbara,Santa Barbara,34.4221,-119.7027,5/13/2014,5/16/2014,LOCAL,632,UNDETERMINED
+BERNARDO,San Diego,San Diego,32.7174,-117.1628,5/13/2014,5/21/2014,LOCAL,1548,EQUIPMENT USE
+POINSETTIA,San Diego,San Diego,32.7174,-117.1628,5/14/2014,5/17/2014,LOCAL,600,UNDETERMINED
+SAN DIEGO COMPLEX,San Diego,San Diego,32.7174,-117.1628,5/14/2014,5/22/2014,CAL FIRE,2438,UNDETERMINED
+BASILONE COMPLEX,San Diego,San Diego,32.7174,-117.1628,5/17/2014,5/19/2014,MIL,21240,UNDETERMINED
+HUNTER,Mariposa,Yosemite Valley,37.7344,-119.6065,5/26/2014,6/4/2014,CAL FIRE,677,UNDETERMINED
+59,Tuolumne,Tuolumne,37.9608,-120.2375,6/4/2014,6/9/2014,CAL FIRE,402,VEHICLE
+SHIRLEY,Kern,Bakersfield,35.3739,-119.0195,6/13/2014,6/21/2014,USFS,2545,UNDETERMINED
+GUN CLUB,Merced,Merced,37.303,-120.4844,6/19/2014,6/19/2014,CAL FIRE,400,DEBRIS BURNING
+STONY,Monterey,King City,36.2127,-121.1261,6/19/2014,6/22/2014,MIL,4840,HUMAN
+MODOC JULY COMPLEX,Modoc,Alturas,41.4871,-120.5424,7/1/2014,7/7/2014,USFS,2566,LIGHTNING
+BUTTS,NAPA,Napa,38.2971,-122.2856,7/1/2014,7/10/2014,CAL FIRE,4300,EQUIPMENT USE
+MONTICELLO,Yolo,Yolo,38.7318,-121.8078,7/4/2014,7/13/2014,CAL FIRE,6488,HUMAN
+NICOLLS,Kern,Bakersfield,35.3739,-119.0195,7/11/2014,7/19/2014,USFS,1680,UNDETERMINED
+BULLY,Shasta,Shasta Lake,40.68,-122.3627,7/11/2014,7/23/2014,CAL FIRE,12661,VEHICLE
+DARK HOLE,Mariposa,Yosemite Valley,37.7344,-119.6065,7/16/2014,8/20/2014,NPS,1077,LIGHTNING
+GUN CLUB,Merced,Merced,37.303,-120.4844,7/24/2014,8/2/2014,CAL FIRE,422,HUMAN
+SAND,El Dorado,Diamond Springs,38.6946,-120.815,7/25/2014,8/3/2014,CAL FIRE,4240,VEHICLE
+KELLEY,Merced,Merced,37.303,-120.4844,7/26/2014,7/26/2014,CAL FIRE,1000,UNDETERMINED
+EL PORTAL,Mariposa,Yosemite Valley,37.7344,-119.6065,7/26/2014,8/4/2014,NPS,4689,UNDETERMINED
+FRENCH,Madera,Madera Acres,37.0191,-120.0669,7/28/2014,8/18/2014,USFS,13838,HUMAN
+WEB,Butte,Paradise,39.7596,-121.622,7/29/2014,8/27/2014,CAL FIRE,378,EQUIPMENT USE
+COFFEE COMPLEX,Trinity,Hayfork,40.5543,-123.1831,7/30/2014,8/31/2014,USFS,6258,LIGHTNING
+LODGE COMPLEX,Mendocino,Willits,39.4096,-123.3556,7/30/2014,9/21/2014,CAL FIRE,12535,LIGHTNING
+DAY,Modoc,Alturas,41.4871,-120.5424,7/30/2014,8/13/2014,CAL FIRE,13153,LIGHTNING
+KNF BEAVER,Siskiyou,Yreka,41.7326,-122.6378,7/30/2014,8/30/2014,USFS,32496,LIGHTNING
+BALD,Shasta,Shasta Lake,40.68,-122.3627,7/30/2014,8/16/2014,USFS,39736,LIGHTNING
+LITTLE DEER,Siskiyou,Yreka,41.7326,-122.6378,7/31/2014,8/11/2014,USFS,5503,LIGHTNING
+EILER,Shasta,Shasta Lake,40.68,-122.3627,7/31/2014,8/24/2014,USFS,32416,UNDETERMINED
+JULY COMPLEX,Siskiyou,Yreka,41.7326,-122.6378,8/3/2014,9/25/2014,USFS,50042,LIGHTNING
+THIRTY ONE 2,Yolo,Yolo,38.7318,-121.8078,8/9/2014,8/9/2014,CAL FIRE,370,VEHICLE
+HAPPY CAMP COMPLEX,Siskiyou,Yreka,41.7326,-122.6378,8/14/2014,10/31/2014,USFS,134056,LIGHTNING
+MEADOW,Mariposa,Yosemite Valley,37.7344,-119.6065,8/15/2014,9/29/2014,NPS,4772,UNDETERMINED
+JUNCTION,Madera,Madera Acres,37.0191,-120.0669,8/18/2014,8/25/2014,CAL FIRE,612,UNDETERMINED
+WAY,Kern,Bakersfield,35.3739,-119.0195,8/18/2014,8/28/2014,USFS,4045,UNDETERMINED
+OREGON,Trinity,Hayfork,40.5543,-123.1831,8/24/2014,8/30/2014,CAL FIRE,461,VEHICLE
+GULCH,Shasta,Shasta Lake,40.68,-122.3627,9/10/2014,9/15/2014,CAL FIRE,1300,VEHICLE
+SILVERADO,Orange,Lake Forest,33.6469,-117.686,9/12/2014,9/20/2014,USFS,985,UNDETERMINED
+BLACK,Mendocino,Willits,39.4096,-123.3556,9/13/2014,9/17/2014,CAL FIRE,403,EQUIPMENT USE
+KING,El Dorado,Diamond Springs,38.6946,-120.815,9/13/2014,10/9/2014,USFS,97717,HUMAN
+COURTNEY,Madera,Madera Acres,37.0191,-120.0669,9/14/2014,9/22/2014,CAL FIRE,320,UNDETERMINED
+TRACT 17,Glenn,Glenn,39.5218,-122.0139,9/17/2014,9/19/2014,FWS,395,HUMAN
+NELSON,Butte,Paradise,39.7596,-121.622,9/18/2014,9/21/2014,CAL FIRE,500,ELECTRICAL POWER
+DOG ROCK,Mariposa,Yosemite Valley,37.7344,-119.6065,10/7/2014,10/12/2014,NPS,311,UNDETERMINED
+APPLEGATE,Placer,Last Chance,39.1113,-120.6247,10/8/2014,10/22/2014,CAL FIRE,459,UNDETERMINED
+VAN DYKE,Mono,Mammoth Lakes,37.6433,-118.9669,2/6/2015,2/10/2015,USFS,509,UNDETERMINED
+ROUND,Inyo,Bishop,37.365,-118.3947,2/6/2015,2/13/2015,CAL FIRE,7000,UNDETERMINED
+HIGHWAY,Riverside,Riverside,33.9534,-117.3962,4/18/2015,4/24/2015,CAL FIRE,1049,EQUIPMENT
+MORTAR,San Diego,San Diego,32.7174,-117.1628,4/28/2015,4/29/2015,DOD,800,UNDETERMINED
+CARL,San Diego,San Diego,32.7174,-117.1628,4/28/2015,4/29/2015,DOD,4000,UNDETERMINED
+GRENADE,San Diego,San Diego,32.7174,-117.1628,4/29/2015,5/5/2015,DOD,2025,UNDETERMINED
+FOREBAY,Merced,Merced,37.303,-120.4844,5/11/2015,5/12/2015,CAL FIRE,692,VEHICLE
+SADDLE,Trinity,Hayfork,40.5543,-123.1831,6/9/2015,6/25/2015,USFS,1542,LIGHTNING
+PEANUT,Monterey,King City,36.2127,-121.1261,6/11/2015,6/11/2015,DOD,1532,UNDETERMINED
+LAKE,San Bernardino,San Bernardino,34.1083,-117.2898,6/17/2015,7/5/2015,USFS,31359,UNDETERMINED
+SKY,Madera,Madera Acres,37.0191,-120.0669,6/18/2015,6/26/2015,USFS,500,VEHICLE
+CORRINE,Madera,Madera Acres,37.0191,-120.0669,6/18/2015,6/24/2015,CAL FIRE,920,ELECTRICAL POWER
+PARKHILL,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,6/20/2015,6/20/2015,CAL FIRE,1791,VEHICLE
+CALGROVE,Los Angeles,Los Angeles,34.0549,-118.2445,6/24/2015,6/26/2015,LAC,415,UNDETERMINED
+IONE,Sacramento,Sacramento,38.5816,-121.4944,7/2/2015,7/5/2015,CAL FIRE,357,ARSON
+YORK,Siskiyou,Yreka,41.7326,-122.6378,7/4/2015,7/6/2015,CAL FIRE,395,LIGHTNING
+NORTH,San Bernardino,San Bernardino,34.1083,-117.2898,7/17/2015,7/21/2015,USFS,4250,UNDETERMINED
+MCCABE,Merced,Merced,37.303,-120.4844,7/18/2015,7/22/2015,CAL FIRE,1600,LIGHTNING
+CABIN,Tulare,Camp Nelson,36.1427,-118.6093,7/19/2015,9/5/2015,USFS,6980,LIGHTNING
+TRIPLE 3,Tulare,Camp Nelson,36.1427,-118.6093,7/21/2015,7/21/2015,CAL FIRE,430,LIGHTNING
+WRAGG,NAPA,Napa,38.2971,-122.2856,7/22/2015,8/6/2015,CAL FIRE,8051,VEHICLE
+WILLOW,Madera,Madera Acres,37.0191,-120.0669,7/25/2015,8/15/2015,USFS,5702,UNDETERMINED
+SWEDES,Butte,Paradise,39.7596,-121.622,7/29/2015,8/16/2015,CAL FIRE,400,DEBRIS BURNING
+ROCKY,Lake,Lakeport,39.043,-122.9159,7/29/2015,8/14/2015,CAL FIRE,69636,EQUIPMENT
+FROG,Modoc,Alturas,41.4871,-120.5424,7/30/2015,8/6/2015,USFS,4863,LIGHTNING
+HUMBOLDT COMPLEX,Humboldt,Fortuna,40.5974,-124.1561,7/30/2015,8/21/2015,CAL FIRE,4883,LIGHTNING
+ROUTE COMPLEX,Humboldt,Fortuna,40.5974,-124.1561,7/30/2015,8/31/2015,USFS,35675,LIGHTNING
+FORK COMPLEX,Trinity,Hayfork,40.5543,-123.1831,7/30/2015,8/29/2015,USFS,36499,UNDETERMINED
+MAD RIVER COMPLEX,Trinity,Hayfork,40.5543,-123.1831,7/30/2015,9/3/2015,USFS,37462,LIGHTNING
+RIVER COMPLEX,Trinity,Hayfork,40.5543,-123.1831,7/30/2015,10/15/2015,USFS,77081,LIGHTNING
+CREEK,Merced,Merced,37.303,-120.4844,7/31/2015,7/31/2015,CAL FIRE,1450,VEHICLE
+GASQUET COMPLEX,Del Norte,Crescent City,41.7559,-124.2018,7/31/2015,10/15/2015,USFS,30361,LIGHTNING
+ROUGH,Fresno,Fresno,36.7394,-119.7849,7/31/2015,12/1/2015,USFS,151623,LIGHTNING
+NICKOWITZ,Del Norte,Crescent City,41.7559,-124.2018,8/1/2015,9/30/2015,USFS,7509,LIGHTNING
+SOUTH COMPLEX,Trinity,Hayfork,40.5543,-123.1831,8/1/2015,10/1/2015,USFS,29416,LIGHTNING
+DODGE,Lassen,Susanville,40.4163,-120.6531,8/3/2015,8/17/2015,BLM,10570,HUMAN
+JERUSALEM,Lake,Lakeport,39.043,-122.9159,8/9/2015,8/25/2015,CAL FIRE,25118,UNDETERMINED
+ANZA,Riverside,Riverside,33.9534,-117.3962,8/10/2015,8/15/2015,CAL FIRE,500,HUMAN
+HORNO,San Diego,San Diego,32.7174,-117.1628,8/13/2015,8/17/2015,DOD,1846,HUMAN
+CABIN,Los Angeles,Los Angeles,34.0549,-118.2445,8/14/2015,8/20/2015,USFS,1723,UNDETERMINED
+WALKER,Mono,Mammoth Lakes,37.6433,-118.9669,8/14/2015,8/31/2015,USFS,3676,UNDETERMINED
+WARM,Los Angeles,Los Angeles,34.0549,-118.2445,8/16/2015,8/19/2015,USFS,300,UNDETERMINED
+CUESTA,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,8/16/2015,9/3/2015,CAL FIRE,2446,VEHICLE
+DEER,Kern,Bakersfield,35.3739,-119.0195,8/18/2015,8/20/2015,KRN,311,UNDETERMINED
+TESLA,Alameda,Pleasanton,37.6624,-121.8747,8/19/2015,8/25/2015,CAL FIRE,2850,UNDETERMINED
+ELK,Lake,Lakeport,39.043,-122.9159,9/2/2015,9/6/2015,CAL FIRE,700,EQUIPMENT
+TENAYA,Mariposa,Yosemite Valley,37.7344,-119.6065,9/7/2015,9/16/2015,USFS,415,UNDETERMINED
+BUTTE,Amador,Amador City,38.4194,-120.8242,9/9/2015,10/23/2015,CAL FIRE,70868,ELECTRICAL POWER
+LUMPKIN,Butte,Paradise,39.7596,-121.622,9/11/2015,9/21/2015,CAL FIRE,1040,ARSON
+VALLEY,Lake,Lakeport,39.043,-122.9159,9/12/2015,10/15/2015,CAL FIRE,76067,ELECTRICAL POWER
+TASSAJARA,Monterey,King City,36.2127,-121.1261,9/19/2015,9/29/2015,CAL FIRE,1086,UNDETERMINED
+MERIDIAN,Butte,Paradise,39.7596,-121.622,10/3/2015,10/4/2015,CAL FIRE,860,EQUIPMENT
+CIENEGA,San Benito,Pinnacles,36.5308,-121.1452,10/12/2015,10/16/2015,CAL FIRE,690,ELECTRICAL POWER
+SOLIMAR,Ventura,Ventura,34.2783,-119.2932,12/25/2015,12/28/2015,VNC,1288,UNDETERMINED
+CAMP ROBERTS,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,5/18/2016,5/20/2016,MIL,3712,UNDETERMINED
+METZ,Monterey,King City,36.2127,-121.1261,5/22/2016,5/25/2016,CAL FIRE,3876,DEBRIS BURNING
+CHIMNEY,Tulare,Camp Nelson,36.1427,-118.6093,6/1/2016,6/7/2016,BLM,1324,HUMAN
+STONY,Monterey,King City,36.2127,-121.1261,6/2/2016,6/17/2016,USFS,3000,UNDETERMINED
+OLD,Los Angeles,Los Angeles,34.0549,-118.2445,6/4/2016,6/10/2016,LOCAL,465,UNDETERMINED
+SODA,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,6/4/2016,6/6/2016,BLM,2003,UNDETERMINED
+COLEMAN,Monterey,King City,36.2127,-121.1261,6/4/2016,6/17/2016,USFS,2520,UNDETERMINED
+PONY,Siskiyou,Yreka,41.7326,-122.6378,6/7/2016,10/2/2016,USFS,2860,UNDETERMINED
+SHERPA,Santa Barbara,Santa Barbara,34.4221,-119.7027,6/15/2016,6/23/2016,USFS,7474,UNDETERMINED
+BORDER 3,San Diego,San Diego,32.7174,-117.1628,6/19/2016,7/1/2016,CAL FIRE,7609,UNDETERMINED
+RESERVOIR,Los Angeles,Los Angeles,34.0549,-118.2445,6/20/2016,7/5/2016,USFS,1146,HUMAN
+FISH,Los Angeles,Los Angeles,34.0549,-118.2445,6/20/2016,7/5/2016,USFS,4253,HUMAN
+ERSKINE,Kern,Bakersfield,35.3739,-119.0195,6/23/2016,7/9/2016,USFS,48019,UNDETERMINED
+MARINA,Mono,Mammoth Lakes,37.6433,-118.9669,6/24/2016,7/4/2016,USFS,654,UNDETERMINED
+DINOSAUR,Merced,Merced,37.303,-120.4844,6/25/2016,6/26/2016,CAL FIRE,1246,VEHICLE
+BOULDER COMPLEX,Plumas,East Quincy,39.9341,-120.8981,6/25/2016,7/5/2006,USFS,3500,LIGHTNING
+LAKES,Mariposa,Yosemite Valley,37.7344,-119.6065,6/26/2016,10/31/2016,NPS,1001,LIGHTNING
+RANCHO,Sacramento,Sacramento,38.5816,-121.4944,6/28/2016,6/30/2016,CAL FIRE,372,VEHICLE
+TRAILHEAD,Placer,Last Chance,39.1113,-120.6247,6/28/2016,8/14/2016,CAL FIRE,5645,UNDETERMINED
+COLYEAR,Tehama,Red Bluff,40.1785,-122.2359,6/30/2016,7/6/2016,CAL FIRE,464,ELECTRICAL POWER
+PINE,Ventura,Ventura,34.2783,-119.2932,6/30/2016,7/17/2016,USFS,2304,UNDETERMINED
+DEER,Kern,Bakersfield,35.3739,-119.0195,7/1/2016,7/10/2016,CC,1785,UNDETERMINED
+CURRY,Fresno,Fresno,36.7394,-119.7849,7/1/2016,7/4/2016,CAL FIRE,2944,UNDETERMINED
+APPALOOSA,Calaveras,Angels Camp,38.0683,-120.5397,7/2/2016,7/15/2016,CAL FIRE,310,ELECTRICAL POWER
+FIDDLER,Shasta,Shasta Lake,40.68,-122.3627,7/8/2016,7/9/2016,CAL FIRE,303,ARSON
+FORT,Kern,Bakersfield,35.3739,-119.0195,7/8/2016,7/9/2016,CC,554,UNDETERMINED
+SAGE,Los Angeles,Los Angeles,34.0549,-118.2445,7/9/2016,7/16/2016,CC,1100,CAMPFIRE
+PACHECO,Calaveras,Angels Camp,38.0683,-120.5397,7/12/2016,7/18/2016,CAL FIRE,341,EQUIPMENT
+ROBLAR,San Diego,San Diego,32.7174,-117.1628,7/21/2016,7/27/2016,MIL,1245,UNDETERMINED
+SAND,Los Angeles,Los Angeles,34.0549,-118.2445,7/22/2016,8/6/2016,USFS,41383,UNDETERMINED
+SOBERANES,Monterey,King City,36.2127,-121.1261,7/22/2016,8/28/2016,CAL FIRE,103242,CAMPFIRE
+GOOSE,Fresno,Fresno,36.7394,-119.7849,7/30/2016,8/9/2016,CAL FIRE,2241,ARSON
+99,Butte,Paradise,39.7596,-121.622,8/2/2016,8/8/2016,CAL FIRE,520,PLAYING WITH FIRE
+COLD,Yolo,Yolo,38.7318,-121.8078,8/2/2016,8/12/2016,CAL FIRE,5731,UNDETERMINED
+CLARK,Mono,Mammoth Lakes,37.6433,-118.9669,8/4/2016,8/12/2016,USFS,2819,LIGHTNING
+PILOT,San Bernardino,San Bernardino,34.1083,-117.2898,8/7/2016,8/16/2016,USFS,8110,UNDETERMINED
+MINERAL,Fresno,Fresno,36.7394,-119.7849,8/8/2016,8/19/2016,CAL FIRE,7050,ARSON
+HORSESHOE,Inyo,Bishop,37.365,-118.3947,8/9/2016,8/17/2016,USFS,369,UNDETERMINED
+CLAYTON,Lake,Lakeport,39.043,-122.9159,8/13/2016,9/3/2016,CAL FIRE,3929,ARSON
+CHIMNEY,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,8/13/2016,9/7/2016,CAL FIRE,46235,VEHICLE
+CEDAR,Kern,Bakersfield,35.3739,-119.0195,8/16/2016,9/24/2016,USFS,29322,UNDETERMINED
+BLUECUT,San Bernardino,San Bernardino,34.1083,-117.2898,8/16/2016,9/8/2016,USFS,36274,UNDETERMINED
+BEALE,Yuba,Yuba City,39.1404,-121.617,8/18/2016,8/19/2016,CAL FIRE,389,MISCELLANEOUS
+REY,Santa Barbara,Santa Barbara,34.4221,-119.7027,8/18/2016,9/15/2016,USFS,32606,UNDETERMINED
+MOKELUMNE,Alpine,Markleeville,38.6949,-119.7803,8/19/2016,9/20/2016,USFS,655,LIGHTNING
+TULE,Tulare,Camp Nelson,36.1427,-118.6093,8/22/2016,8/22/2016,USFS,395,UNDETERMINED
+TULLY,Humboldt,Fortuna,40.5974,-124.1561,8/22/2016,9/9/2016,CAL FIRE,599,ARSON
+GRADE,Siskiyou,Yreka,41.7326,-122.6378,8/24/2016,9/10/2016,CAL FIRE,710,ELECTRICAL POWER
+RANGE,Kern,Bakersfield,35.3739,-119.0195,8/26/2016,8/31/2016,CC,600,HUMAN
+HAVILA,Kern,Bakersfield,35.3739,-119.0195,8/27/2016,8/31/2016,CC,304,UNDETERMINED
+WILLOW,Calaveras,Angels Camp,38.0683,-120.5397,8/28/2016,9/4/2016,CAL FIRE,450,VEHICLE
+BOGART,Riverside,Riverside,33.9534,-117.3962,8/30/2016,9/5/2016,CAL FIRE,1470,UNDETERMINED
+SADDLE,Butte,Paradise,39.7596,-121.622,9/5/2016,9/22/2016,CAL FIRE,800,VEHICLE
+HOWARD,Modoc,Alturas,41.4871,-120.5424,9/11/2016,9/15/2016,CAL FIRE,380,RAILROAD
+WILLARD,Lassen,Susanville,40.4163,-120.6531,9/11/2016,10/12/2016,CAL FIRE,2575,UNDETERMINED
+HOG,Tehama,Red Bluff,40.1785,-122.2359,9/13/2016,9/13/2016,CAL FIRE,321,ELECTRICAL POWER
+CROWN,Fresno,Fresno,36.7394,-119.7849,9/15/2016,10/31/2016,USFS,800,LIGHTNING
+SOUP COMPLEX,Modoc,Alturas,41.4871,-120.5424,9/17/2016,10/31/2016,USFS,2722,UNDETERMINED
+OWENS RIVER,Mono,Mammoth Lakes,37.6433,-118.9669,9/17/2016,10/15/2016,USFS,5443,UNDETERMINED
+CANYON,Santa Barbara,Santa Barbara,34.4221,-119.7027,9/17/2016,9/24/2016,MIL,12742,UNDETERMINED
+FLAT,Kern,Bakersfield,35.3739,-119.0195,9/19/2016,9/22/2016,CC,307,EQUIPMENT
+SAWMILL,Sonoma,Sonoma,38.2931,-122.4577,9/25/2016,10/1/2016,CAL FIRE,1547,UNDETERMINED
+MARSHES,Tuolumne,Tuolumne,37.9608,-120.2375,9/26/2016,10/4/2016,CAL FIRE,1080,VEHICLE
+LOMA,Santa Clara,Saratoga,37.2638,-122.0231,9/26/2016,11/8/2016,CAL FIRE,4474,UNDETERMINED
+SLATE,Tulare,Camp Nelson,36.1427,-118.6093,10/4/2016,11/5/2016,USFS,2160,LIGHTNING
+SACATA,Fresno,Fresno,36.7394,-119.7849,10/11/2016,10/19/2016,USFS,2100,UNDETERMINED
+JACOBSON,Tulare,Camp Nelson,36.1427,-118.6093,10/20/2016,11/1/2016,USFS,1702,UNDETERMINED
+MEADOW,Tulare,Camp Nelson,36.1427,-118.6093,10/29/2016,11/22/2016,USFS,4347,LIGHTNING
+HIDDEN,Tulare,Camp Nelson,36.1427,-118.6093,11/2/2016,11/23/2016,USFS,2768,LIGHTNING
+WEST,Modoc,Alturas,41.4871,-120.5424,4/1/2017,4/1/2017,BLM,401,HUMAN
+JAYNE,Fresno,Fresno,36.7394,-119.7849,4/20/2017,4/21/2017,CAL FIRE,4533,EQUIPMENT USE
+EL DORADO,Fresno,Fresno,36.7394,-119.7849,4/28/2017,4/28/2017,CAL FIRE,750,UNDETERMINED
+OPERA,Riverside,Riverside,33.9534,-117.3962,4/30/2017,5/2/2017,CAL FIRE,1350,UNDETERMINED
+WRIGHT,Merced,Merced,37.303,-120.4844,5/12/2017,5/13/2017,CAL FIRE,1680,UNDETERMINED
+ELM 2,Fresno,Fresno,36.7394,-119.7849,5/18/2017,5/21/2017,CAL FIRE,10000,ELECTRICAL POWER
+DELUZ,San Diego,San Diego,32.7174,-117.1628,5/19/2017,5/22/2017,DOD,486,HUMAN
+MING,Kern,Bakersfield,35.3739,-119.0195,5/20/2017,5/21/2017,CC,506,UNDER INVESTIGATION
+GATE,San Diego,San Diego,32.7174,-117.1628,5/20/2017,5/22/2017,CAL FIRE,2056,UNDETERMINED
+DINELY,Tulare,Camp Nelson,36.1427,-118.6093,6/7/2017,6/10/2017,CAL FIRE,339,EQUIPMENT USE
+OAKWOOD,Madera,Madera Acres,37.0191,-120.0669,6/10/2017,6/13/2017,CAL FIRE,1417,SHOOTING
+MONTEREY,Fresno,Fresno,36.7394,-119.7849,6/11/2017,6/11/2017,CAL FIRE,450,SHOOTING
+LAKE,Los Angeles,Los Angeles,34.0549,-118.2445,6/17/2017,6/23/2017,USFS,800,UNDER INVESTIGATION
+HOLCOMB,San Bernardino,San Bernardino,34.1083,-117.2898,6/21/2017,6/29/2017,USFS,1503,UNDER INVESTIGATION
+HIGHWAY,Kern,Bakersfield,35.3739,-119.0195,6/21/2017,6/25/2017,USFS,1522,UNDER INVESTIGATION
+CREEK,Fresno,Fresno,36.7394,-119.7849,6/23/2017,6/27/2017,CAL FIRE,357,DEBRIS BURNING
+SCHAEFFER,Tulare,Camp Nelson,36.1427,-118.6093,6/24/2017,8/5/2017,USFS,16031,LIGHTNING
+PLACERITA,Los Angeles,Los Angeles,34.0549,-118.2445,6/25/2017,6/28/2017,LOCAL,870,UNDER INVESTIGATION
+HILL,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,6/26/2017,6/28/2017,CAL FIRE,1626,VEHICLE
+MANZANITA,Riverside,Riverside,33.9534,-117.3962,6/26/2017,6/30/2017,CAL FIRE,6309,VEHICLE
+MART,San Bernardino,San Bernardino,34.1083,-117.2898,6/27/2017,7/1/2017,USFS,670,UNDER INVESTIGATION
+BEN,Mariposa,Yosemite Valley,37.7344,-119.6065,6/28/2017,7/6/2017,CAL FIRE,558,VEHICLE
+BATTLE,Modoc,Alturas,41.4871,-120.5424,6/28/2017,7/1/2017,USFS,640,UNDER INVESTIGATION
+CRISTIANITOS,San Diego,San Diego,32.7174,-117.1628,6/28/2017,7/1/2017,DOD,761,UNDER INVESTIGATION
+TARINA,Kern,Bakersfield,35.3739,-119.0195,6/30/2017,7/1/2017,CC,1200,UNDER INVESTIGATION
+DERRICK,Fresno,Fresno,36.7394,-119.7849,7/2/2017,7/5/2017,CAL FIRE,1562,UNDETERMINED
+FAY,Siskiyou,Yreka,41.7326,-122.6378,7/5/2017,7/31/2017,CAL FIRE,496,MISCELLANEOUS
+QUAL COMPLEX,Kern,Bakersfield,35.3739,-119.0195,7/6/2017,7/6/2017,CC,1626,UNDER INVESTIGATION
+ALAMO,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,7/6/2017,7/22/2017,CAL FIRE,28687,UNDER INVESTIGATION
+WALL,Butte,Paradise,39.7596,-121.622,7/7/2017,8/3/2017,CAL FIRE,6033,ELECTRICAL POWER
+PARKFIELD,Monterey,King City,36.2127,-121.1261,7/8/2017,7/8/2017,CAL FIRE,1816,ELECTRICAL POWER
+WHITTIER,Santa Barbara,Santa Barbara,34.4221,-119.7027,7/8/2017,10/5/2017,USFS,18430,UNDER INVESTIGATION
+STONE,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,7/9/2017,7/11/2017,CAL FIRE,340,EQUIPMENT USE
+WINTER,Yolo,Yolo,38.7318,-121.8078,7/9/2017,7/12/2017,CAL FIRE,2269,UNDER INVESTIGATION
+GARZA,Kings,Hanford,36.3275,-119.6457,7/9/2017,7/25/2017,CAL FIRE,70000,EQUIPMENT USE
+JENNINGS 2,San Diego,San Diego,32.7174,-117.1628,7/11/2017,7/14/2017,CAL FIRE,400,VEHICLE
+LONG VALLEY,Lassen,Susanville,40.4163,-120.6531,7/11/2017,7/25/2017,BLM,83733,UNDER INVESTIGATION
+DOBE,Modoc,Alturas,41.4871,-120.5424,7/13/2017,7/31/2017,USFS,410,HUMAN
+BRIDGE 2,San Bernardino,San Bernardino,34.1083,-117.2898,7/14/2017,7/18/2017,CAL FIRE,460,UNDETERMINED
+DETWILER,Mariposa,Yosemite Valley,37.7344,-119.6065,7/16/2017,8/31/2017,CAL FIRE,100000,SHOOTING
+PARK,Fresno,Fresno,36.7394,-119.7849,7/17/2017,7/30/2017,CAL FIRE,1649,EQUIPMENT USE
+HUDSON,Kern,Bakersfield,35.3739,-119.0195,7/18/2017,7/18/2017,LOCAL,1083,UNDER INVESTIGATION
+MARBLE,Siskiyou,Yreka,41.7326,-122.6378,7/19/2017,7/28/2017,USFS,319,UNDER INVESTIGATION
+ELEPHANT 2,Tulare,Camp Nelson,36.1427,-118.6093,7/20/2017,7/21/2017,CAL FIRE,416,ARSON
+MODOC JULY COMPLEX,Modoc,Alturas,41.4871,-120.5424,7/24/2017,8/13/2017,USFS,83120,UNDER INVESTIGATION
+ORLEANS COMPLEX,Siskiyou,Yreka,41.7326,-122.6378,7/25/2017,10/12/2017,USFS,27276,LIGHTNING
+LATROBE,Sacramento,Sacramento,38.5816,-121.4944,7/26/2017,7/28/2017,CAL FIRE,1268,DEBRIS BURNING
+JACKSONVILLE,Tuolumne,Tuolumne,37.9608,-120.2375,7/29/2017,8/4/2017,CAL FIRE,675,UNDETERMINED
+MINERVA 5,Plumas,East Quincy,39.9341,-120.8981,7/29/2017,8/16/2017,USFS,4310,UNDER INVESTIGATION
+GARDEN,Kern,Bakersfield,35.3739,-119.0195,7/30/2017,8/9/2017,USFS,450,HUMAN
+ROADRUNNER,Tulare,Camp Nelson,36.1427,-118.6093,7/30/2017,7/31/2017,CAL FIRE,2289,ARSON
+GRANT,Mono,Mammoth Lakes,37.6433,-118.9669,7/31/2017,8/3/2017,USFS,400,LIGHTNING
+SUMMIT COMPLEX,Tuolumne,Tuolumne,37.9608,-120.2375,7/31/2017,11/30/2017,USFS,5248,UNDER INVESTIGATION
+EMPIRE,Mariposa,Yosemite Valley,37.7344,-119.6065,8/1/2017,8/1/2017,NPS,6370,LIGHTNING
+RED,San Luis Obispo,San Luis Obispo,35.2828,-120.6597,8/2/2017,8/3/2017,USFS,450,UNDER INVESTIGATION
+BRYANT 2,San Bernardino,San Bernardino,34.1083,-117.2898,8/3/2017,8/14/2017,CAL FIRE,325,UNDETERMINED
+INDIAN,Tulare,Camp Nelson,36.1427,-118.6093,8/3/2017,8/29/2017,USFS,2295,LIGHTNING
+PARKER 2,Modoc,Alturas,41.4871,-120.5424,8/3/2017,8/14/2017,USFS,7697,LIGHTNING
+POSLIN,Lassen,Susanville,40.4163,-120.6531,8/6/2017,8/9/2017,USFS,860,LIGHTNING
+CHILCOOT,Plumas,East Quincy,39.9341,-120.8981,8/6/2017,8/8/2017,USFS,1021,LIGHTNING
+BUTTE,Madera,Madera Acres,37.0191,-120.0669,8/7/2017,8/17/2017,USFS,635,LIGHTNING
+YOUNG,Del Norte,Crescent City,41.7559,-124.2018,8/7/2017,10/15/2017,USFS,21377,UNDER INVESTIGATION
+RUTH COMPLEX,Trinity,Hayfork,40.5543,-123.1831,8/9/2017,8/25/2017,USFS,4736,LIGHTNING
+ROSE,Kern,Bakersfield,35.3739,-119.0195,8/10/2017,8/10/2017,CC,338,HUMAN
+BLAINE,Riverside,Riverside,33.9534,-117.3962,8/13/2017,8/16/2017,CAL FIRE,1500,UNDETERMINED
+SOUTH FORK,Mariposa,Yosemite Valley,37.7344,-119.6065,8/13/2017,8/13/2017,NPS,7000,UNDER INVESTIGATION
+MIAS,Riverside,Riverside,33.9534,-117.3962,8/14/2017,8/18/2017,CAL FIRE,600,ELECTRICAL POWER
+ECLIPSE COMPLEX,Siskiyou,Yreka,41.7326,-122.6378,8/15/2017,10/10/2017,USFS,78698,LIGHTNING
+BEALE,Yuba,Yuba City,39.1404,-121.617,8/20/2017,8/20/2017,CAL FIRE,950,UNDER INVESTIGATION
+BOLES,Modoc,Alturas,41.4871,-120.5424,8/23/2017,9/4/2017,USFS,371,LIGHTNING
+JONES,Modoc,Alturas,41.4871,-120.5424,8/23/2017,8/27/2017,USFS,375,LIGHTNING
+PONDEROSA,Butte,Paradise,39.7596,-121.622,8/29/2017,9/9/2017,CAL FIRE,4016,HUMAN
+MUD,Lassen,Susanville,40.4163,-120.6531,8/29/2017,9/1/2017,BLM,6042,LIGHTNING
+SLINKARD,Mono,Mammoth Lakes,37.6433,-118.9669,8/29/2017,9/11/2017,BLM,8925,LIGHTNING
+RAILROAD,Madera,Madera Acres,37.0191,-120.0669,8/29/2017,9/15/2017,USFS,12407,UNDER INVESTIGATION
+PIER,Tulare,Camp Nelson,36.1427,-118.6093,8/29/2017,9/24/2017,USFS,36556,HUMAN
+HELENA,Trinity,Hayfork,40.5543,-123.1831,8/30/2017,10/19/2017,USFS,21449,HUMAN
+CALDWELL,Kern,Bakersfield,35.3739,-119.0195,9/1/2017,9/6/2017,USFS,1319,LIGHTNING
+LA TUNA,Los Angeles,Los Angeles,34.0549,-118.2445,9/1/2017,9/8/2017,LOCAL,7194,UNDER INVESTIGATION
+PALMER,Riverside,Riverside,33.9534,-117.3962,9/2/2017,9/9/2017,CAL FIRE,3800,PLAYING WITH FIRE
+PEAK,Madera,Madera Acres,37.0191,-120.0669,9/3/2017,9/9/2017,CAL FIRE,680,VEHICLE
+MISSION,Madera,Madera Acres,37.0191,-120.0669,9/3/2017,9/13/2017,CAL FIRE,1037,ELECTRICAL POWER
+CREEK,Tuolumne,Tuolumne,37.9608,-120.2375,9/3/2017,11/20/2017,USFS,1749,LIGHTNING
+EUREKA,Plumas,East Quincy,39.9341,-120.8981,9/5/2017,10/31/2017,USFS,437,LIGHTNING
+TABLE,El Dorado,Diamond Springs,38.6946,-120.815,9/8/2017,10/17/2017,USFS,426,UNDER INVESTIGATION
+BERRY,Shasta,Shasta Lake,40.68,-122.3627,9/12/2017,9/26/2017,CAL FIRE,995,LIGHTNING
+BUCK,Trinity,Hayfork,40.5543,-123.1831,9/12/2017,11/5/2017,USFS,13434,LIGHTNING
+EASTMAN,Madera,Madera Acres,37.0191,-120.0669,9/18/2017,9/19/2017,CAL FIRE,483,ELECTRICAL POWER
+LION,Tulare,Camp Nelson,36.1427,-118.6093,9/24/2017,11/27/2017,USFS,19215,LIGHTNING
+RUCKER,Santa Barbara,Santa Barbara,34.4221,-119.7027,9/29/2017,10/4/2017,LOCAL,444,HUMAN
+CANYON,Orange,Lake Forest,33.6469,-117.686,9/30/2017,10/3/2017,CC,2662,UNDER INVESTIGATION
+CHEROKEE,Butte,Paradise,39.7596,-121.622,10/8/2017,11/5/2017,CAL FIRE,8500,ELECTRICAL POWER
+THIRTY SEVEN,Sonoma,Sonoma,38.2931,-122.4577,10/9/2017,10/12/2017,CAL FIRE,1660,UNDER INVESTIGATION
+CANYON 2,Orange,Lake Forest,33.6469,-117.686,10/9/2017,10/17/2017,CC,9217,UNDER INVESTIGATION
+MENDOCINO LAKE COMPLEX,Mendocino,Willits,39.4096,-123.3556,10/9/2017,10/26/2017,CAL FIRE,38730,UNDER INVESTIGATION
+SOUTHERN LNU COMPLEX,NAPA,Napa,38.2971,-122.2856,10/9/2017,10/28/2017,CAL FIRE,51624,UNDER INVESTIGATION
+CENTRAL LNU COMPLEX,Sonoma,Sonoma,38.2931,-122.4577,10/9/2017,10/31/2017,CAL FIRE,110720,UNDER INVESTIGATION
+BEAR,Santa Cruz,Felton,37.0513,-122.0733,10/16/2017,10/29/2017,CAL FIRE,391,ARSON
+WILDOMAR,Riverside,Riverside,33.9534,-117.3962,10/26/2017,11/1/2017,USFS,866,UNDER INVESTIGATION
+CHRIS,Mono,Mammoth Lakes,37.6433,-118.9669,11/13/2017,11/16/2017,USFS,370,UNDER INVESTIGATION
+THOMAS,Ventura,Ventura,34.2783,-119.2932,12/4/2017,12/15/2017,CC,238500,UNDER
+RYE,Los Angeles,Santa Clarita,34.3917,-118.5426,12/5/2017,12/12/2017,N/A,6049,N/A
+CREEK,Los Angeles,Los Angeles,34.0549,-118.2445,12/5/2017,12/15/2017,LOCAL,15619,UNDER INVESTIGATION
+Skirball,Los Angeles,Los Angeles,34.0549,-118.2445,12/6/2017,12/11/2017,N/A,422,N/A
+Lilac,San Diego,San Diego,32.7174,-117.1628,12/7/2017,12/13/2017,N/A,4100,N/A
