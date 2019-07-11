@@ -1,0 +1,1192 @@
+SOURCE_REPORTING_UNIT_NAME,FIRE_NAME,FIRE_YEAR,DISCOVERY_DATE,STAT_CAUSE_DESCR,CONT_DATE,CONT_DOY,CONT_TIME,FIRE_SIZE,LATITUDE,LONGITUDE,Locations_Address,OWNER_CODE,OWNER_DESCR,STATE,County
+Eldorado National Forest,POWER,2004,2453280,Equipment Use,2453300,295,1000,16823,38.5233,-120.212,"Pioneer, CA 95666, USA",5,USFS,CA,Amador
+Eldorado National Forest,FREDS,2004,2453290,Equipment Use,2453300,291,1800,7700,38.78,-120.26,"14513 Lincoln Hwy, Kyburz, CA 95720, USA",5,USFS,CA,El Dorado
+Sequoia National Forest,NINE,2005,2453560,Miscellaneous,2453560,191,1800,1149,35.6881,-118.438,"Unnamed Road, Kernville, CA 93238, USA",5,USFS,CA,
+Mendocino National Forest,CLOVER,2005,2453630,Miscellaneous,2453630,261,1800,775,39.1697,-122.887,"Upper Lake, CA 95485, USA",14,MISSING/NOT SPECIFIED,CA,
+Angeles National Forest,MUNZ,2005,2453550,Miscellaneous,2453550,178,2130,800,34.6831,-118.389,"43920 Munz Ranch Rd, Lake Hughes, CA 93532, USA",14,MISSING/NOT SPECIFIED,CA,
+Tahoe National Forest,HARDING,2005,2453610,Miscellaneous,2453620,252,1300,2270,39.6122,-120.352,"Sierraville, CA 96126, USA",5,USFS,CA,
+Klamath National Forest,WOOLEY,2005,2453630,Miscellaneous,2453630,264,1900,3225,41.4997,-123.276,"Siskiyou County, CA, USA",5,USFS,CA,
+Sequoia National Forest,CRAG,2005,2453580,Lightning,2453660,288,1600,1185,35.0933,-118.206,"Mojave, CA 93501, USA",5,USFS,CA,
+Angeles National Forest,ANGELES,2005,2453570,Debris Burning,2453570,195,2030,530,34.5019,-118.114,"34110 Angeles Forest Hwy, Palmdale, CA 93550, USA",14,MISSING/NOT SPECIFIED,CA,
+Shasta-Trinity National Forest,BAGLEY,2005,2453690,Lightning,2453700,331,1800,438,40.985,-122.018,"Shasta County, CA, USA",13,STATE OR PRIVATE,CA,
+Inyo National Forest,GOODALE,2006,2453910,Lightning,2453920,181,800,3747.1,36.9764,-118.264,"Independence, CA 93526, USA",14,MISSING/NOT SPECIFIED,CA,Inyo
+Humboldt-Toiyabe National Forest,JACKASS,2006,2453930,Lightning,2453940,202,1800,6255,38.5517,-119.359,"Coleville, CA 96107, USA",5,USFS,CA,Mono
+Klamath National Forest,RUSH,2006,2453940,Lightning,2454050,317,1800,4850,41.1033,-123.037,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Los Padres National Forest,ARCO,2006,2453930,Miscellaneous,2453930,193,1800,689.09,34.8903,-118.913,"5500 Digier Rd, Lebec, CA 93243, USA",13,STATE OR PRIVATE,CA,Kern
+Los Padres National Forest,RIDGE,2006,2453940,Lightning,2453950,212,2000,2418,34.9008,-119.279,"Kern County, CA, USA",5,USFS,CA,Kern
+Los Padres National Forest,STONEY,2006,2453910,Equipment Use,2453910,177,2000,600,35.9819,-121.302,"Monterey County, CA, USA",6,OTHER FEDERAL,CA,Monterey
+San Bernardino National Forest,ARRASTRE,2006,2453900,Lightning,2453900,164,1800,361,34.2525,-116.747,"Big Bear, CA 92314, USA",5,USFS,CA,San Bernardino
+San Bernardino National Forest,PLUNGE,2006,2453760,Campfire,2453760,26,1800,485,34.2,-117.135,"7 Holly Dr, Running Springs, CA 92382, USA",5,USFS,CA,San Bernardino
+Shasta-Trinity National Forest,HOTLUM,2006,2453790,Debris Burning,2453800,63,1800,2815,41.4678,-122.333,"HAMMOND RANCH, CA 96094, USA",5,USFS,CA,Siskiyou
+Modoc National Forest,HIGH,2006,2453910,Lightning,2453930,196,1200,1049,41.4692,-121.335,"Modoc County, CA, USA",5,USFS,CA,Modoc
+Modoc National Forest,CRYSTAL,2006,2453910,Lightning,2453910,178,1200,461,41.4514,-121.351,"Modoc County, CA, USA",5,USFS,CA,Modoc
+Angeles National Forest,CROSS,2006,2453980,Arson,2453980,243,1800,645,34.3781,-118.439,"19166 Placerita Canyon Rd, Santa Clarita, CA 91321, USA",5,USFS,CA,Los Angeles
+Humboldt-Toiyabe National Forest,BALLS CANYON,2006,2453910,Lightning,2453980,244,1800,1805,39.6619,-120.083,"Chilcoot, CA 96105, USA",13,STATE OR PRIVATE,CA,Sierra
+Cleveland National Forest,SIERRA,2006,2453770,Miscellaneous,2453770,37,428,10584,33.8519,-117.65,"Corona, CA 92882, USA",5,USFS,CA,Orange
+Plumas National Forest,GREASE,2006,2453930,Miscellaneous,2453950,212,1900,366,40.0169,-120.382,"Plumas County, CA, USA",5,USFS,CA,Plumas
+Cleveland National Forest,HORSE,2006,2453940,Campfire,2453950,210,1800,16677,32.7544,-116.669,"21697 Lyons Valley Rd, Alpine, CA 91901, USA",5,USFS,CA,San Diego
+Los Padres National Forest,BALD,2006,2453940,Lightning,2453950,211,1800,1250,34.925,-119.96,"Santa Barbara County, CA, USA",5,USFS,CA,Santa Barbara
+Modoc National Forest,CLEAR LAKE,2006,2453950,Lightning,2453960,226,1700,526,41.9842,-121.102,"Modoc County, CA, USA",5,USFS,CA,Modoc
+Modoc National Forest,BUMP,2006,2453940,Lightning,2453960,223,1200,524,41.8183,-121.051,"Modoc County, CA, USA",5,USFS,CA,Modoc
+Modoc National Forest,SAGE,2006,2453940,Lightning,2453940,209,1636,4871,41.6858,-120.518,"Modoc County, CA, USA",5,USFS,CA,Modoc
+Six Rivers National Forest,SOMES,2006,2453940,Lightning,2454030,291,1800,15710,41.315,-123.497,"Humboldt County, CA, USA",5,USFS,CA,Humboldt
+Mendocino National Forest,HARVEY,2006,2453910,Lightning,,,,1247,40.0589,-122.908,"California, USA",5,USFS,CA,Tehama
+San Bernardino National Forest,PINNACLES,2006,2454000,Arson,2454000,268,1800,2750,34.2844,-117.213,"1898-1738 N Grass Valley Rd, Lake Arrowhead, CA 92352, USA",5,USFS,CA,San Bernardino
+Tahoe National Forest,RALSTON,2006,2453980,Miscellaneous,2453980,248,1628,8422,39.0167,-120.703,"Foresthill, CA 95631, USA",13,STATE OR PRIVATE,CA,Placer
+Mendocino National Forest,HUNTER,2006,2453940,Lightning,2453990,250,1800,16296,39.6606,-122.862,"Glenn County, CA, USA",5,USFS,CA,Mendocino
+Tahoe National Forest,BASSETTS,2006,2454000,Miscellaneous,2454020,284,1800,2114,39.6169,-120.602,"Gold Lake Hwy, Calpine, CA 96124, USA",5,USFS,CA,Sierra
+Six Rivers National Forest,HANCOCK,2006,2453940,Lightning,2454030,296,1800,10770,41.4489,-123.293,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Klamath National Forest,TITUS,2006,2453940,Lightning,,,,5792,41.6028,-123.377,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Los Padres National Forest,DAY,2006,2453980,Debris Burning,2454040,303,1800,162702,34.6322,-118.77,"Castaic, CA 91384, USA",5,USFS,CA,Ventura
+Six Rivers National Forest,BUCK,2006,2453940,Lightning,2453960,228,1600,422,41.6356,-123.727,"California, USA",5,USFS,CA,Del Norte
+Los Padres National Forest,PERKINS,2006,2453910,Miscellaneous,2453940,201,1800,14988,34.9436,-119.687,"4772 Cebrian Ave, New Cuyama, CA 93254, USA",14,MISSING/NOT SPECIFIED,CA,Santa Barbara
+Mendocino National Forest,KINGSLEY,2006,2453940,Lightning,2453960,221,1800,6854,40.0378,-122.941,"California, USA",5,USFS,CA,Tehama
+Plumas National Forest,HUNGRY,2006,2453910,Lightning,2453930,193,1800,512,40.1536,-120.643,"Taylorsville, CA 95983, USA",5,USFS,CA,Plumas
+Los Padres National Forest,SCOTT,2006,2453940,Lightning,2453950,213,1800,600,34.8486,-118.985,"Los Padres National Forest, Goleta, CA, USA",5,USFS,CA,Kern
+Shasta-Trinity National Forest,LAKIN,2006,2453940,Lightning,2453950,210,1800,507,41.385,-121.519,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Plumas National Forest,BOULDER,2006,2453910,Lightning,2453930,193,1800,2920,40.2189,-120.607,"Greenville, CA 95947, USA",5,USFS,CA,Plumas
+Six Rivers National Forest,PANTHER,2006,2453940,Lightning,2453960,224,1800,904,40.7319,-123.513,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,PIGEON,2006,2453980,Miscellaneous,2454020,283,1800,35101,40.7511,-123.151,"Big Bar, CA 96010, USA",5,USFS,CA,Trinity
+San Bernardino National Forest,SUNRISE #2,2006,2454020,Miscellaneous,2454020,287,1700,507,33.9006,-116.753,"52091 Esperanza Ave, Cabazon, CA 92230, USA",14,MISSING/NOT SPECIFIED,CA,Riverside
+San Bernardino National Forest,ESPERANZA,2006,2454030,Arson,2454040,303,1800,40200,33.8997,-116.766,"15217 Peach St, Cabazon, CA 92230, USA",14,MISSING/NOT SPECIFIED,CA,Riverside
+Sierra National Forest,RUBE,2006,2454020,Lightning,2454020,285,1318,777,37.4781,-119.157,"Fresno County, CA, USA",5,USFS,CA,Madera
+Sequoia National Forest,MAGGIE,2006,2453930,Lightning,2454080,345,1300,2097,36.2633,-118.615,"Tulare County, CA, USA",5,USFS,CA,Tulare
+Sequoia National Forest,TAMARACK,2006,2453930,Lightning,2454080,345,1300,4654,36.3206,-118.403,"Tulare County, CA, USA",5,USFS,CA,Tulare
+Sequoia National Forest,BRODER WFU,2006,2453940,Lightning,2453950,210,1330,1220,36.1419,-118.186,"Tulare County, CA, USA",5,USFS,CA,Tulare
+Sequoia National Forest,BECK WFU,2006,2453940,Lightning,2454010,272,1330,2270,36.1667,-118.169,"Tulare County, CA, USA",5,USFS,CA,Tulare
+San Bernardino National Forest,MILLARD,2006,2453930,Lightning,2453990,252,1800,24000,34.3417,-116.767,"Lucerne Valley, CA 92356, USA",5,USFS,CA,San Bernardino
+San Bernardino National Forest,RAMP,2006,2453940,Equipment Use,2453940,204,1800,450,34.33,-117.513,"Dyer-Fulp Rd, Phelan, CA 92371, USA",5,USFS,CA,San Bernardino
+San Bernardino National Forest,EMERALD,2006,2453980,Miscellaneous,2453980,247,1800,2109,34.0842,-117.094,"9022-9234 Emerald Ave, Mentone, CA 92359, USA",5,USFS,CA,San Bernardino
+Plumas National Forest,BABCOCK PEAK,2007,2454290,Lightning,2454290,187,1830,400,40.1039,-120.625,"Plumas County, CA, USA",5,USFS,CA,Plumas
+Los Padres National Forest,DIGIER,2007,2454300,Equipment Use,2454310,205,2200,340,34.8953,-118.92,"Gorman, CA 93243, USA",14,MISSING/NOT SPECIFIED,CA,Kern
+Sequoia National Forest,JAMES,2007,2454310,Miscellaneous,2454310,214,1900,4200,35.7625,-118.4,"Kern County, CA, USA",5,USFS,CA,Kern
+Sequoia National Forest,WOFFORD,2007,2454230,Miscellaneous,2454240,136,1900,567,35.7214,-118.405,"Kernville, CA 93238, USA",5,USFS,CA,Kern
+Humboldt-Toiyabe National Forest,HIGHWAY,2007,2454240,Arson,2454250,146,1800,853,39.4628,-120.007,"Floriston, CA 96111, USA",13,STATE OR PRIVATE,CA,Sierra
+Inyo National Forest,SAGE,2007,2454290,Lightning,2454290,192,600,6460,37.13,-118.385,"3035 Glacier Lodge Rd, Bishop, CA 93514, USA",5,USFS,CA,Inyo
+Sequoia National Forest,GOLDLEDGE,2007,2454250,Miscellaneous,2454270,167,1700,4200,35.8947,-118.463,"Kernville, CA 93238, USA",5,USFS,CA,Kern
+Klamath National Forest,CHINA,2007,2454290,Lightning,2454330,230,2359,2906,41.8431,-122.723,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Plumas National Forest,MOONLIGHT,2007,2454350,Equipment Use,2454370,268,600,64994.4,40.2133,-120.864,"Plumas County, CA, USA",13,STATE OR PRIVATE,CA,Plumas
+Plumas National Forest,WHEELER,2007,2454290,Lightning,2454300,202,1800,22905.8,40.1286,-120.636,"Taylorsville, CA 95983, USA",5,USFS,CA,Plumas
+Humboldt-Toiyabe National Forest,BALLS CANYON,2007,2454290,Lightning,2454300,196,1800,4801,39.6831,-120.037,"Sierra County, CA, USA",13,STATE OR PRIVATE,CA,Sierra
+Angeles National Forest,NORTH,2007,2454350,Lightning,2454350,245,1800,2200,34.4033,-118.261,"Acton, CA 93510, USA",5,USFS,CA,Los Angeles
+Los Padres National Forest,RANCHO,2007,2454280,Miscellaneous,2454280,182,300,478,34.5431,-119.768,"Los Padres National Forest, Goleta, CA, USA",5,USFS,CA,Santa Barbara
+Klamath National Forest,LITTLE GRIDER,2007,2454290,Lightning,2454440,340,1800,2171,41.7997,-123.428,"Happy Camp, CA 96039, USA",5,USFS,CA,Siskiyou
+Angeles National Forest,GORMAN,2007,2454240,Equipment Use,2454240,140,1500,850,34.7569,-118.799,"48084 Ralphs Ranch Rd, Lebec, CA 93243, USA",14,MISSING/NOT SPECIFIED,CA,Los Angeles
+Cleveland National Forest,PINE,2007,2454360,Campfire,2454380,275,1800,2170,32.8028,-116.561,"Guatay, CA 91931, USA",5,USFS,CA,San Diego
+Lake Tahoe Basin Management Unit,ANGORA,2007,2454280,Campfire,2454300,201,1800,3100,38.8622,-120.052,"1899-1801 Mewuk Dr, South Lake Tahoe, CA 96150, USA",5,USFS,CA,El Dorado
+Modoc National Forest,FLETCHER,2007,2454300,Lightning,2454320,216,1700,8121,41.9883,-120.545,"Davis Creek, CA 96108, USA",5,USFS,CA,Modoc
+Shasta-Trinity National Forest,BEAR,2007,2454330,Equipment Use,2454360,261,800,562,41.2672,-121.718,"McCloud, CA 96057, USA",5,USFS,CA,Siskiyou
+Klamath National Forest,WINGATE,2007,2454290,Lightning,2454300,196,1800,916,41.7117,-123,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Los Padres National Forest,ZACA,2007,2454290,Equipment Use,2454350,245,1800,240207,34.7792,-120.09,"Santa Ynez, CA 93460, USA",14,MISSING/NOT SPECIFIED,CA,Santa Barbara
+Cleveland National Forest,MCCOY,2007,2454390,Miscellaneous,2454400,297,1800,353,32.8708,-116.636,"23854 Sundance View Ln, Descanso, CA 91916, USA",13,STATE OR PRIVATE,CA,San Diego
+Shasta-Trinity National Forest,BOLLI,2007,2454240,Debris Burning,2454250,147,1800,730,41.0014,-122.151,"Shasta County, CA, USA",13,STATE OR PRIVATE,CA,Shasta
+Cleveland National Forest,SANTIAGO,2007,2454390,Miscellaneous,2454410,312,1800,28476,33.7458,-117.667,"Irvine Mesa Rd, Silverado, CA 92676, USA",14,MISSING/NOT SPECIFIED,CA,Orange
+San Bernardino National Forest,MERIDIAN,2007,2454290,Lightning,2454290,186,2300,400,34.3703,-116.904,"35190-34866 Powerline Rd, Lucerne Valley, CA 92356, USA",14,MISSING/NOT SPECIFIED,CA,San Bernardino
+San Bernardino National Forest,BUTLER 2,2007,2454360,Miscellaneous,,,,14039,34.2581,-117.01,"36606-36400 2N13C, California, USA",5,USFS,CA,San Bernardino
+San Bernardino National Forest,GRASS VALLEY,2007,2454400,Miscellaneous,,,,1247,34.2747,-117.217,"1354 Edgecliff Dr, Lake Arrowhead, CA 92352, USA",5,USFS,CA,San Bernardino
+San Bernardino National Forest,SLIDE,2007,2454400,Miscellaneous,2454420,318,600,12759,34.2519,-117.05,"35318-35258 Snow Slide Rd, Green Valley Lake, CA 92341, USA",5,USFS,CA,San Bernardino
+Los Padres National Forest,RANCH,2007,2454390,Equipment Use,2454420,319,1800,45300,34.5731,-118.698,"Golden State Hwy, Castaic, CA 91384, USA",5,USFS,CA,Los Angeles
+Inyo National Forest,JUNE,2007,2454290,Lightning,2454300,197,1200,682,37.9169,-119.114,"Mono County, CA, USA",5,USFS,CA,Mono
+Shasta-Trinity National Forest,WALLOW,2007,2454340,Equipment Use,2454350,251,1900,1440,40.4839,-123.352,"Trinity County, CA, USA",13,STATE OR PRIVATE,CA,Trinity
+Shasta-Trinity National Forest,LAZY,2007,2454340,Lightning,2454350,252,1800,599,40.0897,-122.951,"California, USA",5,USFS,CA,Tehama
+Cleveland National Forest,WITCH,2007,2454390,Miscellaneous,2454400,304,1800,197990,33.0744,-116.711,"San Diego County, CA, USA",14,MISSING/NOT SPECIFIED,CA,San Diego
+Inyo National Forest,O'HARREL,2007,2454400,Lightning,2454450,352,1441,560,37.7692,-118.74,"Sierra Nevada, California, USA",5,USFS,CA,Mono
+Cleveland National Forest,RICE,2007,2454400,Miscellaneous,2454400,302,1900,9472,33.3969,-117.148,"8685 Rancho Taza Rd, Fallbrook, CA 92028, USA",14,MISSING/NOT SPECIFIED,CA,San Diego
+Sequoia National Forest,GROUSE,2007,2454340,Lightning,2454450,352,930,1022,36.2781,-118.422,"Tulare County, CA, USA",5,USFS,CA,Tulare
+Angeles National Forest,BUCKWEED,2007,2454390,Children,2454390,294,1320,38356,34.5244,-118.335,"Spring Canyon Rd, Santa Clarita, CA 91390, USA",14,MISSING/NOT SPECIFIED,CA,Los Angeles
+Cleveland National Forest,POOMACHA,2007,2454400,Miscellaneous,2454440,335,1800,49390,33.2775,-116.868,"CA-76, Pauma Valley, CA 92061, USA",14,MISSING/NOT SPECIFIED,CA,San Diego
+San Bernardino National Forest,APACHE,2008,2454590,Smoking,2454590,128,1800,769,33.7203,-116.625,"Mountain Center, CA 92561, USA",5,USFS,CA,Riverside
+Los Padres National Forest,INDIANS,2008,2454630,Campfire,2454660,192,1800,81378,36.1053,-121.431,"Greenfield, CA 93927, USA",5,USFS,CA,Monterey
+Klamath National Forest,THREE,2008,2454640,Lightning,2454670,205,1800,4913,41.5997,-123.568,"Happy Camp, CA 96039, USA",5,USFS,CA,Siskiyou
+Klamath National Forest,CARIBOU,2008,2454640,Lightning,2454820,351,1300,13116,41.0347,-123.003,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Los Padres National Forest,BASIN COMPLEX,2008,2454640,Lightning,2454670,209,1800,162818,36.2811,-121.658,"Los Padres National Forest, Goleta, CA, USA",5,USFS,CA,Monterey
+Angeles National Forest,BIGHORN,2008,2454600,Miscellaneous,2454610,144,1800,490,34.2494,-117.652,"San Bernardino County, CA, USA",5,USFS,CA,San Bernardino
+Angeles National Forest,SANTA ANITA,2008,2454580,Arson,2454590,123,1800,584,34.1733,-118.03,"2402 Chantry Flat Rd, Sierra Madre, CA 91024, USA",14,MISSING/NOT SPECIFIED,CA,Los Angeles
+Plumas National Forest,COLD,2008,2454640,Lightning,2454710,244,1800,5512,39.8422,-120.837,"Sierra Nevada, California, USA",5,USFS,CA,Plumas
+Sequoia National Forest,RICHBAR,2008,2454630,Arson,2454630,161,2000,312,35.4819,-118.719,"Bakersfield, CA 93306, USA",5,USFS,CA,Kern
+Sierra National Forest,SILVER KNOB,2008,2454640,Lightning,2454640,178,1800,600,37.4392,-119.677,"Fish Camp, CA 93623, USA",5,USFS,CA,Mariposa
+Sierra National Forest,OLIVER,2008,2454640,Lightning,2454660,196,1800,2200,37.4872,-119.754,"Mariposa, CA 95338, USA",5,USFS,CA,Mariposa
+Klamath National Forest,PANTHER,2008,2454670,Lightning,2454750,288,1800,44452,41.5925,-123.432,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Klamath National Forest,DARK,2008,2454640,Lightning,2454670,205,1800,10388,41.6156,-123.577,"Happy Camp, CA 96039, USA",5,USFS,CA,Siskiyou
+Los Padres National Forest,GAP,2008,2454650,Miscellaneous,2454660,199,1000,9443,34.5008,-119.861,"6361-6325 W Camino Cielo, Santa Barbara, CA 93105, USA",5,USFS,CA,Santa Barbara
+Plumas National Forest,QUARRY,2008,2454640,Lightning,2454640,175,1300,439,39.9186,-121.354,"Plumas County, CA, USA",5,USFS,CA,Plumas
+Shasta-Trinity National Forest,EAGLE,2008,2454640,Lightning,2454740,278,1800,32059,40.7342,-123.167,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,ZEIGLER,2008,2454640,Lightning,2454680,213,1800,2349,40.8667,-123.475,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,IRONSIDE,2008,2454640,Lightning,2454680,213,1800,12720,40.8333,-123.434,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Lassen National Forest,PETERSON,2008,2454640,Lightning,2454650,183,1800,2750,40.9125,-121.342,"Shasta County, CA, USA",5,USFS,CA,Shasta
+Plumas National Forest,RICH,2008,2454680,Railroad,2454710,246,1800,6112,40.02,-121.168,"Oroville, CA 95915, USA",5,USFS,CA,Plumas
+Klamath National Forest,ANTHONY MILNE,2008,2454650,Lightning,2454820,351,1300,1779,41.505,-123.182,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Mendocino National Forest,MILL,2008,2454640,Lightning,2454670,208,1200,3043,39.4783,-123.043,"Potter Valley, CA 95469, USA",5,USFS,CA,Lake
+Lassen National Forest,VENTURE,2008,2454640,Lightning,2454650,186,2128,1912,40.9933,-121.602,"Burney, CA 96013, USA",5,USFS,CA,Shasta
+Shasta-Trinity National Forest,MINERS,2008,2454640,Lightning,2454770,305,1800,24776,40.6697,-123.306,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,LIME,2008,2454640,Lightning,2454690,226,800,25199,40.5183,-123.423,"Hyampom, CA 96046, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,DEADSHOT,2008,2454640,Lightning,2454660,190,1800,1069,40.4839,-122.93,"Wildwood, CA 96076, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,SLIDE,2008,2454640,Lightning,2454660,190,2000,1158,40.6661,-123.52,"Hyampom, CA 96046, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,TELEPHONE,2008,2454640,Lightning,2454690,226,800,6625,40.4067,-123.132,"Wildwood, CA 96076, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,TROUGH #1,2008,2454640,Lightning,2454690,226,800,3674,40.2006,-123.125,"Mad River, CA 95552, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,NOBLE,2008,2454640,Lightning,2454660,190,2000,12856,40.3258,-122.962,"Shasta County, CA, USA",5,USFS,CA,Tehama
+Shasta-Trinity National Forest,DEERLICK,2008,2454640,Lightning,2454690,226,800,10213,40.4633,-122.883,"Wildwood, CA 96076, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,IRON,2008,2454640,Lightning,2454700,236,800,32903,40.1458,-122.866,"California, USA",5,USFS,CA,Trinity
+Mendocino National Forest,BIG,2008,2454640,Lightning,2454650,187,1200,2193,39.4289,-123.064,"Potter Valley, CA 95469, USA",13,STATE OR PRIVATE,CA,Lake
+Mendocino National Forest,MONKEY  ROCK,2008,2454640,Lightning,2454660,196,1200,1829,39.5522,-122.961,"Mendocino County, CA, USA",5,USFS,CA,Lake
+Mendocino National Forest,BACK,2008,2454640,Lightning,2454650,181,1800,1567,39.375,-122.976,"Potter Valley, CA 95469, USA",5,USFS,CA,Lake
+Mendocino National Forest,VINEGAR,2008,2454640,Lightning,2454640,177,800,17449,40.0672,-122.931,"California, USA",5,USFS,CA,Glenn
+Mendocino National Forest,WHISKEY,2008,2454630,Miscellaneous,2454770,301,800,7783,39.8939,-122.708,"Tehama County, CA, USA",5,USFS,CA,Glenn
+Six Rivers National Forest,TRAVIS,2008,2454640,Lightning,2454640,178,1800,957,40.115,-123.294,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Humboldt-Toiyabe National Forest,SILVER CREEK,2008,2454700,Lightning,2454700,236,1800,680,38.3697,-119.519,"Coleville, CA 96107, USA",5,USFS,CA,Mono
+Shasta-Trinity National Forest,GULCH,2008,2454720,Equipment Use,2454720,255,1800,2847,40.3667,-122.935,"Wildwood, CA 96076, USA",5,USFS,CA,Shasta
+Lassen National Forest,CUB,2008,2454640,Lightning,2454680,213,2000,14936,40.1792,-121.47,"Sierra Nevada, California, USA",5,USFS,CA,Tehama
+Lassen National Forest,ONION 2,2008,2454640,Lightning,2454670,204,600,4851,40.1808,-121.567,"Tehama County, CA, USA",14,MISSING/NOT SPECIFIED,CA,Tehama
+Plumas National Forest,LITTLE,2008,2454640,Lightning,2454710,244,,1450,39.7733,-121.25,"Berry Creek, CA 95916, USA",5,USFS,CA,Plumas
+Plumas National Forest,FOX,2008,2454640,Lightning,2454710,244,,400,39.7647,-121.326,"Butte County, CA, USA",5,USFS,CA,Butte
+Plumas National Forest,CHINO,2008,2454640,Lightning,2454710,244,,340,39.7639,-121.437,"Oroville, CA 95965, USA",5,USFS,CA,Butte
+Plumas National Forest,SOUTH,2008,2454640,Lightning,2454710,244,,1000,39.7061,-121.251,"Berry Creek, CA 95916, USA",5,USFS,CA,Butte
+Tahoe National Forest,CELINA,2008,2454640,Lightning,2454700,233,1800,397,39.4667,-120.75,"Nevada City, CA 95959, USA",5,USFS,CA,Sierra
+Klamath National Forest,SLINKARD,2008,2454700,Lightning,2454750,288,1300,374,41.8222,-123.172,"Klamath River, CA 96050, USA",5,USFS,CA,Siskiyou
+Six Rivers National Forest,BONANZA,2008,2454640,Lightning,2454650,187,1523,1370,40.2225,-123.222,"Mad River, CA 95552, USA",5,USFS,CA,Trinity
+Cleveland National Forest,ROBLAR,2008,2454730,Miscellaneous,2454730,269,2358,400,33.425,-117.392,"Oceanside, CA 92055, USA",14,MISSING/NOT SPECIFIED,CA,San Diego
+Stanislaus National Forest,DOME ROCK,2008,2454740,Lightning,2454740,275,915,914,38.3342,-119.984,"Sierra Nevada, California, USA",5,USFS,CA,Tuolumne
+Tahoe National Forest,GOVERNMENT,2008,2454640,Lightning,2454680,214,600,9164,39.2156,-120.649,"Placer County, CA, USA",5,USFS,CA,Placer
+Los Padres National Forest,CHALK,2008,2454740,Miscellaneous,,,,11200,36.0025,-121.44,"Big Sur, CA 93920, USA",5,USFS,CA,Monterey
+Lassen National Forest,LONG BRANCH-JACK,2008,2454690,Lightning,2454700,230,600,3934,39.9517,-121.334,"Sierra Nevada, California, USA",5,USFS,CA,Plumas
+Sequoia National Forest,CLOVER,2008,2454620,Lightning,2454620,159,2300,15300,36.1167,-118.134,"Pearsonville, CA 93527, USA",5,USFS,CA,Tulare
+Sequoia National Forest,PIUTE,2008,2454650,Miscellaneous,2454680,212,2300,37026,35.4192,-118.4,"Kern County, CA, USA",5,USFS,CA,Kern
+Sequoia National Forest,HONEYBEE,2008,2454590,Lightning,2454650,183,1800,1225,35.1667,-118.052,"California City, CA, USA",5,USFS,CA,Tulare
+Six Rivers National Forest,MILL,2008,2454640,Lightning,2454740,277,1800,65834,41.5633,-123.595,"Happy Camp, CA 96039, USA",5,USFS,CA,Siskiyou
+Six Rivers National Forest,BLUE 2,2008,2454640,Lightning,2454740,277,1800,17540,41.5653,-123.821,"Del Norte County, CA, USA",5,USFS,CA,Del Norte
+Six Rivers National Forest,HALF,2008,2454640,Lightning,2454700,238,1900,15118,40.7711,-123.528,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Six Rivers National Forest,JAKE,2008,2454640,Lightning,2454740,277,1800,38394,41.3564,-123.376,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Six Rivers National Forest,HAYPRESS,2008,2454640,Lightning,2454740,277,1800,13654,41.4533,-123.393,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Six Rivers National Forest,MERRILL,2008,2454640,Lightning,2454740,277,1800,8332,41.4253,-123.431,"Siskiyou County, CA, USA",5,USFS,CA,Siskiyou
+Tahoe National Forest,SCOTCHMAN,2008,2454640,Lightning,2454640,175,1935,1230,39.3494,-120.779,"Nevada City, CA 95959, USA",13,STATE OR PRIVATE,CA,Nevada
+Tahoe National Forest,FALL,2008,2454640,Lightning,2454640,175,2055,2420,39.36,-120.697,"Nevada County, CA, USA",5,USFS,CA,Nevada
+Tahoe National Forest,PEAVINE,2008,2454640,Lightning,2454680,214,600,552,39.2822,-120.614,"Nevada City, CA 95959, USA",5,USFS,CA,Placer
+Tahoe National Forest,WESTVILLE,2008,2454640,Lightning,2454680,214,600,10836,39.1633,-120.66,"Placer County, CA, USA",5,USFS,CA,Placer
+Angeles National Forest,MAREK,2008,2454750,Miscellaneous,2454750,286,1600,4824,34.2947,-118.361,"Lower Marek Mountway, Sylmar, CA 91342, USA",5,USFS,CA,Los Angeles
+Shasta-Trinity National Forest,BUCKHORN,2008,2454640,Lightning,2454680,213,1800,31419,40.8667,-123.285,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,CAREY,2008,2454640,Lightning,2454680,213,1800,3044,41.0722,-123.302,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,ELMORE,2008,2454720,Arson,2454720,258,1920,343,40.8464,-122.365,"18601-18617 Lower Salt Creek Rd, Lakehead, CA 96051, USA",5,USFS,CA,Shasta
+Shasta-Trinity National Forest,CEDAR,2008,2454640,Lightning,2454680,213,1800,25398,40.7814,-123.434,"Burnt Ranch, CA 95527, USA",5,USFS,CA,Trinity
+Shasta-Trinity National Forest,MOTION,2008,2454640,Lightning,2454680,210,1800,28336,40.7167,-122.434,"Redding, CA 96001, USA",14,MISSING/NOT SPECIFIED,CA,Shasta
+Shasta-Trinity National Forest,GRANITE,2008,2454640,Lightning,2454720,258,1800,542,40.9169,-123.001,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Plumas National Forest,PIT,2008,2454640,Lightning,2454750,280,1330,11496,39.97,-121.296,"Sierra Nevada, California, USA",5,USFS,CA,Plumas
+Sierra National Forest,TEHIPITE,2008,2454670,Lightning,2454810,347,1200,7456,36.9036,-118.801,"Fresno County, CA, USA",5,USFS,CA,Fresno
+Plumas National Forest,BELDEN,2008,2454640,Lightning,2454750,280,1300,474,40.015,-121.269,"Plumas County, CA, USA",5,USFS,CA,Plumas
+Plumas National Forest,SCOTCH,2008,2454640,Lightning,2454710,244,1200,13009,39.7861,-121.187,"Meadow Valley, CA 95956, USA",5,USFS,CA,Plumas
+Plumas National Forest,HARTMAN,2008,2454640,Lightning,2454710,244,1200,331,39.7331,-121.163,"Plumas County, CA, USA",5,USFS,CA,Plumas
+Lassen National Forest,MILL,2008,2454640,Lightning,2454650,181,1800,4747,40.1503,-121.848,"California, USA",14,MISSING/NOT SPECIFIED,CA,Tehama
+Lassen National Forest,SMOKEY,2008,2454640,Lightning,2454700,233,1200,1324,40.0547,-121.626,"Tehama County, CA, USA",14,MISSING/NOT SPECIFIED,CA,Tehama
+Mendocino National Forest,YELLOW,2008,2454640,Lightning,2454790,325,1100,32250,40.0756,-123.096,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Stanislaus National Forest,NORTH MTN,2008,2454640,Lightning,2454670,201,1546,2889,37.895,-119.918,"Groveland, CA 95321, USA",5,USFS,CA,Tuolumne
+Stanislaus National Forest,TELEGRAPH,2008,2454670,Miscellaneous,2454720,259,1800,34091,37.5675,-119.997,"5879 Sherlock Rd, Midpines, CA 95345, USA",14,MISSING/NOT SPECIFIED,CA,Mariposa
+Mendocino National Forest,GROUSE,2008,2454640,Lightning,2454650,187,1630,6246,40.1197,-122.984,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Los Padres National Forest,TEA,2008,2454780,Campfire,2454790,320,1200,1940,34.4578,-119.661,"Unnamed Road, Montecito, CA 93108, USA",14,MISSING/NOT SPECIFIED,CA,Santa Barbara
+Angeles National Forest,SAYRE,2008,2454780,Miscellaneous,2454790,326,600,11222,34.33,-118.411,"14145 Janna Way, Sylmar, CA 91342, USA",5,USFS,CA,Los Angeles
+San Bernardino National Forest,FOXBROUGH,2008,2454760,Miscellaneous,2454760,296,1400,400,34.1775,-117.488,"4174 Foxborough Dr, Fontana, CA 92336, USA",14,MISSING/NOT SPECIFIED,CA,San Bernardino
+Cleveland National Forest,FREEWAY,2008,2454790,Miscellaneous,2454790,323,1800,30305,33.8728,-117.739,"22737 Oakcrest Cir, Yorba Linda, CA 92887, USA",14,MISSING/NOT SPECIFIED,CA,Orange
+Shasta-Trinity National Forest,STEIN,2008,2454640,Lightning,2454650,183,1800,1209,40.8072,-122.098,"Shasta County, CA, USA",5,USFS,CA,Shasta
+Lassen National Forest,CORRAL,2008,2454640,Lightning,2454650,189,800,12500,40.875,-120.875,"Lassen County, CA, USA",13,STATE OR PRIVATE,CA,Lassen
+Los Padres National Forest,JESUSITA,2009,2454960,Equipment Use,2454970,140,1800,8733,34.4742,-119.728,"Jesusita Trail, Santa Barbara, CA 93105, USA",13,STATE OR PRIVATE,CA,Santa Barbara
+Inyo National Forest,FORKS,2009,2455030,Lightning,2455040,205,600,3268,37.2681,-118.584,"Swall Meadows, CA 93514, USA",5,USFS,CA,Inyo
+Los Padres National Forest,PONDEROSA,2009,2455040,Miscellaneous,2455060,225,1800,458,35.99,-121.393,"Los Padres National Forest, Goleta, CA, USA",5,USFS,CA,Monterey
+Shasta-Trinity National Forest,REDSPOT,2009,2455010,Lightning,2455040,207,1800,1120,41.1514,-123.401,"Trinity County, CA, USA",5,USFS,CA,Trinity
+Klamath National Forest,TENNANT,2009,2455030,Equipment Use,2455040,205,1800,3226,41.7119,-122.05,"Unnamed Road, Macdoel, CA 96058, USA",5,USFS,CA,Siskiyou
+Lassen National Forest,LOAF,2009,2455040,Lightning,2455060,224,1200,9356,40.6833,-121.467,"Shasta County, CA, USA",5,USFS,CA,Shasta
+Lassen National Forest,BROWN,2009,2455050,Lightning,2455050,214,930,1865,40.8339,-121.542,"Hat Creek, CA 96040, USA",5,USFS,CA,Shasta
+Plumas National Forest,ELEPHANT,2009,2455060,Miscellaneous,2455070,243,1800,445,39.8653,-121.371,"Plumas County, CA, USA",5,USFS,CA,Plumas
+Los Padres National Forest,ALISO,2009,2454980,Debris Burning,2454980,145,1800,350,34.9303,-119.732,"Santa Barbara County, CA, USA",14,MISSING/NOT SPECIFIED,CA,Santa Barbara
+Los Padres National Forest,SULPHUR,2009,2455020,Miscellaneous,2455030,201,1800,343,34.6994,-119.287,"Maricopa, CA 93252, USA",5,USFS,CA,Ventura
+Angeles National Forest,MORRIS,2009,2455070,Arson,2455170,334,1800,2163,34.1867,-117.871,"Irwindale, CA 91702, USA",5,USFS,CA,Los Angeles
+Shasta-Trinity National Forest,GOOSE,2009,2455050,Lightning,2455080,244,1800,3949,40.955,-121.794,"Burney, CA 96013, USA",5,USFS,CA,Shasta
+Shasta-Trinity National Forest,CHALK,2009,2455050,Lightning,2455080,244,1800,6923,40.9806,-121.814,"Shasta County, CA, USA",5,USFS,CA,Shasta
+Angeles National Forest,OSITO,2009,2455030,Equipment Use,2455030,194,2000,300,34.6214,-118.717,"Castaic, CA 91384, USA",5,USFS,CA,Los Angeles
+Plumas National Forest,SILVER,2009,2455090,Miscellaneous,2455100,270,1800,307,39.9375,-121.091,"Spring Garden, CA 95971, USA",5,USFS,CA,Plumas
+Los Padres National Forest,LA BREA,2009,2455050,Miscellaneous,2455070,234,1800,91622,34.9497,-119.978,"Santa Barbara County, CA, USA",5,USFS,CA,Santa Barbara
+Sequoia National Forest,SHOTGUN,2009,2455010,Lightning,2455120,285,1800,900,36.3364,-118.536,"Sierra Nevada, California, USA",5,USFS,CA,Tulare
+Cleveland National Forest,VAIL,2009,2455090,Equipment Use,2455090,263,1800,398,33.4678,-116.928,"45325 Dugan Dr, Aguanga, CA 92536, USA",14,MISSING/NOT SPECIFIED,CA,Riverside
+Stanislaus National Forest,KNIGHT,2009,2455040,Miscellaneous,2455060,233,1600,6130,38.175,-120.249,"Twain Harte, CA 95383, USA",5,USFS,CA,Tuolumne
+Sequoia National Forest,GRANITE,2009,2455030,Lightning,2455140,306,1700,1417,36.1536,-118.225,"Pearsonville, CA 93527, USA",5,USFS,CA,Tulare
+Sequoia National Forest,LION,2009,2455010,Lightning,2455120,289,1700,2577,36.1336,-118.299,"Pearsonville, CA 93527, USA",5,USFS,CA,Tulare
+Klamath National Forest,RED ROCK,2009,2455060,Miscellaneous,2455080,247,1800,1364,41.5519,-123.167,"Fort Jones, CA 96032, USA",5,USFS,CA,Siskiyou
+San Bernardino National Forest,ELM,2009,2455020,Miscellaneous,2455020,188,2300,350,33.8936,-116.895,"Old Idyllwild Rd, Banning, CA 92220, USA",14,MISSING/NOT SPECIFIED,CA,Riverside
+San Bernardino National Forest,SHEEP,2009,2455110,Miscellaneous,2455130,297,1800,7128,34.2297,-117.478,"Lytle Creek, CA 92358, USA",5,USFS,CA,San Bernardino
+Six Rivers National Forest,MILL CREEK 4,2009,2455110,Arson,2455150,322,600,3689,41.1942,-123.629,"Hoopa, CA 95546, USA",14,MISSING/NOT SPECIFIED,CA,Humboldt
+Angeles National Forest,STATION,2009,2455070,Arson,2455100,265,1800,160371,34.2425,-118.189,"North Arroyo, Pasadena, CA, USA",5,USFS,CA,Los Angeles
+Six Rivers National Forest,LT-17 (BACKBONE),2009,2455010,Lightning,2455080,246,800,5065,41.04,-123.463,"California, USA",5,USFS,CA,Humboldt
+San Bernardino National Forest,COTTONWOOD,2009,2455070,Miscellaneous,2455070,243,1800,2409,33.7361,-116.818,"48230 CA-74, Hemet, CA 92544, USA",5,USFS,CA,Riverside
+San Bernardino National Forest,OAK GLEN,2009,2455070,Arson,2455080,248,1600,4000,34.0503,-117.01,"36738-36470 James Birch Rd, Yucaipa, CA 92399, USA",14,MISSING/NOT SPECIFIED,CA,San Bernardino
+Angeles National Forest,DEVIL,1992,2448820,Equipment Use,2448820,203,600,1337,34.565,-118.682,"Castaic, CA 91384, USA",5,USFS,CA,
+Cleveland National Forest,TATE,1992,2448860,Miscellaneous,2448860,242,1025,500,33.47,-117.47,"62407 San Mateo Trail, Camp Pendleton North, CA 92055, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,YSABEL,1992,2448790,Miscellaneous,2448790,167,1800,650,33.085,-116.883,"San Diego County, CA, USA",5,USFS,CA,
+Cleveland National Forest,WILDCAT,1992,2448850,Miscellaneous,2448850,233,1500,1095,32.9167,-116.872,"13743 Shenma Rd, Lakeside, CA 92040, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,STAR,1992,2448820,Miscellaneous,2448820,198,1403,430,32.6333,-116.517,"Campo, CA 91906, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,LOVELAND,1992,2448820,Campfire,2448820,203,1800,1550,32.7906,-116.737,"Alpine, CA 91901, USA",13,STATE OR PRIVATE,CA,
+Eldorado National Forest,CLEVELAND,1992,2448890,Miscellaneous,2448910,286,1800,24580,38.775,-120.45,"Pacific House, CA 95726, USA",6,OTHER FEDERAL,CA,
+Inyo National Forest,RAINBOW,1992,2448850,Lightning,2448880,260,1700,8800,37.55,-119.095,"Sierra Nevada, California, USA",5,USFS,CA,
+Inyo National Forest,ABERDEEN,1992,2448800,Lightning,2448800,178,1800,2000,36.99,-118.318,"Independence, CA 93526, USA",5,USFS,CA,
+Klamath National Forest,GARVEY,1992,2448780,Arson,2448780,156,1800,973,41.8217,-122.65,"6827-6839 Klamath River Rd, Yreka, CA 96097, USA",14,MISSING/NOT SPECIFIED,CA,
+Lassen National Forest,DAY,1992,2448780,Equipment Use,2448780,158,800,500,41.2428,-121.423,"5133 Day Rd, McArthur, CA 96056, USA",14,MISSING/NOT SPECIFIED,CA,
+Lassen National Forest,MUDD,1992,2448850,Lightning,2448850,228,1800,700,40.8561,-120.887,"Lassen County, CA, USA",5,USFS,CA,
+Los Padres National Forest,PINAL,1992,2448770,Miscellaneous,2448770,153,1800,300,36.0836,-121.399,"Greenfield, CA 93927, USA",14,MISSING/NOT SPECIFIED,CA,
+Los Padres National Forest,SECO,1992,2448840,Miscellaneous,2448840,217,1800,2559,36.2322,-121.46,"47291 Arroyo Seco Rd, Greenfield, CA 93927, USA",14,MISSING/NOT SPECIFIED,CA,
+Los Padres National Forest,CIENEGA,1992,2448840,Miscellaneous,2448840,218,1800,910,36.2617,-121.667,"Big Sur, CA 93920, USA",5,USFS,CA,
+Los Padres National Forest,SLICKROCK,1992,2448850,Miscellaneous,2448860,235,1800,2480,35.9808,-121.351,"Big Sur, CA 93920, USA",6,OTHER FEDERAL,CA,
+Los Padres National Forest,MILPITAS,1992,2448880,Miscellaneous,2448880,263,2130,310,36.1039,-121.339,"Greenfield, CA 93927, USA",14,MISSING/NOT SPECIFIED,CA,
+Los Padres National Forest,PENDOLA,1992,2448910,Equipment Use,2448910,289,800,430,34.5333,-119.678,"Santa Barbara County, CA, USA",5,USFS,CA,
+Modoc National Forest,TRIANGLE,1992,2448850,Lightning,2448920,302,1300,700,41.68,-120.842,"Modoc County, CA, USA",5,USFS,CA,
+Modoc National Forest,TIMBER,1992,2448800,Lightning,2448800,177,1800,1385,41.625,-121.287,"Tulelake, CA 96134, USA",5,USFS,CA,
+Six Rivers National Forest,MARTIN,1992,2448880,Arson,2448890,266,1800,1453,41.2333,-123.767,"Hoopa, CA 95546, USA",14,MISSING/NOT SPECIFIED,CA,
+Plumas National Forest,ROBINSON,1992,2448860,Lightning,2448860,243,1600,480,40.0056,-120.145,"Doyle, CA 96109, USA",6,OTHER FEDERAL,CA,
+San Bernardino National Forest,,1992,2448870,Arson,2448870,247,1600,560,34.3733,-117.18,"Apple Valley, CA 92308, USA",5,USFS,CA,
+San Bernardino National Forest,CAJON,1992,2448890,Children,2448890,270,1800,1596,34.2583,-117.46,"Unnamed Road, San Bernardino, CA 92407, USA",5,USFS,CA,
+San Bernardino National Forest,CACTUS,1992,2448770,Miscellaneous,2448780,156,1800,1150,33.6667,-116.953,"Santa Fe St, Hemet, CA 92544, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,BANNING,1992,2448810,Miscellaneous,2448810,189,600,1200,33.8817,-116.883,"Riverside County, CA, USA",13,STATE OR PRIVATE,CA,
+San Bernardino National Forest,,1992,2448870,Arson,2448870,253,600,400,33.9833,-116.833,"11101 Potrero Rd, Banning, CA 92220, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,CALLBOX,1992,2448770,Campfire,2448770,145,1800,1195,35.56,-118.602,"Bakersfield, CA 93306, USA",5,USFS,CA,
+Shasta-Trinity National Forest,BARKER,1992,2448850,Arson,2448860,241,1800,5050,40.6017,-123.098,"Barker Creek Rd, Hayfork, CA 96041, USA",13,STATE OR PRIVATE,CA,
+Shasta-Trinity National Forest,FOUNTAIN,1992,2448850,Arson,2448860,243,1800,64000,40.7617,-121.98,"Bluelight Mine Rd, Bella Vista, CA 96008, USA",14,MISSING/NOT SPECIFIED,CA,
+Sierra National Forest,ITALIAN,1992,2448850,Equipment Use,2448850,227,2359,1422,37.1633,-119.415,"North Fork, CA 93643, USA",5,USFS,CA,
+Stanislaus National Forest,RUBY,1992,2448870,Smoking,2448870,253,2359,3460,38.125,-120.24,"Unnamed Road, Twain Harte, CA 95383, USA",13,STATE OR PRIVATE,CA,
+Stanislaus National Forest,GULCH,1992,2448850,Miscellaneous,2448860,238,1800,18000,38.1683,-120.607,"4649 High Country Rd, San Andreas, CA 95249, USA",14,MISSING/NOT SPECIFIED,CA,
+Los Padres National Forest,CACHUMA,1992,2448860,Miscellaneous,2448860,236,600,710,34.5167,-119.908,"Santa Barbara, CA 93117, USA",5,USFS,CA,
+Angeles National Forest,KINNELOA,1993,2449290,Campfire,2449300,310,600,5700,34.185,-118.087,"2399 Kinclair Dr, Pasadena, CA 91107, USA",5,USFS,CA,
+Cleveland National Forest,ORTEGA,1993,2449290,Miscellaneous,2449290,307,1800,21384,33.4717,-117.488,"Oceanside, CA 92055, USA",5,USFS,CA,
+Cleveland National Forest,EAGLE,1993,2449120,Campfire,2449120,136,1800,4600,32.9833,-116.733,"Ramona, CA 92065, USA",5,USFS,CA,
+Cleveland National Forest,BODEN,1993,2449120,Miscellaneous,2449120,133,1800,1300,33.1333,-116.867,"San Diego County, CA, USA",5,USFS,CA,
+Cleveland National Forest,VAIL_#2,1993,2449290,Arson,2449290,301,600,500,33.4767,-117.025,"39315 Pauba Rd, Temecula, CA 92592, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,GUEJITO,1993,2449290,Miscellaneous,2449290,305,242,20768,33.1583,-116.973,"24360 Old Wagon Rd, Escondido, CA 92027, USA",14,MISSING/NOT SPECIFIED,CA,
+Inyo National Forest,,1993,2449200,Lightning,2449200,215,1600,405,37.7883,-118.908,"Mono County, CA, USA",5,USFS,CA,
+Los Padres National Forest,MARRE,1993,2449260,Smoking,2449270,281,1800,43201,34.6867,-119.958,"Los Padres National Forest, Goleta, CA, USA",13,STATE OR PRIVATE,CA,
+Los Padres National Forest,WHEEL,1993,2449290,Arson,2449290,305,1524,1650,34.5183,-119.295,"Ojai, CA 93023, USA",5,USFS,CA,
+Six Rivers National Forest,,1993,2449320,Debris Burning,2449320,331,600,307,40.275,-123.56,"Humboldt County, CA, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,MILL CREEK,1993,2449290,Equipment Use,2449290,302,1800,4680,34.0833,-117.038,"Mentone, CA 92359, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,REPPLIER,1993,2449290,Equipment Use,2449300,309,600,8780,33.94,-116.883,"546 W Indian School Ln, Banning, CA 92220, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,,1993,2449210,Miscellaneous,2449210,219,1800,475,33.75,-116.833,"Bee Canyon Truck Trail, Hemet, CA 92544, USA",5,USFS,CA,
+Sequoia National Forest,CHIMNEY,1993,2449170,Arson,2449170,181,1800,800,36.0133,-118.83,"32698-32648 Indian Reservation Dr, Springville, CA 93265, USA",6,OTHER FEDERAL,CA,
+Sequoia National Forest,GIBBON,1993,2449220,Equipment Use,2449230,239,1800,750,36.0083,-118.78,"Woodville, CA 93257, USA",6,OTHER FEDERAL,CA,
+Sequoia National Forest,POWER,1993,2449120,Arson,2449120,132,2359,517,35.45,-118.782,"Bakersfield, CA 93306, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,RUSSIA,1993,2449230,Arson,2449230,243,1800,1485,35.465,-118.76,"Bakersfield, CA 93306, USA",5,USFS,CA,
+Sierra National Forest,SYCAMORE,1993,2449180,Arson,2449180,195,1800,500,36.975,-119.342,"31673-31949 Sycamore Rd, Tollhouse, CA 93667, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,,1993,2449180,Arson,2449180,192,1800,485,34.3167,-117.46,"Phelan, CA 92371, USA",5,USFS,CA,
+Angeles National Forest,HEATON,1994,2449580,Campfire,2449590,233,1800,600,34.2583,-117.757,"Irwindale, CA 91702, USA",5,USFS,CA,
+Angeles National Forest,SCOUT,1994,2449530,Campfire,2449530,181,1800,3020,34.4167,-117.635,"9179 Arena Rd, Pinon Hills, CA 92372, USA",5,USFS,CA,
+Angeles National Forest,SHOOTING,1994,2449530,Miscellaneous,2449530,180,600,3490.1,34.4433,-118.08,"Palmdale, CA 93550, USA",5,USFS,CA,
+Angeles National Forest,AGUA DULCE,1994,2449630,Miscellaneous,2449630,281,1700,1021,34.4567,-118.33,"30918-31302 Agua Dulce Canyon Rd, Santa Clarita, CA 91390, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,SECOND,1994,2449530,Miscellaneous,2449550,197,2130,5120,33.1583,-116.867,"Ramona, CA 92065, USA",13,STATE OR PRIVATE,CA,
+Cleveland National Forest,BROWNS,1994,2449570,Miscellaneous,2449570,222,1800,435,32.8667,-116.683,"21352-21342 Viejas Grade Rd, Alpine, CA 91901, USA",6,OTHER FEDERAL,CA,
+Klamath National Forest,RHOMBUS,1994,2449550,Lightning,2449560,206,1800,300,41.8583,-122.958,"Klamath River, CA 96050, USA",13,STATE OR PRIVATE,CA,
+Klamath National Forest,BEAR,1994,2449550,Lightning,2449560,210,1800,1582,41.7233,-123.545,"Siskiyou County, CA, USA",5,USFS,CA,
+Klamath National Forest,KELSEY,1994,2449560,Lightning,2449570,222,800,300,41.6917,-123.64,"Siskiyou County, CA, USA",5,USFS,CA,
+Klamath National Forest,HARRINGTON,1994,2449550,Lightning,2449570,222,800,1203,41.6667,-123.663,"Siskiyou County, CA, USA",5,USFS,CA,
+Klamath National Forest,JACK #1,1994,2449560,Lightning,2449570,222,1800,28953,41.635,-123.638,"Siskiyou County, CA, USA",5,USFS,CA,
+Klamath National Forest,SPECIMEN,1994,2449610,Lightning,2449640,285,1800,7015,41.365,-123.15,"Siskiyou County, CA, USA",5,USFS,CA,
+Lassen National Forest,BARKLEY,1994,2449610,Lightning,2449640,283,1800,44683,40.135,-121.678,"Sierra Nevada, California, USA",5,USFS,CA,
+Mendocino National Forest,SUGARFOOT,1994,2449590,Smoking,2449610,253,1200,2778,39.88,-122.795,"Tehama County, CA, USA",5,USFS,CA,
+Plumas National Forest,DOYLE,1994,2449510,Debris Burning,2449510,156,1800,2000,40.0069,-120.145,"Doyle, CA 96109, USA",13,STATE OR PRIVATE,CA,
+San Bernardino National Forest,DEVILS,1994,2449540,Miscellaneous,2449540,190,1800,12303,34.3017,-117.128,"San Bernardino County, CA, USA",5,USFS,CA,
+San Bernardino National Forest,ROUSE,1994,2449580,Lightning,2449580,230,600,540,33.545,-117.522,"Mission Viejo, CA 92675, USA",5,USFS,CA,
+San Bernardino National Forest,WILLOW,1994,2449580,Lightning,2449580,230,600,1200,33.56,-117.557,"Portola Hills, CA 92679, USA",5,USFS,CA,
+San Bernardino National Forest,FRANKISH,1994,2449550,Campfire,2449550,196,600,308.8,34.1717,-117.633,"Upland, CA 91784, USA",13,STATE OR PRIVATE,CA,
+San Bernardino National Forest,WATERMAN,1994,2449590,Arson,2449590,236,1800,350,33.4433,-117.635,"260 Via Socorro, San Clemente, CA 92672, USA",13,STATE OR PRIVATE,CA,
+San Bernardino National Forest,PALM,1994,2449530,Lightning,2449540,191,1800,20901,33.6367,-116.508,"Riverside County, CA, USA",5,USFS,CA,
+San Bernardino National Forest,LAKE HEMET,1994,2449530,Lightning,2449540,185,1800,622,33.6667,-116.7,"Mountain Center, CA 92561, USA",13,STATE OR PRIVATE,CA,
+San Bernardino National Forest,FAIRVIEW,1994,2449530,Debris Burning,2449530,181,1800,6420,33.85,-116.683,"Riverside County, CA, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,HIGHWAY 74,1994,2449570,Lightning,2449570,220,1800,1150,33.5583,-116.57,"Anza, CA 92539, USA",5,USFS,CA,
+San Bernardino National Forest,ESPERANZA,1994,2449590,Arson,2449590,235,1800,657,33.9017,-116.737,"F St, Cabazon, CA 92230, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,PEAK,1994,2449530,Lightning,2449540,183,1800,2926,35.5033,-118.703,"Bakersfield, CA 93306, USA",5,USFS,CA,
+Sequoia National Forest,LUCAS #4,1994,2449530,Lightning,2449540,183,1800,5179,35.455,-118.713,"Kern County, CA, USA",13,STATE OR PRIVATE,CA,
+Shasta-Trinity National Forest,SCORPION,1994,2449610,Lightning,2449620,267,1800,638,41.1017,-122.663,"Trinity County, CA, USA",5,USFS,CA,
+Sierra National Forest,BIG CREEK,1994,2449590,Miscellaneous,2449600,245,600,5250,37.2083,-119.295,"Fresno County, CA, USA",5,USFS,CA,
+Sierra National Forest,GARLIC,1994,2449520,Lightning,2449520,170,1900,626,36.86,-118.943,"Fresno County, CA, USA",5,USFS,CA,
+Sierra National Forest,SECATA,1994,2449600,Miscellaneous,2449600,247,600,595,36.8883,-119.197,"Tollhouse, CA 93667, USA",5,USFS,CA,
+Stanislaus National Forest,CREEK,1994,2449570,Smoking,2449580,224,800,1409,38.0667,-120.35,"24400 Forest Rte 4N26, Columbia, CA 95310, USA",5,USFS,CA,
+Tahoe National Forest,COTTONWOOD,1994,2449580,Arson,2449600,243,1800,46800,39.5417,-120.317,"Sierraville, CA 96126, USA",5,USFS,CA,
+Tahoe National Forest,CRYSTAL,1994,2449570,Equipment Use,2449580,227,1800,7310,39.5017,-120.067,"Floriston, CA 96111, USA",5,USFS,CA,
+Tahoe National Forest,HIRSCHDALE,1994,2449580,Equipment Use,2449590,234,1800,1300,39.3817,-120.082,"10146 Hirschdale Rd, Truckee, CA 96161, USA",14,MISSING/NOT SPECIFIED,CA,
+Angeles National Forest,FREEWAY,1995,2449930,Equipment Use,2449930,216,1600,450,34.5183,-118.63,"32943 Ridge Rte Rd, Castaic, CA 91384, USA",14,MISSING/NOT SPECIFIED,CA,
+Angeles National Forest,FREEWAY II,1995,2450000,Arson,2450000,278,1800,1370,34.4567,-118.348,"Agua Dulce, CA 91390, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,WARNER,1995,2450000,Arson,2450010,290,1800,2388,33.335,-116.715,"Peralta Dr, Warner Springs, CA 92086, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,SPRING,1995,2450010,Equipment Use,2450010,294,1800,390,33.38,-116.72,"Unnamed Road, Warner Springs, CA 92086, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,BUTTERFIELD,1995,2449890,Arson,2449890,177,1800,7083,32.975,-116.442,"Julian, CA 92036, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,EL MONTE,1995,2449960,Smoking,2449960,246,1800,8100,32.8883,-116.827,"16438 El Monte Rd, Lakeside, CA 92040, USA",14,MISSING/NOT SPECIFIED,CA,
+Inyo National Forest,POLE,1995,2449880,Miscellaneous,2449920,201,2300,5550,37.4133,-118.6,"Vanadium Ranch Rd, Bishop, CA 93514, USA",5,USFS,CA,
+Klamath National Forest,PONY,1995,2449930,Campfire,2449940,227,1800,2095,41.6367,-123.602,"Siskiyou County, CA, USA",5,USFS,CA,
+San Bernardino National Forest,ROUSE,1995,2449930,Campfire,2449940,220,1800,1039,34.2867,-117.145,"Squint Ranch Rd, California, USA",5,USFS,CA,
+San Bernardino National Forest,CROWDER,1995,2449920,Equipment Use,2449920,207,2359,1000,34.3733,-117.478,"6684-6300 Shasta Rd, Phelan, CA 92371, USA",5,USFS,CA,
+San Bernardino National Forest,VERBENIA,1995,2449930,Equipment Use,2449940,224,1200,23455,33.9517,-116.692,"Whitewater, CA 92282, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,BLUFF,1995,2450000,Campfire,2450010,293,1800,2624,33.9967,-116.918,"8701 Peach Summit Dr, Banning, CA 92220, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,APACHE,1995,2449990,Arson,2449990,272,1800,3500,33.925,-116.797,"Unnamed Road, Cabazon, CA 92230, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,ESPERANZA,1995,2450050,Equipment Use,2450050,331,800,660,33.9,-116.767,"Cabazon, CA 92230, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,ROCKY,1995,2449920,Miscellaneous,2449920,200,600,1704,35.48,-118.748,"Kern County, CA, USA",5,USFS,CA,
+Sierra National Forest,POWERHOUSE #2,1995,2449950,Arson,2449950,236,2359,492,37.1333,-119.505,"Auberry, CA 93602, USA",14,MISSING/NOT SPECIFIED,CA,
+Tahoe National Forest,HELESTER,1995,2449940,Equipment Use,2449950,228,2000,624,39.2111,-120.671,"Placer County, CA, USA",13,STATE OR PRIVATE,CA,
+Humboldt-Toiyabe National Forest,MT. JACKSON,1996,2450310,Lightning,2450310,230,1800,857,38.3067,-119.376,"Mono County, CA, USA",5,USFS,CA,
+Modoc National Forest,RANCH,1996,2450320,Lightning,2450330,246,600,551,41.6231,-121.247,"Modoc County, CA, USA",5,USFS,CA,
+Modoc National Forest,DAMON/LONG,1996,2450320,Lightning,2450330,243,1800,23398,41.565,-121.247,"California, USA",5,USFS,CA,
+Modoc National Forest,LAKE,1996,2450320,Lightning,2450330,246,600,393,41.6664,-121.324,"Modoc County, CA, USA",5,USFS,CA,
+Modoc National Forest,HORSE,1996,2450310,Miscellaneous,2450310,226,1900,2465,41.9019,-121.311,"Tulelake, CA 96134, USA",13,STATE OR PRIVATE,CA,
+Modoc National Forest,DALTON 3,1996,2450320,Lightning,2450330,244,1800,3032,41.7386,-121.073,"Modoc County, CA, USA",5,USFS,CA,
+Tahoe National Forest,MARTINECK,1996,2450310,Lightning,2450310,226,600,580,39.725,-120.158,"Plumas County, CA, USA",6,OTHER FEDERAL,CA,
+Inyo National Forest,SAGE FLAT,1996,2450280,Equipment Use,2450280,199,1800,2091,36.2217,-118.045,"1543-2077 Sage Flats Rd, Olancha, CA 93549, USA",13,STATE OR PRIVATE,CA,
+Sequoia National Forest,BOREL,1996,2450300,Miscellaneous,2450300,218,1800,2650,35.5783,-118.557,"Havilah, CA 93518, USA",5,USFS,CA,
+Angeles National Forest,AGUA DULCE,1996,2450240,Miscellaneous,2450240,154,2115,325,34.46,-118.343,"Agua Dulce, CA 91390, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,CANYON,1996,2450240,Miscellaneous,2450240,157,1800,3328,35.4533,-118.78,"Bakersfield, CA 93306, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,SIERRA,1996,2450260,Miscellaneous,2450260,176,1800,1092,35.77,-118.42,"Kernville, CA, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,WILLOW,1996,2450280,Lightning,2450280,194,1800,633,35.5183,-118.695,"Bakersfield, CA 93306, USA",5,USFS,CA,
+Sequoia National Forest,DELONEGHA,1996,2450320,Arson,2450320,239,1000,593,35.5583,-118.607,"Kern County, CA, USA",5,USFS,CA,
+Shasta-Trinity National Forest,BUTCHER,1996,2450310,Lightning,2450320,237,1800,456,41.13,-122.012,"Big Bend, CA 96011, USA",5,USFS,CA,
+Six Rivers National Forest,PANTHER,1996,2450350,Arson,2450360,276,800,700,41.8467,-123.922,"Gasquet, CA 95543, USA",5,USFS,CA,
+Plumas National Forest,MADDALENA,1996,2450290,Equipment Use,2450290,212,1800,4660,39.8367,-120.285,"Plumas County, CA, USA",13,STATE OR PRIVATE,CA,
+Shasta-Trinity National Forest,MORRIS,1996,2450310,Lightning,2450320,238,1800,470,40.965,-122.942,"Trinity County, CA, USA",5,USFS,CA,
+Plumas National Forest,COOKS,1996,2450300,Equipment Use,2450310,228,1800,1260,40.2,-120.848,"Plumas County, CA, USA",13,STATE OR PRIVATE,CA,
+Stanislaus National Forest,ACKERSON,1996,2450310,Lightning,2450340,256,1800,12371,37.855,-119.827,"Yosemite National Park, California, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,CHISHOLM,1996,2450240,Equipment Use,2450250,163,1800,1424,33.9883,-116.938,"Beaumont, CA 92223, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,COW #1,1996,2450270,Arson,2450270,188,2100,650,36.0367,-118.775,"687 S Reservation Rd, Porterville, CA 93257, USA",6,OTHER FEDERAL,CA,
+Sequoia National Forest,OAK FLAT,1996,2450370,Arson,2450370,291,1759,1000,36.015,-118.778,"Woodville, CA 93257, USA",6,OTHER FEDERAL,CA,
+Sequoia National Forest,CHALOLO #1,1996,2450310,Arson,2450330,243,1759,2850,36.0433,-118.67,"Woodville, CA 93257, USA",6,OTHER FEDERAL,CA,
+Mendocino National Forest,FORK,1996,2450310,Arson,2450330,251,1800,83323,39.2583,-122.917,"Upper Lake, CA 95485, USA",5,USFS,CA,
+Angeles National Forest,BICHOTA,1996,2450260,Campfire,2450270,186,1800,1800,34.2633,-117.837,"Irwindale, CA 91702, USA",5,USFS,CA,
+Angeles National Forest,NORTH FORK,1996,2450280,Equipment Use,2450280,202,1800,400,34.1767,-117.755,"N San Dimas Canyon Rd, La Verne, CA 91750, USA",5,USFS,CA,
+Angeles National Forest,RESERVOIR,1996,2450320,Arson,2450320,241,1800,1428,34.18,-117.882,"Irwindale, CA 91702, USA",5,USFS,CA,
+Shasta-Trinity National Forest,ROCK,1996,2450310,Lightning,2450320,234,1800,2523,40.185,-122.987,"Trinity County, CA, USA",5,USFS,CA,
+Sierra National Forest,STUMPFIELD,1996,2450300,Miscellaneous,2450300,221,1800,2770,37.4283,-119.843,"3802-4656 Wildcat Rd, Mariposa, CA 95338, USA",5,USFS,CA,
+Sierra National Forest,TRIMMER 2,1996,2450310,Arson,2450310,232,1800,5607,36.87,-119.313,"34498-34030 E Trimmer Springs Rd, Sanger, CA 93657, USA",13,STATE OR PRIVATE,CA,
+San Bernardino National Forest,WATERMAN 3,1996,2450380,Campfire,2450380,301,1200,600,34.185,-117.268,"Arrowhead Springs Rd, San Bernardino, CA 92404, USA",13,STATE OR PRIVATE,CA,
+Los Padres National Forest,GRAND,1996,2450200,Miscellaneous,2450210,125,1800,10925,34.4594,-118.938,"Fillmore, CA 93015, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,PONY,1996,2450220,Equipment Use,2450220,134,2359,1067,33.58,-116.953,"37100-37472 Painted Pony Rd, Temecula, CA 92592, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,ESPERANZA,1996,2450250,Arson,2450250,163,1800,315,33.8833,-116.767,"Riverside County, CA, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,SABOBA,1996,2450260,Children,2450260,176,1800,670,33.78,-116.918,"23333 Soboba Rd, San Jacinto, CA 92583, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,CHINO,1996,2450260,Equipment Use,2450260,180,1700,300,33.84,-116.597,"Palm Springs, CA 92264, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,BEE #2,1996,2450260,Miscellaneous,2450270,188,1800,9620,33.735,-116.835,"47497 Idyllwild National Forest Hwy, Hemet, CA 92544, USA",5,USFS,CA,
+San Bernardino National Forest,DIEGO,1996,2450270,Arson,2450270,188,600,1057,33.5933,-116.802,"Aguanga, CA 92536, USA",5,USFS,CA,
+San Bernardino National Forest,LADDER,1996,2450320,Lightning,2450330,244,1800,440,33.61,-116.552,"Mountain Center, CA 92561, USA",5,USFS,CA,
+San Bernardino National Forest,ORANGE,1996,2450320,Arson,2450320,238,800,548,33.8933,-116.79,"Banning, CA 92220, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,SABINA,1996,2450330,Equipment Use,2450330,247,2359,788,33.8,-116.95,"San Jacinto, CA, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,WESLEY #2,1996,2450360,Arson,2450360,274,1800,423,33.91,-116.848,"Porter St, Banning, CA 92220, USA",14,MISSING/NOT SPECIFIED,CA,
+Angeles National Forest,RANCH 3,1996,2450250,Equipment Use,2450250,171,2000,1000,34.6533,-118.348,"Lake Hughes, CA 93532, USA",14,MISSING/NOT SPECIFIED,CA,
+Angeles National Forest,HASLEY,1996,2450270,Miscellaneous,2450270,190,1800,300,34.4633,-118.662,"30288 Hasley Canyon Rd, Castaic, CA 91384, USA",6,OTHER FEDERAL,CA,
+Angeles National Forest,MARPLE,1996,2450320,Arson,2450330,248,2359,22000,34.525,-118.643,"34052 Ridge Rte Rd, Castaic, CA 91384, USA",14,MISSING/NOT SPECIFIED,CA,
+Angeles National Forest,CAMP,1996,2450330,Arson,2450330,251,2359,855,34.5583,-118.488,"Agua Dulce, CA 91390, USA",5,USFS,CA,
+Angeles National Forest,BIEDEBACH,1996,2450330,Smoking,2450330,247,1800,680,34.33,-117.667,"Mt Baldy, CA 91759, USA",5,USFS,CA,
+Los Padres National Forest,WASIOJA,1996,2450270,Equipment Use,2450270,188,1000,2830,34.9231,-119.812,"Santa Barbara County, CA, USA",14,MISSING/NOT SPECIFIED,CA,
+Los Padres National Forest,GORGE,1996,2450280,Lightning,2450280,198,1800,1800,34.59,-118.772,"Los Padres National Forest, Goleta, CA, USA",5,USFS,CA,
+Los Padres National Forest,HIGHWAY 58,1996,2450310,Equipment Use,2450320,238,800,106668,35.42,-120.423,"Los Padres National Forest, Goleta, CA, USA",14,MISSING/NOT SPECIFIED,CA,
+Los Padres National Forest,WILD,1996,2450360,Arson,2450370,292,1800,25620,35.9683,-121.483,"CA-1, Big Sur, CA 93920, USA",5,USFS,CA,
+Los Padres National Forest,SUR,1996,2450370,Miscellaneous,2450390,304,1800,4410,36.2483,-121.748,"Big Sur, CA 93920, USA",5,USFS,CA,
+Cleveland National Forest,SHORT,1996,2450240,Equipment Use,2450240,154,1800,653,33.645,-117.358,"33136 Evergreen St, Lake Elsinore, CA 92530, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,DRIP_2,1996,2450240,Arson,2450240,154,1800,1082,33.4667,-116.972,"39755 CA-79, Temecula, CA 92592, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,CEDAR,1996,2450240,Campfire,2450250,164,1800,466,32.985,-116.752,"Ramona, CA 92065, USA",13,STATE OR PRIVATE,CA,
+Cleveland National Forest,BARRETT,1996,2450300,Campfire,2450300,214,1800,750,32.6317,-116.692,"1820-1762 Barrett Lake Rd, Dulzura, CA 91917, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,PECHANGA,1996,2450260,Arson,2450260,181,1800,1336,33.4467,-117.08,"Pico Corners, Temecula, CA 92592, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,DEEP CREEK,1996,2450240,Arson,2450240,155,1800,900,34.345,-117.233,"Hesperia, CA 92345, USA",6,OTHER FEDERAL,CA,
+Angeles National Forest,SHOOTING,1997,2450570,Miscellaneous,2450570,122,1800,480,34.31,-118.367,"Lake View Terrace, CA 91342, USA",5,USFS,CA,
+Tahoe National Forest,MAYBERT,1997,2450590,Debris Burning,2450590,143,1800,470,39.35,-120.747,"21081 Maybert Rd, Nevada City, CA 95959, USA",13,STATE OR PRIVATE,CA,
+Cleveland National Forest,EAST GRADE,1997,2450520,Miscellaneous,2450520,71,1800,335,33.2933,-116.8,"E Grade Rd, Santa Ysabel, CA 92070, USA",5,USFS,CA,
+Angeles National Forest,PLACERITA,1997,2450630,Miscellaneous,2450630,184,2100,400,34.3817,-118.465,"25214 Running Horse Rd, Newhall, CA 91321, USA",5,USFS,CA,
+Los Padres National Forest,LOGAN,1997,2450660,Miscellaneous,2450680,228,1759,49490,35.1417,-120.168,"RANCHO SUEY, CA 93454, USA",13,STATE OR PRIVATE,CA,
+Sequoia National Forest,CHOKE,1997,2450670,Lightning,2450670,224,1800,4100,36.825,-118.762,"Sierra Nevada, California, USA",5,USFS,CA,
+Lassen National Forest,GOOCH,1997,2450660,Lightning,2450670,221,900,626,40.7783,-120.892,"California, USA",14,MISSING/NOT SPECIFIED,CA,
+Cleveland National Forest,SANTIAGO,1997,2450690,Equipment Use,2450690,246,600,600,33.69,-117.625,"18737 E Santiago Canyon Rd, Trabuco Canyon, CA 92679, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,COFFEE,1997,2450720,Miscellaneous,2450720,270,1000,2470,36.1583,-118.748,"40614 CA-190, Springville, CA 93265, USA",5,USFS,CA,
+Sequoia National Forest,DEMOCRAT,1997,2450720,Arson,2450720,271,1800,734,35.5317,-118.627,"Bakersfield, CA 93306, USA",13,STATE OR PRIVATE,CA,
+Cleveland National Forest,BAKER,1997,2450730,Debris Burning,2450740,293,1800,6317,33.7683,-117.66,"Unnamed Road, Silverado, CA 92676, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,PAUBA,1997,2450690,Campfire,2450690,246,800,7231,33.495,-117.007,"37600 Turf Ln, Temecula, CA 92592, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,JACKS,1997,2450670,Lightning,2450680,230,1800,5693,35.61,-118.117,"Onyx, CA 93255, USA",5,USFS,CA,
+San Bernardino National Forest,CITY CREEK,1997,2450710,Arson,2450720,268,1800,521,34.1567,-117.18,"CA-330, Highland, CA 92346, USA",5,USFS,CA,
+San Bernardino National Forest,MILL,1997,2450700,Miscellaneous,2450710,263,1800,1336,34.1717,-117.145,"San Bernardino County, CA, USA",5,USFS,CA,
+San Bernardino National Forest,WILDWOOD,1997,2450710,Equipment Use,2450710,266,1800,828.8,34.02,-116.997,"Oak Tree Loop, Yucaipa, CA 92399, USA",14,MISSING/NOT SPECIFIED,CA,
+Los Padres National Forest,HOMESTEAD,1997,2450720,Miscellaneous,2450720,270,600,375,34.5183,-120.168,"Santa Barbara, CA 93117, USA",5,USFS,CA,
+Angeles National Forest,CANYON 2,1997,2450630,Equipment Use,2450640,189,2000,5200,34.1633,-117.905,"13 Mountain Laurel Way, Azusa, CA 91702, USA",14,MISSING/NOT SPECIFIED,CA,
+Angeles National Forest,NARROWS,1997,2450670,Debris Burning,2450680,235,2000,18186,34.2833,-117.75,"Irwindale, CA 91702, USA",5,USFS,CA,
+Inyo National Forest,TOWER II,1997,2450590,Lightning,2450620,174,1800,598,36.3367,-118.395,"Sierra Nevada, California, USA",5,USFS,CA,
+San Bernardino National Forest,POPPET,1997,2450710,Arson,2450720,268,1800,1500,33.8817,-116.85,"16601-16927 CA-243, Banning, CA 92220, USA",6,OTHER FEDERAL,CA,
+San Bernardino National Forest,HEMLOCK,1997,2450630,Miscellaneous,2450640,190,1800,3737,34.1567,-117.233,"3709 N Hemlock Dr, San Bernardino, CA 92404, USA",5,USFS,CA,
+Sequoia National Forest,STINE,1998,2451040,Miscellaneous,2451040,231,1800,400,35.68,-118.412,"6651 Sierra Way, Kernville, CA 93238, USA",5,USFS,CA,
+Cleveland National Forest,FEATHERSTONE,1998,2451050,Miscellaneous,2451050,235,1800,400,32.9417,-116.833,"Lakeside, CA 92040, USA",14,MISSING/NOT SPECIFIED,CA,
+Six Rivers National Forest,BUCK,1998,2451070,Miscellaneous,2451080,263,1800,845,41.65,-123.85,"California, USA",5,USFS,CA,
+Modoc National Forest,NORTH CROWDER,1998,2451050,Lightning,2451060,251,1000,2694,41.7675,-120.552,"California, USA",5,USFS,CA,
+Los Padres National Forest,OGILVY,1998,2451100,Equipment Use,2451110,297,1800,4000,34.6133,-119.61,"Santa Barbara County, CA, USA",5,USFS,CA,
+Inyo National Forest,TOM,1998,2451050,Miscellaneous,2451070,253,1300,3420,37.34,-118.613,"Inyo County, CA, USA",6,OTHER FEDERAL,CA,
+Sierra National Forest,ROUGH,1998,2451110,Campfire,2451110,295,1800,960,36.8617,-118.995,"Fresno County, CA, USA",5,USFS,CA,
+Angeles National Forest,SAN FRAN,1998,2451010,Miscellaneous,2451020,202,1800,450,34.5167,-118.533,"30522 San Francisquito Canyon Rd, Santa Clarita, CA 91390, USA",5,USFS,CA,
+San Bernardino National Forest,BRYANT,1998,2451060,Lightning,2451060,244,1800,319,34.0833,-117.05,"Mentone, CA 92359, USA",14,MISSING/NOT SPECIFIED,CA,
+Modoc National Forest,REFUGE,1998,2451030,Equipment Use,2451030,219,1800,9700,41.8883,-121.697,"Dorris, CA 96023, USA",14,MISSING/NOT SPECIFIED,CA,Madera
+San Bernardino National Forest,EDNA,1998,2451090,Miscellaneous,2451090,281,1800,28164,33.9067,-116.867,"Banning, CA 92220, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,GRAPEVINE,1998,2451030,Miscellaneous,2451030,220,1800,347,34.4033,-117.058,"Lucerne Valley, CA 92356, USA",14,MISSING/NOT SPECIFIED,CA,
+Stanislaus National Forest,HIRAM,1999,2451400,Lightning,2451510,335,1800,2843,38.4503,-119.883,"Alpine County, CA, USA",5,USFS,CA,
+Stanislaus National Forest,DEER,1999,2451400,Lightning,2451460,284,2300,326,38.5422,-119.917,"Alpine County, CA, USA",5,USFS,CA,
+Stanislaus National Forest,WINTON,1999,2451430,Lightning,2451430,256,2300,400,38.43,-120.44,"1050 Old Rd, West Point, CA 95255, USA",14,MISSING/NOT SPECIFIED,CA,
+Stanislaus National Forest,PILOT,1999,2451410,Equipment Use,2451420,242,1800,4028,37.8231,-120.018,"Groveland, CA 95321, USA",13,STATE OR PRIVATE,CA,
+Modoc National Forest,PINE,1999,2451410,Lightning,2451420,244,1200,30568,41.7097,-121.073,"California, USA",5,USFS,CA,
+Modoc National Forest,BELL WEST,1999,2451320,Miscellaneous,2451320,146,1200,377,41.435,-121.459,"Siskiyou County, CA, USA",13,STATE OR PRIVATE,CA,
+Modoc National Forest,SHEEP,1999,2451400,Lightning,2451400,223,1800,676,41.8006,-121.601,"Siskiyou County, CA, USA",5,USFS,CA,
+Modoc National Forest,YELLOW,1999,2451410,Lightning,2451420,242,1800,4669,41.7531,-121.632,"Siskiyou County, CA, USA",5,USFS,CA,
+Angeles National Forest,BRIDGE,1999,2451420,Arson,2451430,250,1200,7200,34.2336,-117.85,"Irwindale, CA 91702, USA",13,STATE OR PRIVATE,CA,
+Angeles National Forest,INTERSTATE,1999,2451390,Equipment Use,2451390,209,1800,350,34.5844,-118.702,"Castaic, CA 91384, USA",5,USFS,CA,
+Cleveland National Forest,LAGUNA_100,1999,2451400,Arson,2451410,229,1800,4416,32.88,-116.417,"Mt Laguna, CA 91948, USA",5,USFS,CA,
+Cleveland National Forest,CHASE,1999,2451450,Arson,2451450,273,2200,440,33.8278,-117.638,"6311 Black Star Canyon Rd, Silverado, CA 92676, USA",13,STATE OR PRIVATE,CA,
+Cleveland National Forest,LA_JOLLA,1999,2451450,Debris Burning,2451460,278,1800,6800,33.2739,-116.857,"Pala, CA 92061, USA",6,OTHER FEDERAL,CA,
+Shasta-Trinity National Forest,TANGLE,1999,2451350,Campfire,2451360,177,1800,331,41.2019,-122.668,"Trinity County, CA, USA",5,USFS,CA,
+Shasta-Trinity National Forest,SUGAR,1999,2451410,Lightning,2451430,250,1800,5440,40.8658,-122.436,"Shasta County, CA, USA",13,STATE OR PRIVATE,CA,
+Shasta-Trinity National Forest,SHEEP #2,1999,2451410,Lightning,2451430,250,1800,960,40.885,-122.485,"Shasta County, CA, USA",5,USFS,CA,
+Shasta-Trinity National Forest,JACKASS,1999,2451410,Lightning,2451430,250,1800,5760,40.8356,-122.434,"Lakehead, CA 96051, USA",5,USFS,CA,
+Shasta-Trinity National Forest,SHEEP #3,1999,2451420,Lightning,2451430,250,1800,650,40.8972,-122.468,"Lakehead, CA 96051, USA",5,USFS,CA,
+Shasta-Trinity National Forest,MAMMOTH,1999,2451410,Lightning,2451420,242,1800,500,40.7358,-122.434,"Redding, CA 96001, USA",5,USFS,CA,
+Shasta-Trinity National Forest,BOHEMOTASH,1999,2451410,Lightning,2451430,250,1800,14090,40.7836,-122.468,"French Gulch, CA 96033, USA",13,STATE OR PRIVATE,CA,
+Shasta-Trinity National Forest,HIGH,1999,2451410,Lightning,2451460,278,1200,3082,40.9514,-122.301,"Lakehead, CA 96051, USA",13,STATE OR PRIVATE,CA,
+Shasta-Trinity National Forest,DOG,1999,2451410,Lightning,2451460,278,1200,700,40.9022,-122.468,"Lakehead, CA 96051, USA",5,USFS,CA,
+Shasta-Trinity National Forest,REPTILE,1999,2451410,Lightning,2451460,278,1200,1674,40.9689,-122.517,"Lakehead, CA 96051, USA",5,USFS,CA,
+Shasta-Trinity National Forest,JONES,1999,2451470,Miscellaneous,2451480,303,800,26202,40.7186,-122.201,"Bella Vista, CA, USA",5,USFS,CA,
+Shasta-Trinity National Forest,MEGRAM,1999,2451410,Lightning,2451490,307,800,124898,41.1025,-123.375,"Trinity County, CA, USA",5,USFS,CA,
+Shasta-Trinity National Forest,LUNCH,1999,2451410,Lightning,2451460,278,1200,1533,40.9172,-122.468,"Lakehead, CA 96051, USA",5,USFS,CA,
+Shasta-Trinity National Forest,SHEEP #1,1999,2451410,Lightning,2451440,262,1800,1280,40.8692,-122.503,"Shasta County, CA, USA",5,USFS,CA,
+Los Padres National Forest,KINGS,1999,2451350,Miscellaneous,2451360,181,,600,34.7025,-118.934,"Maricopa, CA 93252, USA",5,USFS,CA,
+Los Padres National Forest,FIVE,1999,2451380,Equipment Use,2451380,198,2200,316,34.8817,-118.927,"6645 Digier Rd, Lebec, CA 93243, USA",14,MISSING/NOT SPECIFIED,CA,
+Los Padres National Forest,DIGIER,1999,2451360,Miscellaneous,2451360,183,600,810,34.8825,-118.918,"Digier Rd, Lebec, CA 93243, USA",5,USFS,CA,
+Los Padres National Forest,TASSAJARA,1999,2451430,Lightning,2451500,323,1800,23761,36.2683,-121.617,"Los Padres National Forest, Goleta, CA, USA",5,USFS,CA,
+Los Padres National Forest,KIRK,1999,2451430,Lightning,2451430,254,1800,344,36.0014,-121.484,"Big Sur, CA 93920, USA",5,USFS,CA,
+Los Padres National Forest,HARE,1999,2451430,Lightning,2451460,284,1800,49551,36.0169,-121.501,"Big Sur, CA 93920, USA",5,USFS,CA,
+Los Padres National Forest,FIVE,1999,2451430,Lightning,2451460,283,1800,12960,36.2181,-121.634,"Los Padres National Forest, Goleta, CA, USA",5,USFS,CA,
+Los Padres National Forest,SPANISH,1999,2451380,Equipment Use,2451390,207,1800,14537,35.0456,-119.977,"Santa Barbara County, CA, USA",14,MISSING/NOT SPECIFIED,CA,
+Lassen National Forest,DEHAVEN,1999,2451410,Equipment Use,2451420,243,800,17000,40.3006,-121.832,"33399 Plum Creek Rd, Paynes Creek, CA 96075, USA",14,MISSING/NOT SPECIFIED,CA,
+Angeles National Forest,SHINN,1999,2451420,Miscellaneous,2451420,241,1800,656,34.1675,-117.668,"2624-2798 N Mountain Ave, Upland, CA 91784, USA",13,STATE OR PRIVATE,CA,
+Angeles National Forest,SANTA ANITA II,1999,2451540,Miscellaneous,2451540,363,1800,750,34.1833,-118.017,"Monrovia, CA 91016, USA",5,USFS,CA,
+Plumas National Forest,BIG 2,1999,2451410,Lightning,2451460,283,1200,1001,39.8847,-121.35,"Plumas County, CA, USA",5,USFS,CA,
+Plumas National Forest,BUCKS,1999,2451410,Lightning,2451460,283,1200,34175,39.9017,-121.317,"Plumas County, CA, USA",5,USFS,CA,
+Plumas National Forest,HORTON_2,1999,2451410,Equipment Use,2451430,250,1200,4336,39.8847,-120.351,"Portola, CA 96129, USA",5,USFS,CA,
+Plumas National Forest,CEMETARY,1999,2451430,Miscellaneous,2451430,252,1800,3930,39.8025,-120.141,"293 Frenchman Lake Road, Chilcoot, CA 96105, USA",13,STATE OR PRIVATE,CA,
+Plumas National Forest,PIEGEON,1999,2451410,Lightning,2451440,260,800,4713,39.8342,-121.033,"Plumas County, CA, USA",5,USFS,CA,
+Plumas National Forest,LOOKOUT,1999,2451410,Lightning,2451460,283,1200,2630,39.8339,-121.086,"Plumas County, CA, USA",5,USFS,CA,
+Plumas National Forest,DEVILS GAP,1999,2451410,Lightning,2451450,271,1800,1450,39.6844,-121.051,"Plumas County, CA, USA",5,USFS,CA,
+Plumas National Forest,STAG,1999,2451410,Lightning,2451430,249,1800,467,39.6181,-121.084,"Sierra Nevada, California, USA",5,USFS,CA,
+Plumas National Forest,BEAN,1999,2451410,Lightning,2451420,245,1800,1475,39.6292,-121.291,"Sierra Nevada, California, USA",6,OTHER FEDERAL,CA,
+Klamath National Forest,STEIN,1999,2451380,Lightning,2451430,250,1400,876,41.4069,-123.268,"Siskiyou County, CA, USA",5,USFS,CA,
+Klamath National Forest,EAST,1999,2451380,Lightning,2451400,222,800,1147,41.7356,-123.351,"Happy Camp, CA 96039, USA",5,USFS,CA,
+San Bernardino National Forest,TURTLE,1999,2451380,Equipment Use,2451390,209,1800,4035,34.3508,-117.528,"Lisa Ln, Phelan, CA 92371, USA",5,USFS,CA,
+San Bernardino National Forest,MIXING,1999,2451420,Arson,2451430,252,1800,3300,33.6856,-116.752,"Riverside County, CA, USA",5,USFS,CA,
+San Bernardino National Forest,PINE,1999,2451420,Arson,2451420,245,1300,1562,33.8667,-116.819,"48716 Twin Pines Rd, Banning, CA 92220, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,RICHBAR COMPLEX,1999,2451430,Miscellaneous,2451430,254,600,2570,35.4833,-118.7,"Kern County, CA, USA",5,USFS,CA,
+Inyo National Forest,DIVISION,1999,2451270,Miscellaneous,2451280,97,1200,2450,36.9347,-118.316,"Big Pine, CA 93513, USA",5,USFS,CA,
+Tahoe National Forest,PENDOLA,1999,2451470,Miscellaneous,2451480,298,1000,11725,39.4714,-121.086,"14444-14413 Pendola Rd, Camptonville, CA 95922, USA",13,STATE OR PRIVATE,CA,
+Los Padres National Forest,RANCH,1999,2451530,Miscellaneous,2451540,361,1800,4371,34.4506,-119.13,"12799 Sisar Canyon Rd, Ojai, CA 93023, USA",14,MISSING/NOT SPECIFIED,CA,
+Lassen National Forest,GUN 2,1999,2451450,Miscellaneous,2451480,298,800,60390,40.22,-121.662,"Tehama County, CA, USA",13,STATE OR PRIVATE,CA,
+Mendocino National Forest,PASS,1999,2451320,Debris Burning,2451320,145,1800,350,39.8339,-122.834,"Tehama County, CA, USA",5,USFS,CA,
+San Bernardino National Forest,WILLOW,1999,2451420,Miscellaneous,2451430,249,1200,65000,34.2675,-117.135,"San Bernardino County, CA, USA",5,USFS,CA,
+San Bernardino National Forest,ELLIOT,1999,2451370,Miscellaneous,2451370,188,1800,2576,34.3167,-117.418,"Hesperia, CA 92345, USA",5,USFS,CA,
+Klamath National Forest,BARK,2000,2451750,Miscellaneous,2451750,210,2000,1715,41.8358,-122.9,"46N97, Klamath River, CA 96050, USA",13,STATE OR PRIVATE,CA,
+Los Padres National Forest,PLASKETT 2,2000,2451750,Miscellaneous,2451760,217,1800,5856,35.9303,-121.433,"Big Sur, CA 93920, USA",5,USFS,CA,
+Plumas National Forest,ROBINSON II,2000,2451640,Debris Burning,2451640,96,17,505,39.9833,-120.117,"Doyle, CA 96109, USA",13,STATE OR PRIVATE,CA,
+Stanislaus National Forest,ARNOT,2000,2451730,Lightning,2451760,215,1800,780,38.4339,-119.785,"Alpine County, CA, USA",5,USFS,CA,
+Six Rivers National Forest,JOURNEY,2000,2451820,Arson,2451830,287,1800,990,40.3333,-123.385,"Lower Mad River Rd, Mad River, CA 95552, USA",13,STATE OR PRIVATE,CA,
+Cleveland National Forest,BUCKMAN,2000,2451750,Arson,2451750,205,1800,300,32.7617,-116.478,"Pine Valley, CA 91962, USA",5,USFS,CA,
+Inyo National Forest,AZUSA,2000,2451690,Campfire,2451700,153,600,740,37.9333,-119.119,"Lee Vining, CA 93541, USA",5,USFS,CA,
+Mendocino National Forest,TOWN,2000,2451630,Miscellaneous,2451640,92,700,1140,39.625,-122.686,"Elk Creek, CA 95939, USA",5,USFS,CA,
+Mendocino National Forest,CABBAGE,2000,2451640,Campfire,2451640,96,1800,1700,39.4736,-122.842,"9 W 32 Rd, Potter Valley, CA 95469, USA",5,USFS,CA,
+Sequoia National Forest,LAVA BUTTE,2000,2451910,Miscellaneous,2451920,8,1000,303,36.7828,-118.862,"Fresno County, CA, USA",5,USFS,CA,
+Angeles National Forest,DRY,2000,2451700,Arson,2451700,158,2200,356,34.5531,-118.516,"Agua Dulce, CA 91390, USA",5,USFS,CA,
+Angeles National Forest,PARADISE,2000,2451800,Miscellaneous,2451800,258,1915,427,34.5711,-118.69,"36060 Golden State Hwy, Castaic, CA 91384, USA",5,USFS,CA,
+Inyo National Forest,SAWMILL,2000,2451760,Lightning,2451770,226,1800,321,36.9167,-118.317,"Inyo County, CA, USA",5,USFS,CA,
+Inyo National Forest,CRYSTAL,2000,2451700,Lightning,2451730,182,1800,330,36.3078,-118.105,"Inyo County, CA, USA",5,USFS,CA,
+Sequoia National Forest,MANTER,2000,2451750,Miscellaneous,2451790,250,1800,75000,35.8678,-118.284,"Sierra Nevada, California, USA",5,USFS,CA,
+Plumas National Forest,STORRIE,2000,2451770,Railroad,2451810,271,1800,55261,39.9169,-121.318,"5669 CA-70, Belden, CA 95915, USA",5,USFS,CA,
+Los Padres National Forest,FOOTHILL,2000,2451900,Miscellaneous,2451900,355,1700,480,34.4758,-118.856,"Piru, CA 93040, USA",14,MISSING/NOT SPECIFIED,CA,
+Sequoia National Forest,WHITE,2001,2452050,Lightning,2452060,146,1210,335,36.2858,-118.517,"Tulare County, CA, USA",5,USFS,CA,
+Sequoia National Forest,CANYON,2001,2452080,Miscellaneous,2452080,171,600,566,35.4675,-118.759,"Bakersfield, CA 93306, USA",5,USFS,CA,
+Sequoia National Forest,DDEMOCRAT,2001,2452080,Miscellaneous,2452080,174,1800,550,35.5192,-118.618,"Sierra Nevada, California, USA",5,USFS,CA,
+Inyo National Forest,MCLAUGHLIN,2001,2452090,Lightning,2452100,186,1800,2714,37.7517,-118.868,"Mono County, CA, USA",5,USFS,CA,
+Mendocino National Forest,M-9,2001,2452030,Miscellaneous,2452030,123,1800,830,39.8092,-122.711,"Paskenta, CA 96074, USA",13,STATE OR PRIVATE,CA,
+Mendocino National Forest,TROUGH,2001,2452130,Miscellaneous,2452140,232,1800,24970,39.375,-122.635,"Elk Creek, CA 95939, USA",5,USFS,CA,
+Klamath National Forest,JONES,2001,2452040,Debris Burning,2452040,135,1800,1488,41.8525,-122.769,"14329 CA-96, Klamath River, CA 96050, USA",13,STATE OR PRIVATE,CA,
+Shasta-Trinity National Forest,BIG,2001,2452060,Miscellaneous,2452070,156,800,800,40.75,-123.217,"31030 CA-299, Big Bar, CA 96010, USA",5,USFS,CA,
+Shasta-Trinity National Forest,HYAMPOM,2001,2452150,Arson,2452160,246,1800,1065,40.5678,-123.235,"3051 Hyampom Rd, Hayfork, CA 96041, USA",13,STATE OR PRIVATE,CA,
+San Bernardino National Forest,HEMLOCK,2001,2452070,Miscellaneous,2452110,197,800,1074,34.1667,-117.067,"San Bernardino County, CA, USA",5,USFS,CA,
+Plumas National Forest,STREAM,2001,2452120,Lightning,2452120,215,1100,3560,40.1672,-120.634,"Taylorsville, CA 95983, USA",5,USFS,CA,
+Modoc National Forest,ROCK,2001,2452130,Lightning,2452140,229,1800,1313,41.8875,-120.867,"Modoc County, CA, USA",5,USFS,CA,
+Humboldt-Toiyabe National Forest,MARTIS,2001,2452080,Campfire,2452100,186,1205,14500,38.7725,-119.798,"1559 Diamond Valley Rd, Markleeville, CA 96120, USA",14,MISSING/NOT SPECIFIED,CA,
+Modoc National Forest,BELL,2001,2452130,Lightning,2452140,231,1800,2977,41.6953,-120.996,"California, USA",5,USFS,CA,
+Modoc National Forest,BSFMU31,2001,2452130,Lightning,2452140,230,1800,671,41.6953,-120.572,"Modoc County, CA, USA",5,USFS,CA,
+Modoc National Forest,BLUE,2001,2452130,Lightning,2452140,233,1800,34319,41.1594,-120.312,"Lassen County, CA, USA",5,USFS,CA,
+Tahoe National Forest,ROCK,2001,2452040,Debris Burning,2452040,134,1800,400,39.5675,-120.119,"Loyalton, CA 96118, USA",5,USFS,CA,Sierra
+Eldorado National Forest,STAR,2001,2452150,Miscellaneous,2452150,237,900,16761,39.05,-120.519,"Placer County, CA, USA",13,STATE OR PRIVATE,CA,
+Klamath National Forest,SWILLUP II,2001,2452170,Lightning,2452210,303,1000,8055,41.6058,-123.512,"74779-75011 Klamath River Hwy, Happy Camp, CA 96039, USA",5,USFS,CA,
+Inyo National Forest,CRATER,2001,2452130,Lightning,2452140,226,800,5570,37.8681,-118.983,"Mono County, CA, USA",5,USFS,CA,
+Angeles National Forest,SHINN,2001,2452080,Arson,2452080,172,1800,300,34.1739,-117.673,"2991 N Mountain Ave, Upland, CA 91784, USA",5,USFS,CA,
+Angeles National Forest,STABLES,2001,2452190,Miscellaneous,2452200,291,1800,6540,34.4906,-118.456,"13095 Texas Canyon Rd, Santa Clarita, CA 91390, USA",5,USFS,CA,
+Sierra National Forest,MUSIC,2001,2452140,Miscellaneous,2452140,233,600,300,37.19,-119.298,"Shaver Lake, CA 93634, USA",5,USFS,CA,
+Sierra National Forest,BRICEBURG,2001,2452110,Miscellaneous,2452130,218,1800,722,37.6153,-119.953,"Midpines, CA 95345, USA",14,MISSING/NOT SPECIFIED,CA,
+Eldorado National Forest,ST. PAULI,2002,2452480,Miscellaneous,2452490,211,800,325,38.7678,-120.433,"2 Bull Creek Ln, Pollock Pines, CA 95726, USA",13,STATE OR PRIVATE,CA,
+Lassen National Forest,CONE,2002,2452540,Equipment Use,2452550,273,1800,2006,40.7594,-121.182,"Lassen County, CA, USA",5,USFS,CA,
+Lake Tahoe Basin Management Unit,GONDOLA,2002,2452460,Smoking,2452470,191,1800,673,38.9342,-119.931,"1709-1635 Sherman Way, South Lake Tahoe, CA 96150, USA",13,STATE OR PRIVATE,CA,El Dorado
+Klamath National Forest,FORKS,2002,2452430,Debris Burning,2452440,161,1300,1301,41.275,-123.342,"14212 Forest Hwy 93, Forks of Salmon, CA 96031, USA",13,STATE OR PRIVATE,CA,
+Klamath National Forest,STANZA,2002,2452480,Lightning,2452490,217,700,2880,41.6681,-123.297,"Happy Camp, CA 96039, USA",5,USFS,CA,
+Inyo National Forest,FULLER,2002,2452470,Lightning,2452470,197,1800,6400,37.0581,-118.369,"Inyo County, CA, USA",5,USFS,CA,
+Inyo National Forest,PAIUTE,2002,2452540,Miscellaneous,2452550,275,1800,391,37.5242,-118.261,"Mono County, CA, USA",5,USFS,CA,
+Humboldt-Toiyabe National Forest,PAN,2002,2452470,Lightning,2452470,197,1800,506,38.3981,-119.222,"Mono County, CA, USA",5,USFS,CA,
+Humboldt-Toiyabe National Forest,CANNON,2002,2452440,Campfire,2452470,200,2000,23020,38.4561,-119.546,"Sierra Nevada, California, USA",5,USFS,CA,
+Los Padres National Forest,WOLF,2002,2452430,Miscellaneous,2452440,165,2359,21645,34.6092,-119.364,"22689 CA-33, Ojai, CA 93023, USA",13,STATE OR PRIVATE,CA,
+San Bernardino National Forest,MEYERS,2002,2452440,Arson,2452440,170,1800,363,33.9833,-116.867,"Banning, CA 92220, USA",14,MISSING/NOT SPECIFIED,CA,
+San Bernardino National Forest,LYTLE,2002,2452520,Arson,2452530,258,1800,554,34.2175,-117.468,"Lytle Creek Rd, Lytle Creek, CA 92358, USA",5,USFS,CA,
+San Bernardino National Forest,BEE,2002,2452430,Miscellaneous,2452430,154,1800,430,33.75,-116.829,"Hemet, CA 92544, USA",5,USFS,CA,
+Sequoia National Forest,ROCKY,2002,2452430,Miscellaneous,2452430,155,600,498,35.4686,-118.751,"Kern County, CA, USA",5,USFS,CA,
+Sequoia National Forest,MCNALLY,2002,2452480,Campfire,2452510,240,1800,150696,35.8736,-118.458,"Kernville, CA 93238, USA",5,USFS,CA,
+Stanislaus National Forest,SOURGRASS COMPLEX,2002,2452600,Debris Burning,2452610,335,1800,808,38.3417,-120.218,"232 Munari Ln, Arnold, CA 95223, USA",5,USFS,CA,
+Sierra National Forest,ROCK CREEK 2,2002,2452600,Debris Burning,2452610,335,1800,378,37.2906,-119.37,"Bass Lake, CA 93604, USA",5,USFS,CA,
+Cleveland National Forest,BOBCAT,2002,2452510,Miscellaneous,2452510,236,1800,379,32.71,-116.551,"Campo, CA 91906, USA",5,USFS,CA,
+Tahoe National Forest,GRANITE II,2002,2452600,Debris Burning,2452600,330,1600,352,39.4514,-120.687,"Nevada City, CA 95959, USA",13,STATE OR PRIVATE,CA,
+Los Padres National Forest,RED HILL,2002,2452500,Miscellaneous,2452510,233,1800,715,35.3594,-120.277,"Red Hill Rd, Santa Margarita, CA 93453, USA",5,USFS,CA,
+Los Padres National Forest,PINEY,2002,2452440,Campfire,2452450,171,1030,308,36.2792,-121.463,"Piney Creek Rd, Greenfield, CA 93927, USA",5,USFS,CA,
+Eldorado National Forest,PLUM,2002,2452600,Debris Burning,2452610,336,1200,1763,38.7192,-120.384,"El Dorado County, CA, USA",13,STATE OR PRIVATE,CA,
+Eldorado National Forest,HUNTER.,2002,2452600,Debris Burning,2452600,329,1800,2400,38.8842,-120.467,"El Dorado County, CA, USA",13,STATE OR PRIVATE,CA,
+San Bernardino National Forest,LOUISIANA,2002,2452450,Equipment Use,2452460,185,1800,6559,34.2361,-117.432,"16999 Cajon Blvd, San Bernardino, CA 92407, USA",5,USFS,CA,
+Angeles National Forest,BOUQUET,2002,2452410,Miscellaneous,2452410,133,1800,5200,34.5714,-118.398,"35261-35251 Bouquet Canyon Rd, Santa Clarita, CA 91390, USA",5,USFS,CA,
+Angeles National Forest,LEONA,2002,2452520,Arson,2452520,247,1800,5124,34.5864,-118.325,"37617 Bouquet Canyon Rd, Santa Clarita, CA 91390, USA",5,USFS,CA,
+Angeles National Forest,WILLIAMS,2002,2452540,Arson,2452560,283,1800,37240,34.2303,-117.787,"La Verne, CA 91750, USA",5,USFS,CA,
+Inyo National Forest,DEXTER,2003,2452880,Lightning,2452930,286,1200,2515,37.8314,-118.795,"Mono County, CA, USA",5,USFS,CA,
+Stanislaus National Forest,MUDD,2003,2452880,Lightning,2452940,300,1800,4102,38.4247,-119.961,"Arnold, CA 95223, USA",5,USFS,CA,
+Stanislaus National Forest,WHITT,2003,2452880,Lightning,2452940,300,1800,1014,38.3781,-120,"Sierra Nevada, California, USA",5,USFS,CA,
+Los Padres National Forest,DEL VENTURI,2003,2452860,Miscellaneous,2452860,225,2000,861,36.0711,-121.39,"Los Padres National Forest, Goleta, CA, USA",14,MISSING/NOT SPECIFIED,CA,
+Los Padres National Forest,PIRU,2003,2452940,Equipment Use,2452940,304,1800,63720,34.4875,-118.759,"Castaic, CA 91384, USA",13,STATE OR PRIVATE,CA,
+Los Padres National Forest,GILLAM,2003,2452930,Miscellaneous,2452930,290,1500,460,35.1519,-120.008,"Los Padres National Forest, Goleta, CA, USA",5,USFS,CA,
+Sierra National Forest,SNAKE,2003,2452890,Lightning,2452960,324,1200,412,37.5678,-119.19,"Sierra Nevada, California, USA",5,USFS,CA,
+San Bernardino National Forest,OLD,2003,2452940,Arson,2452960,319,1800,91281,34.1969,-117.276,"San Bernardino, CA 92404, USA",13,STATE OR PRIVATE,CA,
+Six Rivers National Forest,FRIDAY,2003,2452820,Equipment Use,2452820,184,1800,389,40.89,-123.601,"20 S Fork Rd, Salyer, CA 95563, USA",13,STATE OR PRIVATE,CA,
+Stanislaus National Forest,BOX,2003,2452840,Lightning,2453000,365,1200,1031,38.1269,-119.894,"Sierra Nevada, California, USA",5,USFS,CA,
+San Bernardino National Forest,BRIDGE,2003,2452890,Miscellaneous,2452900,257,1800,1352,34.1689,-117.183,"28867 City Creek Rd, Highland, CA 92346, USA",5,USFS,CA,
+Inyo National Forest,SUMMIT,2003,2452880,Lightning,2453000,365,1400,6721,36.2181,-118.131,"Tulare County, CA, USA",5,USFS,CA,
+Stanislaus National Forest,MOUNTAIN,2003,2452840,Lightning,2453000,365,1200,3090,38.1311,-119.886,"Sierra Nevada, California, USA",5,USFS,CA,
+Tahoe National Forest,COD FISH,2003,2452880,Lightning,2452890,253,600,814,39.0683,-120.711,"Placer County, CA, USA",5,USFS,CA,
+Tahoe National Forest,CHILCOOT COMPLEX,2003,2452840,Lightning,2452840,202,800,5635,39.7692,-120.16,"Plumas County, CA, USA",6,OTHER FEDERAL,CA,Plumas
+Modoc National Forest,ACKLEY,2003,2452850,Lightning,2452850,211,1800,9940,41.7531,-121.324,"Tulelake, CA 96134, USA",5,USFS,CA,
+Modoc National Forest,YELLOW,2003,2452890,Lightning,2452890,250,1800,554,41.7386,-121.613,"Siskiyou County, CA, USA",5,USFS,CA,
+Modoc National Forest,TIMBER,2003,2452890,Lightning,2452890,252,1800,313,41.5506,-121.324,"California, USA",5,USFS,CA,
+Angeles National Forest,MIDDLE,2003,2452860,Equipment Use,2452860,220,1800,300,34.3,-118.334,"Lake View Terrace, CA 91342, USA",13,STATE OR PRIVATE,CA,
+Angeles National Forest,HAUSER,2003,2452840,Miscellaneous,2452850,211,1800,2038,34.55,-118.308,"35969 Anthony Rd, Santa Clarita, CA 91390, USA",5,USFS,CA,
+Shasta-Trinity National Forest,LOMA,2003,2452900,Miscellaneous,2452900,265,1800,3740,40.7678,-123.319,"Big Bar, CA 96010, USA",13,STATE OR PRIVATE,CA,
+Modoc National Forest,SAND,2003,2452970,Debris Burning,2452970,333,1200,332,41.6664,-121.401,"Modoc County, CA, USA",5,USFS,CA,
+Six Rivers National Forest,SHELLEY,2002,2452480,Miscellaneous,2452490,214,1800,850,41.8803,-123.839,"Patrick Creek Rd, Gasquet, CA 95543, USA",5,USFS,CA,
+Cleveland National Forest,CEDAR,2003,2452940,Campfire,2452950,308,1800,280059,32.9856,-116.728,"Ramona, CA 92065, USA",5,USFS,CA,
+Sequoia National Forest,COONEY,2003,2452850,Lightning,2452990,349,1259,1850,36.3436,-118.537,"Sierra Nevada, California, USA",5,USFS,CA,
+Sequoia National Forest,HOOKER,2003,2452890,Lightning,2452970,329,1200,2241,36.0858,-118.2,"Tulare County, CA, USA",5,USFS,CA,
+Cleveland National Forest,PARADISE,2003,2452940,Arson,2452940,299,215,56427,33.2556,-116.953,"Valley Center, CA 92082, USA",6,OTHER FEDERAL,CA,
+Sequoia National Forest,CHINA,2003,2452850,Lightning,2452850,213,1800,509,35.5622,-118.65,"Kern County, CA, USA",5,USFS,CA,
+Mendocino National Forest,BEAR,2003,2452890,Lightning,2452890,252,1800,403,39.5733,-122.875,"Lake County, CA, USA",5,USFS,CA,
+Mendocino National Forest,BOARDMAN,2003,2452890,Lightning,2452890,251,1800,510,39.4878,-122.929,"10 W 32 Rd, Potter Valley, CA 95469, USA",5,USFS,CA,
+Mendocino National Forest,FELKNER,2003,2452890,Lightning,2452890,250,1200,407,39.5181,-122.685,"Elk Creek, CA 95939, USA",5,USFS,CA,
+Mendocino National Forest,HAPPY CAMP,2003,2452890,Lightning,2452900,258,1200,1481,39.5406,-122.735,"Elk Creek, CA 95939, USA",5,USFS,CA,
+Mendocino National Forest,SPANISH,2003,2452910,Campfire,2452910,271,1000,6058,39.6167,-122.851,"Glenn County, CA, USA",5,USFS,CA,
+Mendocino National Forest,DEAFY,2003,2452890,Lightning,2452890,255,1800,4696,39.5114,-122.785,"Lake County, CA, USA",5,USFS,CA,
+Plumas National Forest,COTTONWOOD,2004,2453130,Debris Burning,2453140,131,1000,560,40.1525,-120.5,"Plumas County, CA, USA",5,USFS,CA,
+Humboldt-Toiyabe National Forest,COLE COMPLEX,2004,2453180,Lightning,2453190,183,1800,3128,38.5542,-119.531,"Mono County, CA, USA",5,USFS,CA,Mono
+Stanislaus National Forest,EARLY,2004,2453230,Miscellaneous,2453300,300,1,1750,37.8694,-119.962,"Forest Rte 1N07, Groveland, CA 95321, USA",5,USFS,CA,
+Los Padres National Forest,FREDS'S,2004,2453270,Arson,2453280,276,1800,768,36.2333,-121.469,"47446 Arroyo Seco Rd, Greenfield, CA 93927, USA",5,USFS,CA,
+Sequoia National Forest,CHINA,2004,2453260,Miscellaneous,2453260,256,30,350,35.5331,-118.642,"Kern County, CA, USA",5,USFS,CA,
+Sequoia National Forest,CAMP,2004,2453210,Miscellaneous,2453210,209,1800,691,35.6994,-118.424,"9577 Sierra Way, Kernville, CA 93238, USA",5,USFS,CA,
+Sequoia National Forest,DEEP,2004,2453230,Miscellaneous,2453230,230,1800,3222,36.1511,-118.717,"Springville, CA 93265, USA",5,USFS,CA,
+Angeles National Forest,INTERSTATE,2004,2453180,Equipment Use,2453190,181,1800,375,34.6217,-118.718,"Castaic, CA 91384, USA",5,USFS,CA,
+Angeles National Forest,PINES,2004,2453200,Miscellaneous,2453210,203,1200,17418,34.7367,-118.655,"31001 Co Hwy N2, Lake Hughes, CA 93532, USA",5,USFS,CA,
+Sierra National Forest,SOURCE,2004,2453170,Miscellaneous,2453180,174,1800,385,37.2186,-119.39,"North Fork, CA 93643, USA",5,USFS,CA,
+Six Rivers National Forest,SIMS,2004,2453210,Equipment Use,2453230,228,2000,4030,40.7183,-123.571,"Humboldt County, CA, USA",5,USFS,CA,
+Stanislaus National Forest,TUOLUMNE,2004,2453260,Miscellaneous,2453270,261,1800,800,37.8478,-120.041,"Tuolumne County, CA, USA",5,USFS,CA,
+Northern California Agency,,1992,2448830,Children,2448830,212,1900,800,40.8332,-121.668,"California, USA",2,BIA,CA,
+Northern California Agency,BURNEY,1993,2449200,Fireworks,2449200,211,1900,800,40.8665,-121.734,"19633 Haynes Rd, Burney, CA 96013, USA",2,BIA,CA,
+Southern California Agency,RINCON #7,1992,2448880,Arson,2448880,262,800,350,33.25,-116.951,"Valley Center, CA 92082, USA",2,BIA,CA,
+Southern California Agency,STATE 1622,1992,2448900,Arson,2448900,283,1200,411,33.8667,-116.918,"Riverside County, CA, USA",7,STATE,CA,
+Southern California Agency,TRIBAL,1993,2449290,Arson,2449290,300,1500,2500,33.6167,-116.751,"Mountain Center, CA 92561, USA",2,BIA,CA,
+Southern California Agency,RINCON,1996,2450260,Powerline,2450260,182,2315,460,33.25,-116.959,"Paradise Creek Rd, Valley Center, CA 92082, USA",2,BIA,CA,
+Southern California Agency,RINCON,1996,2450380,Arson,2450380,296,2000,1800,33.2667,-116.959,"N Resort Dr, Valley Center, CA 92082, USA",2,BIA,CA,
+Southern California Agency,WOHLFORD,1997,2450660,Arson,2450660,214,1800,423,33.175,-116.993,"25467-25503 Lake Wohlford Rd, Escondido, CA 92027, USA",7,STATE,CA,
+Southern California Agency,WILDCAT,1998,2451060,Lightning,2451060,245,1800,3568,32.9842,-116.828,"15139-15237 Wildcat Canyon Rd, Ramona, CA 92065, USA",2,BIA,CA,
+Tule River Agency,THISTLE II,1998,2451010,Arson,2451010,197,2230,876,36.0163,-118.824,"32657 Indian Reservation Dr, Springville, CA 93265, USA",2,BIA,CA,
+Tule River Agency,OAT II,1999,2451360,Arson,2451360,178,1200,620,35.9999,-118.001,"Inyo County, CA, USA",2,BIA,CA,
+Tule River Agency,COW II,1999,2451400,Arson,2451400,224,2200,325,35.9999,-118.001,"Inyo County, CA, USA",2,BIA,CA,
+Tule River Agency,TORCH,1999,2451420,Arson,2451420,238,725,320,35.9999,-118.001,"Inyo County, CA, USA",2,BIA,CA,
+Colorado River Agency,LOST LAKE,1995,2449890,Arson,2449890,177,1900,2360,34,-114.451,"22198-22500 15th Ave, Parker, AZ 85344, USA",2,BIA,CA,
+Colorado River Agency,WALTERS,1998,2451180,Debris Burning,2451180,2,1800,446,34.9347,-114.651,"River Rd, Needles, CA 92363, USA",2,BIA,CA,
+Yuma Field Office,WALTERS,1992,2448700,Debris Burning,2448700,81,1200,1800,33.2334,-114.701,"Winterhaven, CA 92283, USA",1,BLM,CA,
+Bakersfield District,SEBASTIAN,1992,2448750,Debris Burning,2448750,125,1815,310,35.0166,-118.734,"Sierra Nevada, California, USA",8,PRIVATE,CA,
+Bakersfield District,TEJON 2,1992,2448750,Lightning,2448750,126,1629,1000,35.0166,-118.768,"Rancho Rd, Arvin, CA 93203, USA",8,PRIVATE,CA,
+Bakersfield District,HUNTER,1992,2448770,Equipment Use,2448770,146,1700,1350,37.6166,-120.218,"8410 Hunters Valley Rd, Mariposa, CA 95338, USA",8,PRIVATE,CA,
+Bakersfield District,PANOCHE,1992,2448770,Equipment Use,2448770,150,1400,565,36.6333,-120.684,"California, USA",8,PRIVATE,CA,
+Bakersfield District,JOLON,1992,2448780,Arson,2448780,157,1800,1625,35.9166,-120.968,"Bradley, CA 93426, USA",8,PRIVATE,CA,
+Bakersfield District,HART,1992,2448780,Arson,2448790,164,531,400,35.5166,-119.001,"224 Snow Peak Way, Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,MOCCASIN,1992,2448840,Campfire,2448840,220,1600,8000,37.8166,-120.334,"Jamestown, CA 95327, USA",8,PRIVATE,CA,
+Bakersfield District,FRICOT,1992,2448840,Equipment Use,2448840,215,1600,425,38.1666,-120.601,"4743 Old Gulch Rd, San Andreas, CA 95249, USA",1,BLM,CA,
+Bakersfield District,FARNHAM,1992,2448850,Campfire,2448860,235,1000,900,38.5332,-120.618,"Volcano, CA 95689, USA",8,PRIVATE,CA,
+Bakersfield District,MID0RIDGE,1992,2448860,Equipment Use,2448870,244,1813,7530,35.0833,-118.751,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,TANK,1992,2448870,Powerline,2448870,247,2300,950,36.2833,-120.501,"Coalinga, CA 93210, USA",8,PRIVATE,CA,
+Bakersfield District,ROUND MTN,1993,2449100,Miscellaneous,2449100,112,2359,400,35.4333,-118.834,"Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,SABODAN,1993,2449120,Miscellaneous,2449120,131,500,3000,35,-119.018,"Pumpkin Center, CA 93313, USA",8,PRIVATE,CA,
+Bakersfield District,ROUND MTN,1993,2449120,Equipment Use,2449120,130,1900,1000,35.5,-118.884,"Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,ELK HILLS2,1993,2449120,Powerline,2449120,131,200,7100,35.2666,-119.584,"Fellows, CA 93224, USA",6,OTHER FEDERAL,CA,
+Bakersfield District,PGE 13,1993,2449120,Miscellaneous,2449120,130,2330,1800,36.05,-120.134,"Avenal, CA 93204, USA",8,PRIVATE,CA,
+Bakersfield District,METZ,1993,2449150,Equipment Use,2449150,163,1800,1513,36.4333,-121.234,"Soledad, CA 93960, USA",8,PRIVATE,CA,
+Bakersfield District,PIXLEY,1993,2449150,Debris Burning,2449150,165,1700,1560,35.9333,-119.351,"7823 Rd 104, Earlimart, CA 93219, USA",8,PRIVATE,CA,
+Bakersfield District,ORCHARD,1993,2449160,Lightning,2449160,171,1800,16000,35.7333,-120.151,"California, USA",1,BLM,CA,
+Bakersfield District,ANNETTE,1993,2449160,Lightning,2449160,171,1800,800,35.6833,-120.168,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,VALLEY,1993,2449160,Arson,2449160,173,1900,2260,35.25,-119.501,"Kern County, CA, USA",7,STATE,CA,
+Bakersfield District,RANCHERIA,1993,2449170,Arson,2449170,178,1600,400,35.45,-118.818,"21732 Forest Rte 25S03, Bakersfield, CA 93306, USA",8,PRIVATE,CA,
+Bakersfield District,RESERVE,1993,2449170,Equipment Use,2449170,178,1500,500,35.2166,-119.484,"Taft, CA 93268, USA",8,PRIVATE,CA,
+Bakersfield District,COOK,1993,2449170,Fireworks,2449180,188,1800,500,35.6,-118.451,"Lake Isabella, CA, USA",1,BLM,CA,
+Bakersfield District,MESA CMPLX,1993,2449180,Arson,2449180,196,1800,750,35.4,-118.918,"5100 Venus Ct, Bakersfield, CA 93306, USA",8,PRIVATE,CA,
+Bakersfield District,ORANGE,1993,2449190,Arson,2449190,205,1630,320,35.5,-119.084,"34787 Lerdo Hwy, Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,CHOCTAW,1993,2449200,Fireworks,2449200,209,1800,530,35.4666,-118.884,"Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,RANCHO,1993,2449200,Equipment Use,2449200,216,1800,6000,36.3166,-121.484,"41325 E Carmel Valley Rd, Greenfield, CA 93927, USA",8,PRIVATE,CA,
+Bakersfield District,KECKS,1993,2449210,Equipment Use,2449210,224,1530,500,35.7166,-120.018,"Lost Hills, CA 93249, USA",8,PRIVATE,CA,
+Bakersfield District,ROUNDMTN 4,1993,2449230,Miscellaneous,2449230,240,1400,650,35.4333,-118.834,"Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,EAGLE,1993,2449240,Debris Burning,2449240,257,830,800,35.25,-118.468,"Havilah, CA 93518, USA",8,PRIVATE,CA,
+Bakersfield District,SMOOT,1994,2449470,Powerline,2449470,115,1800,3000,35.4833,-118.951,"Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,POSO,1994,2449490,Arson,2449490,136,1540,650,35.4666,-119.068,"Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,SODA,1994,2449500,Equipment Use,2449500,146,1800,3380,35.2166,-119.884,"SANTA MARGAR, CA 93453, USA",8,PRIVATE,CA,
+Bakersfield District,OIL,1994,2449500,Arson,2449500,150,2200,1200,35.3666,-118.851,"1025 Nathan St, Bakersfield, CA 93307, USA",8,PRIVATE,CA,
+Bakersfield District,BRECKENRDG,1994,2449500,Arson,2449500,150,2200,3100,35.35,-118.901,"Barstow-Bakersfield Hwy, Bakersfield, CA 93307, USA",8,PRIVATE,CA,
+Bakersfield District,KCL,1994,2449510,Miscellaneous,2449510,155,2330,320,36.9833,-119.668,"6522 Millerton Rd, Friant, CA 93626, USA",1,BLM,CA,
+Bakersfield District,JAMES II,1994,2449510,Campfire,2449510,159,1800,390,35.75,-118.418,"99 Paloma Ct, Kernville, CA 93238, USA",5,USFS,CA,
+Bakersfield District,POSO II,1994,2449510,Powerline,2449510,161,1300,600,35.5666,-119.351,"16084 Palm Ave, Wasco, CA 93280, USA",8,PRIVATE,CA,
+Bakersfield District,YORK,1994,2449520,Miscellaneous,2449520,163,1800,1120,35.85,-120.168,"Kings County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,LAKELAND,1994,2449520,Children,2449520,167,1800,2426,35.6333,-118.451,"Lake Isabella, CA, USA",8,PRIVATE,CA,
+Bakersfield District,MIDOIL II,1994,2449520,Arson,2449520,166,2000,320,35.0025,-119.534,"San Luis Obispo County, CA, USA",1,BLM,CA,
+Bakersfield District,ROUND,1994,2449520,Miscellaneous,2449520,168,1800,800,35.5,-118.901,"19436-18336 Round Mountain Rd, Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,WHITEBLNKT,1994,2449520,Miscellaneous,2449520,172,1800,2505,35.7166,-118.168,"27005-27001 CA-178, Onyx, CA 93255, USA",5,USFS,CA,
+Bakersfield District,HUNTER,1994,2449530,Equipment Use,2449530,180,800,700,37.5833,-120.168,"Hunters Valley Rd, Mariposa, CA 95338, USA",8,PRIVATE,CA,
+Bakersfield District,MERCED,1994,2449540,Equipment Use,2449540,189,1205,400,37.5666,-120.301,"La Grange, CA 95329, USA",8,PRIVATE,CA,
+Bakersfield District,PARROTS II,1994,2449550,Equipment Use,2449550,200,1800,730,38.0333,-120.451,"Sonora, CA 95370, USA",6,OTHER FEDERAL,CA,
+Bakersfield District,ALISO,1994,2449560,Smoking,2449570,213,1800,3429,34.95,-119.734,"Cuyama, CA 93254, USA",8,PRIVATE,CA,
+Bakersfield District,CORCORAN,1994,2449570,Arson,2449570,218,2100,800,35.6833,-119.601,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,KELSEY,1994,2449570,Arson,2449580,224,1800,900,38.7999,-120.684,"6401-6499 Wildflower Ct, Placerville, CA 95667, USA",8,PRIVATE,CA,
+Bakersfield District,TRAUNNER,1994,2449570,Powerline,2449570,222,1800,500,39.2166,-121.018,"11993 Brunswick Rd, Grass Valley, CA 95945, USA",1,BLM,CA,
+Bakersfield District,HWY 41,1994,2449580,Arson,2449580,230,100,48851,35.4333,-120.734,"Atascadero, CA 93422, USA",8,PRIVATE,CA,
+Bakersfield District,BRIDGE,1994,2449590,Arson,2449590,237,1800,300,39.2832,-121.184,"Penn Valley, CA 95946, USA",6,OTHER FEDERAL,CA,
+Bakersfield District,SPANISH,1994,2449600,Debris Burning,2449600,252,1800,2100,34.9833,-120.004,"Santa Barbara County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,CORCORANII,1994,2449610,Debris Burning,2449610,255,1930,727.2,35.7,-119.584,"Wasco, CA 93280, USA",8,PRIVATE,CA,
+Bakersfield District,WYLE,1994,2449610,Debris Burning,2449610,255,2359,1205,37.1499,-119.534,"27890-27898 Tunoi Pl, North Fork, CA 93643, USA",9,TRIBAL,CA,
+Bakersfield District,SHARKTOOTH,1994,2449620,Lightning,2449620,267,1900,800,35.4666,-118.934,"Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,NEES,1995,2449850,Equipment Use,2449850,128,2000,1820,36.8499,-120.784,"Merced County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,OUTLAW,1995,2449860,Arson,2449860,144,2000,300,35.4333,-118.918,"Bakersfield, CA, USA",8,PRIVATE,CA,
+Bakersfield District,SHERWOOD,1995,2449870,Powerline,2449870,149,2030,1000,35.6333,-119.068,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,SIMMLER,1995,2449870,Debris Burning,2449870,153,600,980,35.2666,-119.984,"SANTA MARGAR, CA 93453, USA",8,PRIVATE,CA,
+Bakersfield District,46,1995,2449870,Powerline,2449870,152,2130,7495,35.6166,-119.768,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,UNITED,1995,2449880,Powerline,2449880,158,1500,485,35.5666,-119.034,"Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,DEVILSDEN,1995,2449890,Debris Burning,2449890,173,2124,1100,35.7,-119.934,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,ELK,1995,2449890,Powerline,2449890,177,800,1837,35.0333,-119.501,"San Luis Obispo County, CA, USA",1,BLM,CA,
+Bakersfield District,PANOCHE,1995,2449900,Arson,2449900,184,1800,300,36.6166,-120.918,"Paicines, CA 95043, USA",8,PRIVATE,CA,
+Bakersfield District,SAN EMIDIO,1995,2449910,Equipment Use,2449910,190,1230,400,35.0166,-119.201,"California, USA",7,STATE,CA,
+Bakersfield District,58 #2,1995,2449910,Smoking,2449910,194,1530,500,35.3333,-119.584,"McKittrick, CA 93251, USA",1,BLM,CA,
+Bakersfield District,PEORIA,1995,2449910,Powerline,2449920,199,2000,3212,37.9333,-120.534,"Angels Camp, CA 95222, USA",7,STATE,CA,
+Bakersfield District,PANOCHE#2,1995,2449920,Powerline,2449930,208,600,360,36.7166,-120.768,"Fresno County, CA, USA",1,BLM,CA,
+Bakersfield District,GILBREATH,1995,2449930,Arson,2449930,209,2000,2000,35.6833,-119.584,"Unnamed Road, Wasco, CA 93280, USA",8,PRIVATE,CA,
+Bakersfield District,ASHURST,1995,2449930,Powerline,2449930,211,1457,466,36.4833,-120.768,"Paicines, CA 95043, USA",8,PRIVATE,CA,
+Bakersfield District,MIDWAY,1995,2449940,Arson,2449940,227,2359,8845,35.2833,-119.518,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,HONOLULU,1995,2449940,Arson,2449940,227,2359,1430,35.2666,-119.534,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,PANOCHE,1996,2450190,Powerline,2450190,107,1800,2000,36.6333,-120.684,"California, USA",8,PRIVATE,CA,
+Bakersfield District,SKYLINE,1996,2450200,Powerline,2450200,118,2300,19839,36.0333,-120.101,"Avenal, CA, USA",8,PRIVATE,CA,
+Bakersfield District,PANOCHE II,1996,2450200,Powerline,2450200,119,1800,18340,36.6166,-120.668,"Firebaugh, CA 93622, USA",8,PRIVATE,CA,
+Bakersfield District,HWY 41,1996,2450200,Arson,2450200,122,2100,3100,35.9166,-120.918,"Frudden Rd, Bradley, CA 93426, USA",8,PRIVATE,CA,
+Bakersfield District,HWY 33,1996,2450210,Arson,2450210,124,2002,350,35.2166,-119.518,"Fellows, CA 93224, USA",8,PRIVATE,CA,
+Bakersfield District,BUENAVISTA,1996,2450220,Arson,2450220,138,1920,500,35.2166,-119.501,"Fellows, CA 93224, USA",7,STATE,CA,
+Bakersfield District,BLACKWELL,1996,2450220,Equipment Use,2450220,138,1430,450,35.6333,-120.034,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,OVERLOOK,1996,2450220,Debris Burning,2450220,141,2359,2220,35.2166,-119.901,"SANTA MARGAR, CA 93453, USA",7,STATE,CA,
+Bakersfield District,HWY 33 II,1996,2450230,Arson,2450230,144,500,4000,35.8166,-120.009,"Avenal, CA 93204, USA",8,PRIVATE,CA,
+Bakersfield District,7 MILE,1996,2450230,Equipment Use,2450230,145,1800,2690,35.3333,-119.884,"SANTA MARGAR, CA 93453, USA",8,PRIVATE,CA,
+Bakersfield District,MESA CMPLX,1996,2450230,Arson,2450230,144,2359,4500,35.4333,-118.918,"Bakersfield, CA, USA",8,PRIVATE,CA,
+Bakersfield District,COOK,1996,2450240,Equipment Use,2450240,158,1800,743,35.6,-118.451,"Lake Isabella, CA, USA",1,BLM,CA,
+Bakersfield District,INDIAN,1996,2450250,Smoking,2450250,168,1800,732,35.3,-118.401,"Havilah, CA 93518, USA",8,PRIVATE,CA,
+Bakersfield District,ROUND MTN,1996,2450250,Smoking,2450250,169,2100,2880,35.5,-118.901,"19436-18336 Round Mountain Rd, Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,MERCY,1996,2450250,Equipment Use,2450250,171,1800,16820,36.9166,-120.734,"Firebaugh, CA 93622, USA",8,PRIVATE,CA,
+Bakersfield District,MCSWAIN,1996,2450260,Powerline,2450260,182,1745,425,37.5166,-120.284,"Mariposa County, CA, USA",7,STATE,CA,
+Bakersfield District,CUYAMA,1996,2450270,Debris Burning,2450270,187,800,1590,34.8833,-119.668,"Cuyama, CA 93254, USA",7,STATE,CA,
+Bakersfield District,GOOSE,1996,2450270,Arson,2450270,186,1800,1800,35.7,-119.668,"Lost Hills, CA 93249, USA",8,PRIVATE,CA,
+Bakersfield District,COLVIL/COW,1996,2450270,Lightning,2450280,193,1800,1600,38.5699,-119.513,"111747 US-395, Coleville, CA 96107, USA",1,BLM,CA,
+Bakersfield District,WALKER CPX,1996,2450270,Lightning,2450280,202,1800,1300,38.5832,-119.518,"Unnamed Road, Coleville, CA 96107, USA",1,BLM,CA,
+Bakersfield District,MIDWAY,1996,2450280,Smoking,2450280,199,1900,350,35.1833,-119.501,"Fellows, CA 93224, USA",1,BLM,CA,
+Bakersfield District,GILBRETH,1996,2450280,Arson,2450280,201,2359,3500,35.6833,-119.584,"Unnamed Road, Wasco, CA 93280, USA",7,STATE,CA,
+Bakersfield District,MARINE II,1996,2450290,Children,2450290,211,1800,670,38.5832,-119.518,"Unnamed Road, Coleville, CA 96107, USA",1,BLM,CA,
+Bakersfield District,COTTON,1996,2450300,Debris Burning,2450300,215,1800,720,37.6166,-120.234,"8773 Detwiler Rd, Mariposa, CA 95338, USA",8,PRIVATE,CA,
+Bakersfield District,WARTHAN,1996,2450300,Miscellaneous,2450300,222,2200,1200,36.0833,-120.468,"44732 Parkfield Grade, Coalinga, CA 93210, USA",8,PRIVATE,CA,
+Bakersfield District,AIRPORT 1,1996,2450300,Arson,2450300,221,1930,330,35.3333,-119.501,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,AIRPORT 2,1996,2450300,Arson,2450300,221,2000,1100,35.3333,-119.501,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,BEAR,1996,2450310,Lightning,2450310,228,2000,2700,38.0999,-120.568,"1291 Lakeside Dr, Angels Camp, CA 95222, USA",8,PRIVATE,CA,
+Bakersfield District,BASE LINE,1996,2450310,Lightning,2450310,227,2000,4000,37.8999,-120.551,"Shotgun Creek Dr, Jamestown, CA 95327, USA",8,PRIVATE,CA,
+Bakersfield District,RIMROCK,1996,2450310,Lightning,2450310,227,2000,2300,38.2832,-120.401,"Mountain Ranch, CA 95246, USA",8,PRIVATE,CA,
+Bakersfield District,KEYSTONE,1996,2450310,Lightning,2450310,227,1800,5600,37.8499,-120.501,"12098 Co Rd J59, Jamestown, CA 95327, USA",1,BLM,CA,
+Bakersfield District,ROGGE,1996,2450310,Lightning,2450320,241,1800,22080,37.8999,-120.134,"Groveland, CA 95321, USA",5,USFS,CA,
+Bakersfield District,KAWEAH,1996,2450310,Equipment Use,2450330,245,1900,4479,36.4499,-118.984,"Lemon Cove, CA 93244, USA",1,BLM,CA,
+Bakersfield District,POND,1996,2450360,Arson,2450360,274,1900,1000,35.7166,-119.534,"Wasco, CA 93280, USA",7,STATE,CA,
+Bakersfield District,TAFT,1996,2450360,Arson,2450360,281,1330,312,35.2166,-119.351,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,BANOS,1996,2450370,Lightning,2450380,294,1139,4380,36.7999,-120.884,"Merced County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,WESTFIELD,1996,2450380,Arson,2450380,302,1800,1225,35.0333,-119.368,"Maricopa, CA 93252, USA",8,PRIVATE,CA,
+Bakersfield District,COTTONWD 2,1997,2450580,Equipment Use,2450580,128,2200,3500,35.3833,-118.784,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,COUNTYLINE,1997,2450580,Equipment Use,2450580,133,800,645,35.7833,-119.601,"County Line Rd, Wasco, CA 93280, USA",7,STATE,CA,
+Bakersfield District,LOKERN,1997,2450590,Powerline,2450590,140,1200,47000,35.3944,-119.623,"McKittrick, CA 93251, USA",8,PRIVATE,CA,
+Bakersfield District,STINE,1997,2450600,Arson,2450600,151,600,337,35.6666,-118.401,"6651 Sierra Way, Kernville, CA 93238, USA",1,BLM,CA,
+Bakersfield District,MIDWAY CPX,1997,2450620,Arson,2450620,172,1200,7485,35.2166,-119.484,"Taft, CA 93268, USA",8,PRIVATE,CA,
+Bakersfield District,TOWER,1997,2450630,Arson,2450640,189,1800,1096,35.6833,-118.401,"Sierra Way, Kernville, CA 93238, USA",5,USFS,CA,
+Bakersfield District,LU,1997,2450640,Arson,2450640,188,1900,300,35.2166,-119.468,"Taft, CA 93268, USA",7,STATE,CA,
+Bakersfield District,PRIEST,1997,2450660,Arson,2450660,207,1800,500,37.7666,-120.201,"5645 Jackass Ridge Rd, Coulterville, CA 95311, USA",1,BLM,CA,
+Bakersfield District,HOPPER,1997,2450670,Arson,2450670,223,1800,24800,34.4667,-118.851,"Fillmore, CA 93015, USA",5,USFS,CA,
+Bakersfield District,POSO,1997,2450670,Powerline,2450670,222,2200,2500,35.525,-118.979,"Bakersfield, CA 93308, USA",8,PRIVATE,CA,
+Bakersfield District,CHOCKTAW,1997,2450680,Arson,2450680,231,1800,10416,35.4,-118.901,"CA-178, Bakersfield, CA 93306, USA",8,PRIVATE,CA,
+Bakersfield District,EUCALYPTUS,1997,2450690,Debris Burning,2450690,237,2200,700,36.6166,-121.751,"Monterey County, CA, USA",1,BLM,CA,
+Bakersfield District,PREIST II,1997,2450700,Arson,2450700,251,1800,470,37.7666,-120.268,"10544 CA-49, Coulterville, CA 95311, USA",1,BLM,CA,
+Bakersfield District,AMERICAN,1997,2450710,Powerline,2450710,263,250,1944,35.1833,-119.901,"San Luis Obispo County, CA, USA",1,BLM,CA,
+Bakersfield District,WILLIAMS,1997,2450720,Equipment Use,2450720,275,1800,5745,39.3999,-121.201,"Sweet Birch Trail, Dobbins, CA 95935, USA",8,PRIVATE,CA,
+Bakersfield District,BRECK,1998,2451000,Arson,2451000,189,2000,7000,35.273,-118.827,"9519 Tejon Hwy, Bakersfield, CA 93307, USA",7,STATE,CA,
+Bakersfield District,SODA,1998,2451010,Debris Burning,2451010,201,2200,532,35.2666,-119.968,"11749-14795 Circe Trail, Santa Margarita, CA 93453, USA",8,PRIVATE,CA,
+Bakersfield District,UNNAMED FIRE 0420,1998,2451040,Arson,2451040,226,2352,480,35.3478,-119.807,"McKittrick, CA 93251, USA",8,PRIVATE,CA,Kern
+Bakersfield District,ROBINSON,1998,2451050,Lightning,2451050,235,700,442,35.6833,-118.376,"Kernville, CA 93238, USA",1,BLM,CA,
+Bakersfield District,CHEVRON,1998,2451060,Arson,2451060,242,1639,400,35.2148,-119.473,"Taft, CA 93268, USA",8,PRIVATE,CA,Kern
+Bakersfield District,YANKEE,1998,2451060,Powerline,2451060,246,1800,1137,35.6447,-118.435,"Pioneer Dr W, Lake Isabella, CA 93240, USA",1,BLM,CA,
+Bakersfield District,PIRU,1998,2451100,Equipment Use,2451110,299,600,12613,38.1666,-120.018,"Dardanelle, CA 95364, USA",8,PRIVATE,CA,
+Bakersfield District,KEMP,1999,2451270,Arson,2451270,96,1700,306,36.8406,-118.211,"Unnamed Road, Independence, CA 93526, USA",8,PRIVATE,CA,Inyo
+Bakersfield District,PANOCHE,1999,2451290,Powerline,2451290,113,1424,1187,36.6124,-119.258,"Rd 140, Orange Cove, CA 93646, USA",1,BLM,CA,Fresno
+Bakersfield District,49,1999,2451370,Powerline,2451370,196,800,395,37.6747,-120.18,"Mariposa, CA 95338, USA",1,BLM,CA,
+Bakersfield District,COULTERVIL,1999,2451420,Arson,2451420,242,2300,978,37.6866,-120.216,"Mariposa County, CA, USA",8,PRIVATE,CA,Mariposa
+Bakersfield District,TWO,1999,2451420,Equipment Use,2451420,242,2000,700,35.2639,-119.37,"Taft, CA 93268, USA",8,PRIVATE,CA,
+Bakersfield District,LIGHTNING 18,1999,2451430,Lightning,2451430,255,1800,300,37.8344,-120.365,"Jamestown, CA 95327, USA",8,PRIVATE,CA,Tuolumne
+Bakersfield District,CROCKER,1999,2451450,Miscellaneous,2451450,272,1700,320,35.23,-119.671,"McKittrick, CA 93251, USA",8,PRIVATE,CA,
+California Desert District,MESA,1992,2448740,Equipment Use,2448740,123,1800,4200,33.95,-115.201,"California, USA",1,BLM,CA,
+California Desert District,PAINTED,1992,2448780,Powerline,2448780,157,1800,500,33.9333,-116.601,"15780 Desert View Rd, Whitewater, CA 92282, USA",8,PRIVATE,CA,
+California Desert District,MANZANITA,1992,2448820,Miscellaneous,2448820,202,1800,821,32.7501,-116.334,"55-111 Manzanita Rd, Boulevard, CA 91905, USA",2,BIA,CA,
+California Desert District,LEAL,1992,2448860,Campfire,2448860,236,800,443,34.6833,-117.101,"Apple Valley, CA 92307, USA",1,BLM,CA,
+California Desert District,PIUTE,1992,2448860,Lightning,2448870,245,800,680,35.2833,-115.001,"California, USA",1,BLM,CA,
+California Desert District,RAINBOW,1992,2448890,Arson,2448900,274,1800,2880,33.4334,-117.134,"47882-47878 Old Hwy 395, Temecula, CA 92592, USA",8,PRIVATE,CA,
+California Desert District,OPAL,1993,2449130,Campfire,2449130,144,1800,600,35.1666,-117.201,"Unnamed Road, California, USA",1,BLM,CA,
+California Desert District,OTAY 2,1993,2449130,Campfire,2449140,148,1800,337,32.5667,-116.784,"Dulzura, CA 91917, USA",8,PRIVATE,CA,
+California Desert District,OTAY 3,1993,2449160,Arson,2449160,169,1600,700,32.5834,-116.884,"San Diego, CA 92154, USA",8,PRIVATE,CA,
+California Desert District,HACKBERRY,1993,2449160,Lightning,2449160,172,1800,360,35.0167,-115.201,"San Bernardino County, CA, USA",1,BLM,CA,
+California Desert District,WILDWASH,1993,2449160,Miscellaneous,2449170,178,1800,1100,34.7,-117.268,"Oro Grande, CA 92368, USA",1,BLM,CA,
+California Desert District,POWERLINE2,1993,2449160,Miscellaneous,2449170,178,1800,326,34.4833,-117.051,"San Bernardino County, CA, USA",1,BLM,CA,
+California Desert District,QUARRY 2,1993,2449170,Miscellaneous,2449170,185,600,333,34.6167,-117.068,"San Bernardino County, CA, USA",1,BLM,CA,
+California Desert District,STODDARD,1993,2449180,Miscellaneous,2449180,193,630,547,34.6333,-117.134,"San Bernardino County, CA, USA",8,PRIVATE,CA,
+California Desert District,STODDARD 4,1993,2449190,Fireworks,2449190,202,1800,2400,34.7,-117.118,"San Bernardino County, CA, USA",1,BLM,CA,
+California Desert District,OPAL 2,1993,2449230,Lightning,2449230,240,1800,8360,35.2,-117.168,"San Bernardino County, CA, USA",1,BLM,CA,
+California Desert District,CLEVENGER,1993,2449240,Arson,2449240,252,600,409,33.0667,-116.918,"Ramona, CA 92065, USA",8,PRIVATE,CA,
+California Desert District,BELL,1993,2449250,Campfire,2449250,266,600,300,32.5834,-116.634,"24024 Humphries Rd, Tecate, CA 91980, USA",1,BLM,CA,
+California Desert District,COACH,1993,2449260,Arson,2449260,271,2300,705,33.0334,-117.001,"14855 Sunset Ridge Ct, Poway, CA 92064, USA",8,PRIVATE,CA,
+California Desert District,CALIFORNIA,1993,2449290,Powerline,2449300,310,1800,24387,33.6834,-117.018,"Winchester, CA 92596, USA",8,PRIVATE,CA,
+California Desert District,OLD COACH,1993,2449290,Campfire,2449290,307,1345,2160,33.0667,-117.001,"15496 Highland Valley Rd, Escondido, CA 92025, USA",8,PRIVATE,CA,
+California Desert District,HOT SPA,1994,2449480,Arson,2449480,123,2200,300,33.4167,-115.668,"Niland, CA 92257, USA",8,PRIVATE,CA,
+California Desert District,BROWN,1994,2449500,Miscellaneous,2449500,149,1800,1012,35.7999,-117.968,"Sierra Nevada, California, USA",1,BLM,CA,
+California Desert District,FELIPE,1994,2449520,Equipment Use,2449520,171,1545,750,33.2334,-116.518,"Lease Rd, Ranchita, CA 92066, USA",1,BLM,CA,
+California Desert District,BAILEY,1994,2449530,Equipment Use,2449530,178,1800,940,33.4667,-116.668,"57405 Hillside Vista Dr, Anza, CA 92539, USA",1,BLM,CA,
+California Desert District,GIBBLE,1994,2449530,Arson,2449530,181,1800,840,33.7,-116.951,"40663 Gibbel Rd, Hemet, CA 92544, USA",1,BLM,CA,
+California Desert District,GILLMAN,1994,2449530,Miscellaneous,2449530,182,800,2047,33.8167,-116.901,"GLMN HOT SPGS, CA 92583, USA",1,BLM,CA,
+California Desert District,LITTLEPIUT,1994,2449530,Lightning,2449530,182,1800,620,34.7333,-115.068,"California, USA",1,BLM,CA,
+California Desert District,FORT PIUTE,1994,2449530,Lightning,2449540,184,1800,9497,34.5333,-115.201,"California, USA",1,BLM,CA,
+California Desert District,BLACK 2,1994,2449530,Lightning,2449530,181,2000,332,35.1666,-117.218,"Black Canyon Rd, California, USA",8,PRIVATE,CA,
+California Desert District,CEDAR,1994,2449530,Lightning,2449540,184,1950,624,35.1333,-115.184,"49121 Lanfair Rd, California 92363, USA",1,BLM,CA,
+California Desert District,GILMAN,1994,2449560,Arson,2449560,205,1800,2990,33.9167,-117.101,"Moreno Valley, CA, USA",1,BLM,CA,
+California Desert District,LEONA,1994,2449570,Miscellaneous,2449580,224,800,622,34.6,-118.318,"Palmdale, CA 93551, USA",1,BLM,CA,
+California Desert District,SPEAR,1994,2449570,Lightning,2449570,222,1800,337,35.1333,-117.084,"San Bernardino County, CA, USA",1,BLM,CA,
+California Desert District,OPAL 2,1994,2449580,Lightning,2449580,227,1800,2036,35.1333,-117.134,"California, USA",1,BLM,CA,
+California Desert District,LA POSTA,1994,2449600,Miscellaneous,2449610,253,1700,330,32.6667,-116.418,"Unnamed Road, Campo, CA 91906, USA",1,BLM,CA,
+California Desert District,OYAY,1994,2449630,Children,2449640,283,1800,1648,32.5834,-116.918,"480 Alta Rd, San Diego, CA 92179, USA",1,BLM,CA,
+California Desert District,PARADISE,1995,2449880,Miscellaneous,2449880,165,1600,860,35.0166,-116.851,"California, USA",1,BLM,CA,
+California Desert District,EXCELSIOR,1995,2449890,Miscellaneous,2449890,174,2336,1300,33.9333,-116.718,"Service Rd, Whitewater, CA 92282, USA",1,BLM,CA,
+California Desert District,NICHOLS,1995,2449900,Equipment Use,2449900,184,1800,850,33.7167,-117.351,"Granite Rd, Lake Elsinore, CA 92532, USA",1,BLM,CA,
+California Desert District,DAWSON,1995,2449920,Children,2449920,203,1800,4591,33.75,-117.418,"Lake Elsinore, CA 92530, USA",1,BLM,CA,
+California Desert District,HWY 62 #2,1995,2449920,Miscellaneous,2449920,205,600,1335,33.65,-115.518,"Riverside County, CA, USA",1,BLM,CA,
+California Desert District,PEACE,1995,2449930,Miscellaneous,2449930,210,1900,640,34.7833,-118.734,"Del Sur, CA 93536, USA",7,STATE,CA,
+California Desert District,FORESTGATE,1995,2449930,Miscellaneous,2449930,211,1800,1650,32.9667,-115.984,"Imperial County, CA, USA",1,BLM,CA,
+California Desert District,LOPEZ,1995,2449930,Lightning,2449930,214,1800,1985,34.9833,-118.487,"Tehachapi, CA 93561, USA",1,BLM,CA,
+California Desert District,CRYSTAL,1995,2449930,Lightning,2449930,216,1800,703,34.3667,-117.101,"Apple Valley, CA 92308, USA",1,BLM,CA,
+California Desert District,MAYWOOD,1995,2449930,Smoking,2449930,212,1800,472,33.7667,-117.318,"LAKE MATHEWS, CA 92570, USA",1,BLM,CA,
+California Desert District,BAILEY 2,1995,2449960,Miscellaneous,2449960,239,1800,400,35.4666,-115.501,"Baker, CA 92364, USA",1,BLM,CA,
+California Desert District,SYCAMORE,1995,2449960,Smoking,2449960,247,800,9410,32.6167,-116.784,"Dulzura, CA 91917, USA",1,BLM,CA,
+California Desert District,MESA,1995,2450010,Miscellaneous,2450010,294,1300,800,35.1666,-117.084,"San Bernardino County, CA, USA",1,BLM,CA,
+California Desert District,MCCAIN,1995,2450060,Debris Burning,2450060,346,1630,303,32.6667,-116.334,"Boulevard, CA 91905, USA",7,STATE,CA,
+California Desert District,OTAY 28,1996,2450190,Campfire,2450190,106,1045,1402,32.5848,-116.835,"San Diego County, CA, USA",1,BLM,CA,
+California Desert District,OTAY 121,1996,2450200,Campfire,2450210,125,1800,1220,32.5848,-116.835,"San Diego County, CA, USA",1,BLM,CA,
+California Desert District,BARSTOW,1996,2450210,Campfire,2450210,125,2359,1250,34.5833,-117.034,"Apple Valley, CA 92307, USA",1,BLM,CA,
+California Desert District,BROWN,1996,2450210,Miscellaneous,2450220,133,1800,725,35.5611,-117.768,"Ridgecrest, CA 93555, USA",1,BLM,CA,
+California Desert District,JOHANESBU,1996,2450220,Miscellaneous,2450230,143,1800,450,35.3836,-117.534,"San Bernardino County, CA, USA",1,BLM,CA,
+California Desert District,WEBER,1996,2450250,Miscellaneous,2450250,168,2359,360,32.5848,-116.835,"San Diego County, CA, USA",1,BLM,CA,
+California Desert District,RED,1996,2450270,Miscellaneous,2450270,187,1800,550,35.3691,-117.573,"San Bernardino County, CA, USA",1,BLM,CA,
+California Desert District,DOSPALMAS,1996,2450270,Miscellaneous,2450270,191,1800,300,33.5109,-115.827,"Mecca, CA 92254, USA",1,BLM,CA,
+California Desert District,PHILADELPH,1996,2450280,Campfire,2450280,202,2115,1780,32.5848,-116.835,"San Diego County, CA, USA",1,BLM,CA,
+California Desert District,WHITEOAK,1996,2450290,Miscellaneous,2450290,207,1800,7150,34.9777,-118.453,"Tehachapi, CA 93561, USA",1,BLM,CA,
+California Desert District,WOLFSKILL,1996,2450310,Debris Burning,2450310,229,800,12395,33.8692,-116.901,"Banning, CA 92220, USA",1,BLM,CA,
+California Desert District,MARGARITA,1997,2450700,Arson,2450700,250,1800,1141,33.4506,-117.284,"Fallbrook, CA 92028, USA",1,BLM,CA,
+California Desert District,DEL DIOS,1997,2450720,Arson,2450720,268,1800,1230,33.1,-117.134,"2912 Harmony Grove Rd, Escondido, CA 92029, USA",1,BLM,CA,
+California Desert District,RABBIT,1997,2450720,Arson,2450720,268,1800,4000,33.9333,-117.034,"13270 Jack Rabbit Trail, Beaumont, CA 92223, USA",1,BLM,CA,
+California Desert District,BORDER 64,1998,2450970,Arson,2450970,157,1400,325,32.5639,-117.076,"2479 CA-905, San Diego, CA 92154, USA",8,PRIVATE,CA,
+California Desert District,COVINGTON,1998,2450990,Smoking,2450990,178,600,807,34.0833,-116.351,"Joshua Tree, CA 92252, USA",8,PRIVATE,CA,
+California Desert District,CHARIOT,1998,2451000,Debris Burning,2451000,184,1800,2103,36.7666,-121.501,"SN JUN BATSTA, CA 95045, USA",1,BLM,CA,
+California Desert District,SUMMIT,1998,2451010,Miscellaneous,2451010,199,1830,856,32.6334,-116.584,"Harris Ranch Rd, Potrero, CA 91963, USA",1,BLM,CA,
+California Desert District,KELSO,1998,2451010,Lightning,2451020,203,1800,345,35.4472,-118.126,"Kern County, CA, USA",1,BLM,CA,
+California Desert District,GARLOCK 2,1998,2451030,Miscellaneous,2451030,213,2359,1373,35.3722,-117.811,"Johannesburg, CA 93554, USA",1,BLM,CA,
+California Desert District,WARBONNET,1998,2451030,Debris Burning,2451030,221,1800,340,34.9,-116.684,"45698-44900 Bedford Rd, Newberry Springs, CA 92365, USA",8,PRIVATE,CA,
+California Desert District,COUNTRY,1998,2451030,Arson,2451030,221,2000,1243,34.2667,-117.501,"Lytle Creek, CA 92358, USA",7,STATE,CA,
+California Desert District,JUNIPER,1998,2451060,Lightning,2451060,246,1800,6000,33.7833,-117.934,"11389 Schrandt Dr, Garden Grove, CA 92840, USA",7,STATE,CA,
+California Desert District,EMERY,1998,2451120,Arson,2451120,310,1600,350,32.5894,-116.647,"571-649 CA-188, Dulzura, CA 91917, USA",1,BLM,CA,San Diego
+California Desert District,BANNER,1999,2451340,Miscellaneous,2451340,161,1600,493,33.0625,-116.554,"CA-78, Julian, CA 92036, USA",1,BLM,CA,San Diego
+California Desert District,COTTONWOOD,1999,2451360,Campfire,2451360,179,800,631,32.8001,-116.338,"San Diego County, CA, USA",1,BLM,CA,San Diego
+California Desert District,CAMPO,1999,2451410,Debris Burning,2451410,234,1800,1106,32.6167,-116.501,"San Diego County, CA, USA",1,BLM,CA,San Diego
+California Desert District,SHANNON,1999,2451420,Miscellaneous,2451420,244,1800,3600,34.5333,-118.203,"Telephone Rd, Acton, CA 93510, USA",1,BLM,CA,Los Angeles
+California Desert District,SHOCKEY,1999,2451450,Debris Burning,2451460,279,1800,3880,32.6164,-116.436,"1001 Meanwhile Ranch Rd, Campo, CA 91906, USA",1,BLM,CA,San Diego
+California Desert District,BORDER  95,1999,2451460,Campfire,2451460,285,1800,1000,32.5973,-116.428,"Campo, CA 91906, USA",1,BLM,CA,San Diego
+California Desert District,GLORIA,1999,2451460,Debris Burning,2451460,283,1800,1250,32.6001,-116.434,"Campo, CA 91906, USA",1,BLM,CA,San Diego
+California Desert District,BORDER 99,1999,2451470,Missing/Undefined,2451470,295,1800,300,32.5903,-116.889,"San Diego County, CA, USA",1,BLM,CA,San Diego
+Northern California District,DEMO,1997,2450630,Equipment Use,2450630,179,2100,425,40.2832,-120.068,"Wendel, CA 96136, USA",6,OTHER FEDERAL,CA,
+Northern California District,LNU MARKLE,1997,2450650,Campfire,2450650,203,1700,310,38.5166,-122.101,"Winters, CA 95694, USA",1,BLM,CA,
+Northern California District,DEMO,1998,2451040,Lightning,2451040,228,1800,500,40.3132,-120.103,"Wendel, CA 96136, USA",1,BLM,CA,
+Northern California District,LNU MIDDLE,1998,2451050,Arson,2451060,247,1800,6600,38.9182,-122.309,"1460 CA-16, Rumsey, CA 95679, USA",1,BLM,CA,
+Northern California District,SHU LOWDEN,1999,2451360,Debris Burning,2451390,212,1400,2000,40.6882,-122.855,"1053 Oak Ranch Dr, Lewiston, CA 96052, USA",1,BLM,CA,Trinity
+Northern California District,PELLOWS,1999,2451370,Equipment Use,2451370,193,1710,1200,39.9072,-122.619,"Tehama County, CA, USA",8,PRIVATE,CA,Tehama
+Northern California District,RAVE,1999,2451390,Lightning,2451390,216,1800,4820,40.7799,-120.064,"Ravendale, CA 96123, USA",1,BLM,CA,Lassen
+Northern California District,WOODLAND,1999,2451410,Lightning,2451430,248,1800,995,39.8511,-121.704,"3521 14 Mile House Rd, Forest Ranch, CA 95942, USA",8,PRIVATE,CA,Butte
+Northern California District,JELLYS 1,1999,2451410,Lightning,2451410,235,730,780,40.2951,-122.208,"Red Bluff, CA 96080, USA",8,PRIVATE,CA,Tehama
+Northern California District,INKS,1999,2451410,Lightning,2451410,236,1500,5021,40.309,-122.114,"Red Bluff, CA 96080, USA",1,BLM,CA,Tehama
+Northern California District,BTU DOE 2,1999,2451410,Lightning,2451430,248,1800,10857,39.7349,-121.736,"Chico, CA 95928, USA",1,BLM,CA,Butte
+Northern California District,UNION,1999,2451410,Lightning,2451430,248,1800,736,39.5917,-121.4,"Berry Creek, CA 95916, USA",8,PRIVATE,CA,Butte
+Northern California District,BTU SOUTH,1999,2451410,Lightning,2451430,248,1800,1572,39.5332,-121.419,"Oroville, CA 95966, USA",1,BLM,CA,Butte
+Northern California District,WILLOW,1999,2451410,Miscellaneous,2451420,240,1900,7700,40.5599,-120.644,"Susanville, CA 96130, USA",1,BLM,CA,Lassen
+Northern California District,MUSTY 1,1999,2451410,Lightning,2451420,238,1500,500,39.8936,-121.588,"Skyway Rd, Magalia, CA 95954, USA",8,PRIVATE,CA,Butte
+Northern California District,MUSTY 2,1999,2451410,Lightning,2451420,240,1858,500,39.8936,-121.588,"Skyway Rd, Magalia, CA 95954, USA",8,PRIVATE,CA,Butte
+Northern California District,BTU BLOOM,1999,2451410,Lightning,2451430,248,1800,2590,39.6482,-121.474,"Berry Creek, CA 95916, USA",1,BLM,CA,Butte
+Northern California District,SHU SPRING,1999,2451410,Lightning,2451430,254,1800,807,40.6882,-122.513,"Redding, CA 96001, USA",1,BLM,CA,Shasta
+Northern California District,ANNIE,1999,2451410,Lightning,2451420,239,2300,640,41.8699,-120.086,"Fort Bidwell, CA 96112, USA",1,BLM,CA,Modoc
+Northern California District,LAKE 2,1999,2451450,Miscellaneous,2451450,270,1800,2928,41.6372,-120.425,"Modoc County, CA, USA",1,BLM,CA,Modoc
+Northern California District,CANYON 4,1999,2451450,Equipment Use,2451450,271,800,2580,40.4955,-122.399,"Happy Valley, CA, USA",8,PRIVATE,CA,Shasta
+Northern California District,LNU RUMSEY,1999,2451450,Miscellaneous,2451450,273,1300,3500,38.8878,-122.254,"3358 Madrone St, Rumsey, CA 95679, USA",1,BLM,CA,Yolo
+Northern California District,LNU SIXTEE,1999,2451470,Arson,2451470,295,1200,40000,38.9616,-122.346,"1475 CA-16, Clearlake Oaks, CA 95423, USA",8,PRIVATE,CA,
+Susanville District,BEAVER CK,1992,2448850,Lightning,2448860,238,800,500,40.9332,-121.284,"Lassen County, CA, USA",1,BLM,CA,
+Susanville District,TABLE,1994,2449560,Lightning,2449560,207,1800,1550,41.2666,-120.401,"Likely, CA 96116, USA",1,BLM,CA,
+Susanville District,NELSON,1994,2449600,Equipment Use,2449600,245,1800,2570,41.2666,-120.501,"Likely, CA 96116, USA",1,BLM,CA,
+Susanville District,LMU LGT#66,1994,2449610,Lightning,2449620,263,1404,1025,40.7666,-120.634,"Lassen County, CA, USA",1,BLM,CA,
+Susanville District,DEMO,1995,2449900,Equipment Use,2449900,180,2000,367,40.2832,-120.101,"Wendel, CA 96136, USA",6,OTHER FEDERAL,CA,
+Susanville District,ANNIE,1995,2449980,Lightning,2449980,260,1800,346,41.9166,-120.118,"Fort Bidwell, CA 96112, USA",1,BLM,CA,
+Susanville District,COPPER,1995,2449980,Lightning,2449980,262,1800,530,41.1499,-120.034,"Lassen County, CA, USA",1,BLM,CA,
+Susanville District,TABLE,1995,2449980,Lightning,2449980,260,1800,422,41.3332,-120.434,"Likely, CA 96116, USA",1,BLM,CA,
+Susanville District,PAYNE,1995,2449980,Lightning,2449980,260,1800,810,41.3832,-120.484,"Alturas, CA 96101, USA",1,BLM,CA,
+Susanville District,DEMO,1996,2450240,Equipment Use,2450240,162,1800,639,40.2999,-120.084,"Wendel, CA 96136, USA",1,BLM,CA,
+Susanville District,LMU BYERS,1996,2450270,Equipment Use,2450270,186,1700,1034,40.3332,-120.484,"Janesville, CA 96114, USA",1,BLM,CA,
+Ukiah District,RALSTON,1994,2449530,Arson,2449540,187,1800,1000,39.7999,-121.534,"Jordan Hill Rd, Oroville, CA 95965, USA",7,STATE,CA,
+Ukiah District,RIVER,1994,2449540,Miscellaneous,2449540,191,1800,450,41.4999,-121.001,"Modoc County, CA, USA",1,BLM,CA,
+Ukiah District,GUNTLEY,1995,2449990,Arson,2450000,280,1700,2540,39.2082,-123.084,"State Hwy 20, Ukiah, CA 95482, USA",8,PRIVATE,CA,
+Joshua Tree National Monument,MATTHEWS,1994,2449530,Debris Burning,2449530,179,1800,350,34,-117.001,"37569-37799 Leta Dr, Calimesa, CA 92320, USA",2,BIA,CA,
+Joshua Tree National Monument,STODDARD,1995,2449900,Miscellaneous,2449900,183,15,632,34,-117.001,"37569-37799 Leta Dr, Calimesa, CA 92320, USA",1,BLM,CA,
+Joshua Tree National Monument,GRANITE,1995,2449900,Miscellaneous,2449900,185,1800,325,34.5333,-117.001,"San Bernardino County, CA, USA",1,BLM,CA,
+Joshua Tree National Monument,COVINGTON,1995,2449930,Lightning,2449930,216,1800,5521,34.0584,-116.305,"San Bernardino County, CA, USA",3,NPS,CA,
+Joshua Tree National Monument,JUNIPER,1999,2451330,Lightning,2451330,154,800,14000,34.0025,-116.296,"California, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,CHAGOOPA E,1992,2448820,Lightning,,,,562,36.4754,-118.409,"Sierra Nevada, California, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,SUWANEE WF,1992,2448900,Debris Burning,2448910,289,1800,364,36.5735,-118.793,"California 93262, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,BUCK PEAK,1993,2449160,Lightning,,,,2170,36.8267,-118.578,"Fresno County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,CASTLE WF,1995,2450030,Debris Burning,2450060,345,1200,1600,36.5276,-118.703,"Tulare County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,DORST,1996,2450260,Lightning,,,,1400,36.6399,-118.796,"California 93262, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,CASTLE GRO,1996,2450280,Lightning,,,,1100,36.528,-118.673,"Tulare County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,CASTLE COM,1996,2450290,Lightning,2450390,310,800,1460,36.5283,-118.673,"Tulare County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,BIG ARROYO,1996,2450300,Lightning,,,,3500,36.4483,-118.458,"Sierra Nevada, California, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,WILLIAMS,1999,2451440,Lightning,,,,573,36.7366,-118.687,"Sierra Nevada, California, USA",3,NPS,CA,
+Lassen Volcanic National Park,CRATER,1996,2450290,Debris Burning,2450300,213,1800,320,40.4705,-121.377,"Shasta County, CA, USA",3,NPS,CA,
+Lassen Volcanic National Park,HUFFER,1997,2450660,Lightning,,,,1100,40.5013,-121.296,"California, USA",3,NPS,CA,
+Lassen Volcanic National Park,HUFFER WF,1997,2450670,Lightning,2450680,229,1800,1190,40.5013,-121.296,"California, USA",3,NPS,CA,
+Mojave National Park,TUTTLE,1995,2449930,Lightning,2449930,214,1800,300,35.0194,-115.418,"San Bernardino County, CA, USA",3,NPS,CA,
+Mojave National Park,PIUTE,1996,2450290,Lightning,2450290,209,1800,510,35.15,-115.012,"San Bernardino County, CA, USA",3,NPS,CA,
+Pinnacles National Monument,PINNACLES,1994,2449570,Equipment Use,2449570,219,1800,1154,36.4831,-121.191,"Paicines, CA 95043, USA",3,NPS,CA,
+Pinnacles National Monument,STONEWALL,1998,2451030,Powerline,2451040,222,1800,2797,36.4517,-121.199,"Paicines, CA 95043, USA",3,NPS,CA,
+Point Reyes National Seashore,VISION,1995,2449990,Campfire,2450010,289,2359,12354,38.0831,-122.875,"Inverness, CA 94937, USA",3,NPS,CA,
+Santa Monica Mountains National Recreation Area,GREENMEADO,1993,2449290,Arson,2449300,308,2000,38152,34.1667,-118.868,"525 Rimrock Rd, Westlake Village, CA 91361, USA",6,OTHER FEDERAL,CA,
+Santa Monica Mountains National Recreation Area,OLDTOPANGA,1993,2449290,Arson,2449300,312,1800,360,34.1167,-118.584,"20621 Cheney Dr, Topanga, CA 90290, USA",3,NPS,CA,
+Santa Monica Mountains National Recreation Area,CALABASAS,1996,2450380,Powerline,2450390,304,1800,13190,34.1333,-118.684,"The Oaks, Calabasas, CA 91302, USA",7,STATE,CA,
+Whiskeytown National Recreation Area,CLOVER,1992,2448790,Arson,2448790,173,2100,378,41.4999,-122.618,"Gazelle, CA 96034, USA",8,PRIVATE,CA,
+Yosemite National Park,HORIZON,1994,2449570,Lightning,2449580,231,2100,3560,37.6663,-119.516,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,SO. TURNER,1995,2449920,Lightning,,,,615,37.5849,-119.586,"TUOLUMNE MEADOWS, CA 95389, USA",3,NPS,CA,
+Yosemite National Park,KENDRICK,1996,2450310,Lightning,,,,615,37.6558,-119.484,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,ILL,1996,2450360,Lightning,,,,553,37.6697,-119.499,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,SPARKCPLX,1999,2451370,Lightning,,,,2299,37.6288,-119.584,"TUOLUMNE MEADOWS, CA 95389, USA",3,NPS,CA,
+Yosemite National Park,DARK,1999,2451370,Lightning,,,,865.8,37.8471,-119.615,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,N PARKCPLX,1999,2451400,Lightning,,,,11705.4,37.9308,-119.615,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,LOSTVALLEY,1999,2451490,Debris Burning,2451490,312,800,889,37.7572,-119.47,"Yosemite National Park, California, USA",3,NPS,CA,
+Hoopa Valley Tribe,SUPPLY13,2002,2452500,Arson,2452510,240,1800,410,41.0499,-123.685,"Bair Rd, Hoopa, CA 95546, USA",2,BIA,CA,
+Hoopa Valley Tribe,DEERHORN,2008,2454710,Arson,2454730,264,1800,359,41.1693,-123.696,"Hoopa, CA 95546, USA",9,TRIBAL,CA,
+Southern California Agency,VIEJAS,2001,2451910,Smoking,2451920,7,1700,10353,32.7792,-116.834,"Casino Way, El Cajon, CA 92019, USA",2,BIA,CA,
+Southern California Agency,MIAS,2002,2452440,Miscellaneous,2452450,172,1500,565,33.59,-116.541,"Riverside County, CA, USA",2,BIA,CA,
+Southern California Agency,TROY,2002,2452440,Miscellaneous,2452450,174,1800,745,32.8278,-116.401,"Pine Valley, CA 91962, USA",2,BIA,CA,
+Southern California Agency,PASS,2002,2452500,Miscellaneous,2452500,224,1800,2620,33.9508,-116.885,"Unnamed Road, Banning, CA 92220, USA",2,BIA,CA,
+Tule River Agency,CHIMNEY,2003,2452820,Arson,2452820,180,400,565,36.0153,-118.824,"32705 Indian Reservation Dr, Porterville, CA 93257, USA",2,BIA,CA,
+Tule River Agency,VALLEY,2003,2452820,Arson,2452820,185,200,425,36.015,-118.818,"32885 Indian Reservation Dr, Porterville, CA 93257, USA",2,BIA,CA,
+Tule River Agency,ROCK,2005,2453580,Arson,2453580,209,1430,437,36.0447,-118.781,"Woodville, CA 93257, USA",2,BIA,CA,
+Tule River Agency,OAK,2007,2454260,Arson,2454260,163,615,350,36.0175,-118.796,"Woodville, CA 93257, USA",2,BIA,CA,
+Tule River Agency,ROCK 2,2007,2454290,Arson,2454290,188,2200,1005,36.0478,-118.78,"Tulare County, CA, USA",2,BIA,CA,
+Tule River Agency,GIBBON 4,2008,2454650,Arson,2454650,188,1800,300,35.9844,-118.785,"Woodville, CA 93257, USA",2,BIA,CA,
+Tule River Agency,GIBBON 2,2008,2454650,Arson,2454650,188,1600,300,35.9856,-118.786,"Woodville, CA 93257, USA",2,BIA,CA,
+Tule River Agency,GIBBON 3,2008,2454650,Arson,2454650,188,1600,300,35.9846,-118.784,"Tulare County, CA, USA",2,BIA,CA,
+Tule River Agency,RODEO,2008,2454690,Arson,2454690,227,1740,800,36.0331,-118.881,"Indian Reservation Dr, Porterville, CA 93257, USA",8,PRIVATE,CA,
+Fort Yuma Agency,BARD,2001,2452070,Campfire,2452070,164,1800,572,34.8133,-114.581,"Needles, CA 92363, USA",2,BIA,CA,
+Bakersfield District,GRANITE,2000,2451730,Arson,2451730,191,1800,2000,37.7173,-120.287,"4339-4309 Penon Blanco Rd, Coulterville, CA 95311, USA",8,PRIVATE,CA,Mariposa
+Bakersfield District,MERCEY,2000,2451730,Miscellaneous,2451730,189,2300,450,36.7102,-120.709,"Fresno County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,SHELL,2000,2451750,Equipment Use,2451750,205,1200,6762,35.15,-119.601,"Fellows, CA 93224, USA",1,BLM,CA,Kern
+Bakersfield District,CHOLAME LAND  CATTLE,2000,2451750,Equipment Use,2451750,209,1334,710,35.7139,-120.171,"Shandon, CA 93461, USA",8,PRIVATE,CA,Kern
+Bakersfield District,GOLDEN,2000,2451760,Lightning,2451770,231,1800,2150,38.5444,-119.503,"109969 US-395, Coleville, CA 96107, USA",1,BLM,CA,Mono
+Bakersfield District,DRIVERS,2000,2451760,Miscellaneous,2451760,217,2000,360,38.9637,-120.944,"Foresthill, CA 95631, USA",10,BOR,CA,Placer
+Bakersfield District,NORTHFORK,2000,2451760,Equipment Use,2451770,227,1800,1860,40.2582,-120.759,"Greenville, CA 95947, USA",8,PRIVATE,CA,
+Bakersfield District,PARROTS,2000,2451760,Equipment Use,2451760,219,1800,699,38.2252,-120.361,"Dozer Line, Arnold, CA 95223, USA",1,BLM,CA,
+Bakersfield District,HUNTER,2000,2451780,Miscellaneous,2451790,243,1800,8600,37.6166,-120.218,"8410 Hunters Valley Rd, Mariposa, CA 95338, USA",1,BLM,CA,Mariposa
+Bakersfield District,CHOCTAW,2001,2452080,Debris Burning,2452080,168,1700,601,35.4666,-118.834,"19307-19301 Forest Rte 25S03, Bakersfield, CA 93306, USA",8,PRIVATE,CA,Kern
+Bakersfield District,RIDGE,2001,2452090,Miscellaneous,2452090,182,1500,516,35.2883,-119.495,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,LAKE,2001,2452090,Campfire,2452090,184,2300,550,38.2108,-120.79,"Valley Springs, CA 95252, USA",1,BLM,CA,
+Bakersfield District,LEONARD,2001,2452140,Equipment Use,2452150,244,1800,6800,38.2252,-120.68,"San Andreas, CA 95249, USA",8,PRIVATE,CA,
+Bakersfield District,CREEK,2001,2452140,Arson,2452160,247,1800,11185,37.7463,-120.251,"Coulterville, CA 95311, USA",1,BLM,CA,
+Bakersfield District,PONDEROSA,2001,2452150,Equipment Use,2452150,242,1800,2688,39.0632,-120.827,"Unnamed Road, Foresthill, CA 95631, USA",8,PRIVATE,CA,
+Bakersfield District,FIELD,2002,2452430,Powerline,2452440,162,1800,1100,39.2296,-121.308,"Browns Valley, CA 95918, USA",8,PRIVATE,CA,
+Bakersfield District,AERA,2002,2452430,Equipment Use,2452440,161,1330,400,36.2456,-120.346,"Fresno County, CA, USA",8,PRIVATE,CA,Fresno
+Bakersfield District,BOREL,2002,2452440,Campfire,2452450,176,1800,3416,35.5947,-118.528,"Bodfish, CA 93205, USA",5,USFS,CA,
+Bakersfield District,GATE,2002,2452470,Lightning,2452470,199,1800,364,38.5232,-119.529,"Coleville, CA 96107, USA",5,USFS,CA,Mono
+Bakersfield District,SLINKARD,2002,2452470,Lightning,2452470,199,1800,8600,38.6471,-119.598,"Mono County, CA, USA",1,BLM,CA,Mono
+Bakersfield District,HWY 58,2002,2452470,Arson,2452480,203,900,1380,35.4327,-120.55,"Creston, CA 93432, USA",8,PRIVATE,CA,San Luis Obispo
+Bakersfield District,DEER,2002,2452480,Children,2452480,206,1800,1800,35.5947,-118.493,"3701 Lake Isabella Blvd, Bodfish, CA 93205, USA",8,PRIVATE,CA,
+Bakersfield District,HICKOCK,2002,2452520,Children,2452520,246,1800,776,38.7185,-121.027,"3330 Sands Rd, Rescue, CA 95672, USA",8,PRIVATE,CA,
+Bakersfield District,CROY,2002,2452540,Equipment Use,2452560,284,800,3127,37.091,-121.775,"Unnamed Road, Morgan Hill, CA 95037, USA",8,PRIVATE,CA,Santa Clara
+Bakersfield District,LUNDY,2003,2452750,Miscellaneous,2452760,116,1800,739.8,38.051,-119.295,"Lee Vining, CA 93541, USA",1,BLM,CA,
+Bakersfield District,NEW IDRIA,2003,2452780,Miscellaneous,2452780,139,1845,628,36.5377,-120.835,"1953-1819 New Idria Rd, Paicines, CA 95043, USA",1,BLM,CA,
+Bakersfield District,CALIENTE FIRE,2003,2452810,Miscellaneous,2452810,167,2210,1223,35.3051,-118.667,"Havilah, CA 93518, USA",8,PRIVATE,CA,Kern
+Bakersfield District,SAWMILL,2003,2452820,Children,2452820,180,1800,536,35.6816,-118.579,"Kern County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,HUNTER,2003,2452820,Equipment Use,2452820,184,2035,681,37.6169,-120.217,"8411 Hunters Valley Rd, Mariposa, CA 95338, USA",1,BLM,CA,
+Bakersfield District,DELPUERTO,2003,2452840,Lightning,2452840,205,1800,5018,37.4497,-121.417,"Stanislaus County, CA, USA",1,BLM,CA,
+Bakersfield District,BASIN,2003,2452840,Arson,2452850,211,1800,1117,35.4327,-118.423,"Havilah, CA 93518, USA",8,PRIVATE,CA,
+Bakersfield District,CHIMNEY INCIDENT,2003,2452860,Equipment Use,2452860,223,1900,1500,35.1141,-120.001,"San Luis Obispo County, CA, USA",5,USFS,CA,San Luis Obispo
+Bakersfield District,COOPRSTOWN,2003,2452880,Lightning,2452880,238,2000,2000,37.7608,-120.526,"Jamestown, CA 95327, USA",1,BLM,CA,
+Bakersfield District,WILD,2003,2452880,Equipment Use,2452880,239,1800,320,35.9163,-119.52,"Alpaugh, CA 93201, USA",8,PRIVATE,CA,
+Bakersfield District,MICHAELS,2003,2452900,Arson,2452900,261,1800,412,36.003,-117.97,"Inyo County, CA, USA",8,PRIVATE,CA,
+Bakersfield District,CASTLE,2004,2453160,Arson,2453160,160,1432,571,36.4063,-119.054,"23522 Lomitas Dr, Woodlake, CA 93286, USA",8,PRIVATE,CA,Tulare
+Bakersfield District,GATOS,2004,2453200,Equipment Use,2453200,197,1858,1307,36.2338,-120.56,"44590 Los Gatos Creek Rd, Coalinga, CA 93210, USA",8,PRIVATE,CA,Fresno
+Bakersfield District,MINERAL,2004,2453220,Arson,2453240,233,800,5000,39.0488,-120.4,"Sierra Nevada, California, USA",1,BLM,CA,
+Bakersfield District,STEPHEN,2004,2453230,Structure,2453230,226,1800,955,39.0777,-120.938,"Colfax, CA 95713, USA",8,PRIVATE,CA,
+Bakersfield District,APRICOT,2005,2453510,Campfire,2453510,138,1400,667,36.65,-120.69,"California, USA",1,BLM,CA,Fresno
+Bakersfield District,SODA,2005,2453530,Equipment Use,2453530,155,1230,449,34.9516,-119.437,"16398 Hudson Ranch Rd, Maricopa, CA 93252, USA",8,PRIVATE,CA,Kern
+Bakersfield District,UNNAMED FIRE 0103,2005,2453540,Miscellaneous,2453540,174,,500,35.2498,-119.34,"Taft, CA 93268, USA",8,PRIVATE,CA,Kern
+Bakersfield District,CARO,2005,2453550,Miscellaneous,2453550,184,1500,1500,35.6094,-119.865,"CA-33, Lost Hills, CA 93249, USA",8,PRIVATE,CA,Kern
+Bakersfield District,ELK,2005,2453570,Miscellaneous,2453570,198,,358.7,35.2158,-119.477,"Taft, CA 93268, USA",8,PRIVATE,CA,Kern
+Bakersfield District,QUARTZ,2005,2453580,Equipment Use,2453580,211,1800,550,37.1778,-119.686,"Coarsegold, CA 93614, USA",8,PRIVATE,CA,Madera
+Bakersfield District,BLUE,2005,2453580,Miscellaneous,2453580,208,1800,900,35.7613,-118.829,"4574 Blue Mountain Rd, Woody, CA 93287, USA",8,PRIVATE,CA,Kern
+Bakersfield District,LAGUNA,2005,2453580,Equipment Use,2453580,212,954,447,36.8721,-120.79,"Merced County, CA, USA",8,PRIVATE,CA,Merced
+Bakersfield District,AQUEDUCT,2005,2453600,Miscellaneous,2453600,225,1630,355,35.3708,-119.534,"Kern County, CA, USA",8,PRIVATE,CA,Kern
+Bakersfield District,PINE,2005,2453630,Lightning,2453630,263,1500,1813,35.5511,-118.832,"Kern County, CA, USA",8,PRIVATE,CA,Kern
+Bakersfield District,TORCH,2006,2453870,Equipment Use,2453870,133,2200,1964,36.1192,-120.411,"Fresno County, CA, USA",7,STATE,CA,Fresno
+Bakersfield District,ALPAUGH,2006,2453880,Equipment Use,2453880,147,1434,1700,35.8302,-119.482,"Rd 40, Alpaugh, CA 93201, USA",8,PRIVATE,CA,Tulare
+Bakersfield District,MOCAL,2006,2453880,Equipment Use,2453890,150,1800,931,35.2306,-119.673,"McKittrick, CA 93251, USA",1,BLM,CA,
+Bakersfield District,DEVIL,2006,2453890,Miscellaneous,2453890,155,1400,1090.2,35.7737,-119.997,"Kern County, CA, USA",8,PRIVATE,CA,Kern
+Bakersfield District,ABERDEEN,2006,2453890,Lightning,2453900,160,1800,357,36.9574,-118.261,"Big Pine, CA 93513, USA",1,BLM,CA,Inyo
+Bakersfield District,PEDRO,2006,2453920,Miscellaneous,2453920,188,2000,2063,37.7997,-120.379,"Jamestown, CA 95327, USA",8,PRIVATE,CA,Tuolumne
+Bakersfield District,CANYON,2006,2453930,Equipment Use,2453940,201,1800,34271,37.4,-121.281,"9601-9699 Schneider Ln, Patterson, CA 95363, USA",1,BLM,CA,Stanislaus
+Bakersfield District,RICO,2006,2453940,Lightning,2453940,209,1800,14507,36.05,-120.751,"Monterey County, CA, USA",8,PRIVATE,CA,Monterey
+Bakersfield District,THREE ROCKS,2006,2453940,Lightning,2453940,206,1800,8400,36.4667,-120.539,"California, USA",1,BLM,CA,Fresno
+Bakersfield District,ANTELOPE,2006,2453950,Equipment Use,2453950,213,2200,548,35.7408,-120.221,"10998 CA-46, Shandon, CA 93461, USA",8,PRIVATE,CA,
+Bakersfield District,UNNAMED FIRE 0372,2006,2453950,Equipment Use,2453950,214,1400,320,35.6391,-120.016,"CA-46, Lost Hills, CA 93249, USA",8,PRIVATE,CA,Kern
+Bakersfield District,NET,2006,2453950,Equipment Use,2453950,215,2100,1300,35.6969,-120.131,"CA-46, Lost Hills, CA 93249, USA",8,PRIVATE,CA,
+Bakersfield District,SAWMILL,2006,2453990,Miscellaneous,2454000,266,1900,7434,37.7892,-118.663,"California, USA",5,USFS,CA,Mono
+Bakersfield District,CUAYMA,2006,2454020,Miscellaneous,2454020,283,1323,923,36.9897,-118.961,"Shaver Lake, CA 93634, USA",8,PRIVATE,CA,
+Bakersfield District,WESTSIDE,2006,2454080,Miscellaneous,2454080,341,,4025,34.9057,-118.931,"Frazier Park, CA 93225, USA",8,PRIVATE,CA,Kern
+Bakersfield District,MCKITTRICK,2006,2454080,Miscellaneous,2454080,342,,301.5,35.2544,-119.619,"Fellows, CA 93224, USA",8,PRIVATE,CA,Kern
+Bakersfield District,UNNAMED FIRE 2045,2007,2454110,Miscellaneous,2454110,14,1542,332,35.2891,-120.876,"Los Osos, CA 93402, USA",7,STATE,CA,San Luis Obispo
+Bakersfield District,LARSON,2007,2454250,Lightning,2454260,163,1800,1100,38.5494,-119.499,"US-395, Coleville, CA 96107, USA",1,BLM,CA,Mono
+Bakersfield District,BROWN,2007,2454270,Miscellaneous,2454270,172,1800,1397,35.6319,-119.815,"Lost Hills, CA 93249, USA",8,PRIVATE,CA,
+Bakersfield District,TAR,2007,2454320,Campfire,2454330,227,1830,5600,35.9419,-120.266,"Coalinga, CA 93210, USA",7,STATE,CA,Fresno
+Bakersfield District,LICK,2007,2454350,Campfire,2454350,253,1600,47760,37.2083,-121.501,"Morgan Hill, CA 95037, USA",1,BLM,CA,Santa Clara
+Bakersfield District,BLUFF,2008,2454540,Debris Burning,2454550,80,1111,680,37.4286,-118.55,"Mesa, CA 93514, USA",7,STATE,CA,Inyo
+Bakersfield District,GRAPEVINE,2008,2454620,Equipment Use,2454620,158,2100,507,34.9372,-118.932,"I-5, Lebec, CA 93243, USA",8,PRIVATE,CA,
+Bakersfield District,BROWNS,2008,2454640,Lightning,2454640,176,1800,1054,36.417,-120.553,"California, USA",1,BLM,CA,San Benito
+Bakersfield District,AVENAL,2008,2454700,Missing/Undefined,2454700,232,2000,940,36.0164,-120.356,"Coalinga, CA 93210, USA",8,PRIVATE,CA,
+Bakersfield District,RUMSEY,2009,2455010,Equipment Use,2455010,183,800,716,38.9167,-122.316,"1475-1460 CA-16, Clearlake Oaks, CA 95423, USA",8,PRIVATE,CA,Yolo
+Bakersfield District,MAMMOUTH,2009,2455030,Missing/Undefined,2455030,200,800,670,38.9367,-120.953,"Cool, CA 95614, USA",8,PRIVATE,CA,Placer
+Bakersfield District,OASIS,2009,2455080,Campfire,2455090,257,1800,1575,38.945,-122.388,"CLEARLAKE OKS, CA 95423, USA",1,BLM,CA,Lake
+Bakersfield District,GUIBERSON,2009,2455100,Children,2455100,271,1400,17463,34.3817,-118.871,"1121 E Guiberson Rd, Fillmore, CA 93015, USA",8,PRIVATE,CA,
+California Desert District,BARRETT,2000,2451720,Campfire,2451730,184,1800,2000,32.6223,-116.685,"San Diego County, CA, USA",1,BLM,CA,San Diego
+California Desert District,COYOTE,2003,2452840,Lightning,2452850,206,1500,19575.8,33.4328,-116.745,"Aguanga, CA 92536, USA",1,BLM,CA,Riverside
+California Desert District,ROBLAR 2,2003,2452930,Equipment Use,2452940,301,1800,8592,33.3692,-117.352,"Oceanside, CA 92058, USA",6,OTHER FEDERAL,CA,San Diego
+California Desert District,CERRITO,2004,2453130,Arson,2453130,129,1800,16460,33.75,-117.418,"Lake Elsinore, CA 92530, USA",1,BLM,CA,Riverside
+California Desert District,COTTONWOOD,2004,2453140,Campfire,2453140,136,1800,1845,33.9833,-116.669,"Whitewater, CA 92282, USA",1,BLM,CA,Riverside
+California Desert District,MATAGUAY,2004,2453200,Arson,2453200,198,2359,8500,33.2333,-116.7,"Mataguay Rd, Santa Ysabel, CA 92070, USA",8,PRIVATE,CA,San Diego
+California Desert District,ROCKY,2004,2453200,Structure,2453200,197,2330,510,35.0752,-118.333,"Unnamed Road, Mojave, CA 93501, USA",8,PRIVATE,CA,Kern
+California Desert District,MELTON,2004,2453200,Equipment Use,2453210,203,2000,3667,33.6014,-116.918,"35601-35999 Ballinger Rd, Hemet, CA 92544, USA",8,PRIVATE,CA,Riverside
+California Desert District,CHUCKER,2004,2453230,Lightning,2453240,231,1800,862,35.9236,-117.511,"California, USA",6,OTHER FEDERAL,CA,Inyo
+California Desert District,BORDER 16,2004,2453260,Debris Burning,2453260,259,1800,1880,32.6001,-116.551,"Volmer Ln, Potrero, CA 91963, USA",1,BLM,CA,San Diego
+California Desert District,SOBOBA,2005,2453540,Structure,2453550,176,800,2080,33.7978,-116.927,"42011 Chabela Dr, San Jacinto, CA 92583, USA",1,BLM,CA,Riverside
+California Desert District,PARADISE,2005,2453540,Structure,2453550,179,1800,3082,34.0453,-116.568,"Morongo Valley, CA 92256, USA",1,BLM,CA,San Bernardino
+California Desert District,VALLEY,2005,2453550,Fireworks,2453550,184,500,400,34.8667,-116.088,"California, USA",8,PRIVATE,CA,San Bernardino
+California Desert District,TOVEY,2005,2453560,Miscellaneous,2453560,189,600,1126,34.555,-118.146,"Camare Dr, Palmdale, CA 93551, USA",1,BLM,CA,Los Angeles
+California Desert District,CHINA LAKE,2005,2453570,Equipment Use,2453580,205,1800,10350,35.8855,-117.331,"Homewood Canyon-Valley Wells, CA, USA",1,BLM,CA,Inyo
+California Desert District,SEGS,2005,2453570,Lightning,2453570,200,1800,300,34.8797,-116.825,"Daggett, CA 92327, USA",1,BLM,CA,San Bernardino
+California Desert District,KINGSTON,2005,2453570,Lightning,2453580,205,1200,3500,35.8316,-115.942,"Inyo County, CA, USA",1,BLM,CA,Inyo
+California Desert District,BORDER 50,2005,2453650,Debris Burning,2453650,283,1800,4100,32.5792,-116.63,"437 CA-188, Tecate, CA 91980, USA",1,BLM,CA,San Diego
+California Desert District,WOODHOUSE,2005,2453650,Miscellaneous,2453650,279,800,6644,33.9597,-117.064,"Palmer Ave, Beaumont, CA 92223, USA",8,PRIVATE,CA,Riverside
+California Desert District,ENERGY,2006,2453880,Miscellaneous,2453880,147,1800,787,35.0167,-118.35,"Tehachapi, CA 93561, USA",1,BLM,CA,Kern
+California Desert District,KINGSTON 2,2006,2453920,Lightning,2453930,193,846,488,35.7103,-115.903,"California, USA",1,BLM,CA,San Bernardino
+California Desert District,SAWTOOTH,2006,2453930,Lightning,2453940,201,1800,61700,34.1403,-116.522,"San Bernardino County, CA, USA",1,BLM,CA,San Bernardino
+California Desert District,BORDER 16,2006,2453940,Campfire,2453940,202,800,492,32.6572,-116.813,"15201 CA-94, Dulzura, CA 91917, USA",1,BLM,CA,San Diego
+California Desert District,COTTONWOOD,2006,2453950,Miscellaneous,2453960,220,1800,2346,35.5358,-118.785,"Bakersfield, CA 93308, USA",1,BLM,CA,Kern
+California Desert District,QUAIL,2006,2453960,Equipment Use,2453960,228,1800,4864,34.7458,-118.796,"44761 Orwin Way, Lebec, CA 93243, USA",8,PRIVATE,CA,Los Angeles
+California Desert District,ALESSANDRO,2007,2454160,Miscellaneous,2454160,64,1500,400,33.9231,-117.061,"Jack Rabbit Trail, Moreno Valley, CA 92555, USA",1,BLM,CA,Riverside
+California Desert District,WALKER,2007,2454200,Lightning,2454200,98,1600,901,35.6497,-117.988,"Onyx, CA 93255, USA",1,BLM,CA,Kern
+California Desert District,DAWSON,2007,2454230,Miscellaneous,2454230,129,1800,993,33.8236,-117.461,"20371 Farley Ave, Corona, CA 92881, USA",1,BLM,CA,Riverside
+California Desert District,INKOPAH,2007,2454260,Debris Burning,2454260,159,1200,1118,32.6025,-116.842,"Jamul, CA 91935, USA",1,BLM,CA,Imperial
+California Desert District,UNNAMED FIRE 3175,2007,2454260,Miscellaneous,2454260,157,1800,1500,32.646,-116.186,"1801 Carrizo Gorge Rd, Jacumba Hot Springs, CA 91934, USA",8,PRIVATE,CA,San Diego
+California Desert District,CANYON,2007,2454290,Miscellaneous,2454290,191,800,815,34.4833,-118.344,"32350 Cll De Las Casas, Canyon Country, CA 91390, USA",1,BLM,CA,Los Angeles
+California Desert District,ANGEL,2007,2454360,Campfire,2454360,263,1800,837,33.0844,-116.6,"Julian, CA 92036, USA",1,BLM,CA,San Diego
+California Desert District,DOS PALMAS,2008,2454570,Powerline,2454570,106,1800,456,33.5081,-115.825,"Mecca, CA 92254, USA",1,BLM,CA,Riverside
+California Desert District,ACOMA FIRE CDD6343,2008,2454620,Miscellaneous,2454630,162,1800,356,34.0801,-116.437,"56258 Eagles Nest, Yucca Valley, CA 92284, USA",1,BLM,CA,San Bernardino
+California Desert District,SESNON,2008,2454750,Powerline,2454760,299,1411,14703,34.3097,-118.609,"Palo Sola Truck Rd, Chatsworth, CA 91311, USA",1,BLM,CA,Los Angeles
+Northern California District,CCD TURTLE,2000,2451720,Lightning,2451730,188,1800,1076,40.0649,-120.046,"Doyle, CA 96109, USA",1,BLM,CA,Lassen
+Northern California District,GOAT,2000,2451740,Campfire,2451750,207,2000,1084,40.4173,-120.804,"Susanville, CA 96130, USA",8,PRIVATE,CA,Lassen
+Northern California District,LNU MORGAN,2000,2451750,Miscellaneous,2451760,212,2000,3283,38.9182,-122.699,"8421 CA-29, Lower Lake, CA 95457, USA",1,BLM,CA,Lake
+Northern California District,BTU CONCOW,2000,2451810,Equipment Use,2451810,269,1800,1856,39.7349,-121.531,"Unnamed Road, Oroville, CA 95965, USA",8,PRIVATE,CA,Butte
+Northern California District,TGU WEIN,2000,2451820,Debris Burning,2451820,279,800,8284,39.9665,-122.609,"Red Bluff, CA 96080, USA",1,BLM,CA,Tehama
+Northern California District,HILTON,2001,2452050,Arson,2452050,145,1509,390,41.2618,-120.717,"Alturas, CA 96101, USA",8,PRIVATE,CA,Modoc
+Northern California District,DEMO,2001,2452060,Lightning,2452060,147,1900,614,40.3152,-120.024,"Wendel, CA 96136, USA",1,BLM,CA,Lassen
+Northern California District,LMU DEVIL,2001,2452060,Miscellaneous,2452060,155,800,4400,40.3716,-120.779,"Susanville, CA 96130, USA",8,PRIVATE,CA,Lassen
+Northern California District,HUU FLAT,2001,2452060,Campfire,2452070,156,1800,308,40.2353,-124.277,"Humboldt County, CA, USA",1,BLM,CA,Humboldt
+Northern California District,HOG,2001,2452070,Equipment Use,2452070,164,1703,340,40.2945,-122.114,"Red Bluff, CA 96080, USA",1,BLM,CA,Tehama
+Northern California District,DUNN,2001,2452100,Lightning,2452100,193,1800,308,40.9266,-120.048,"Lassen County, CA, USA",1,BLM,CA,Lassen
+Northern California District,LMU GRASS,2001,2452120,Lightning,2452120,212,2000,992,40.7982,-120.739,"California, USA",1,BLM,CA,Lassen
+Northern California District,SHAFFER,2001,2452130,Lightning,2452130,222,1800,1022,40.4414,-120.319,"Litchfield, CA 96117, USA",1,BLM,CA,Lassen
+Northern California District,COWHEAD,2001,2452130,Lightning,2452130,225,1800,709,41.8652,-120.071,"Fort Bidwell, CA 96112, USA",1,BLM,CA,Modoc
+Northern California District,OBSERVATIO,2001,2452130,Lightning,2452140,229,1800,67792,40.7728,-120.24,"Lassen County, CA, USA",1,BLM,CA,Lassen
+Northern California District,SHU EAST,2001,2452130,Powerline,2452130,225,2000,640,40.7182,-122.608,"French Gulch, CA 96033, USA",1,BLM,CA,Shasta
+Northern California District,BLACK,2002,2452470,Lightning,2452470,197,2000,1510,40.6185,-120.547,"Lassen County, CA, USA",1,BLM,CA,Lassen
+Northern California District,RUSH,2002,2452470,Lightning,2452470,198,2000,5015,40.6359,-120.131,"Lassen County, CA, USA",1,BLM,CA,Lassen
+Northern California District,POPE,2002,2452500,Equipment Use,2452500,222,2000,800,38.6582,-122.345,"Napa County, CA, USA",1,BLM,CA,Napa
+Northern California District,BURNS,2002,2452540,Equipment Use,2452540,268,800,485,39.6886,-123.542,"Laytonville, CA 95454, USA",8,PRIVATE,CA,Mendocino
+Northern California District,LNU 16,2002,2452550,Miscellaneous,2452550,276,1700,693,38.9049,-122.254,"14801 Rd 41, Capay, CA 95607, USA",1,BLM,CA,Yolo
+Northern California District,LMU A3,2003,2452820,Equipment Use,2452820,185,800,1113,40.2982,-120.459,"Hemphill Rd, Janesville, CA 96114, USA",8,PRIVATE,CA,Lassen
+Northern California District,SMOKE,2003,2452840,Lightning,2452850,209,600,7790,40.6899,-120.006,"California, USA",1,BLM,CA,Lassen
+Northern California District,SHINN,2003,2452840,Lightning,2452850,206,1800,474,40.5749,-120.234,"736000 Stoney Creek Rd, Litchfield, CA 96117, USA",1,BLM,CA,Lassen
+Northern California District,BARBER,2003,2452850,Lightning,2452860,216,1800,1330,41.2616,-120.081,"Eagleville, CA 96110, USA",1,BLM,CA,Modoc
+Northern California District,LNU MORGAN,2003,2452890,Lightning,2452890,249,1000,1465,38.8899,-122.421,"Lake County, CA, USA",1,BLM,CA,Lake
+Northern California District,42,2003,2452890,Lightning,2452890,248,1700,400,39.3987,-122.498,"Elk Creek, CA 95939, USA",8,PRIVATE,CA,Glenn
+Northern California District,LIGHTNING HONEYDEW4M,2003,2452890,Lightning,2452890,246,1025,13846,40.1744,-124.073,"Garberville, CA 95542, USA",8,PRIVATE,CA,Humboldt
+Northern California District,SECRET,2003,2452930,Equipment Use,2452930,292,1800,1195,40.6249,-120.251,"Litchfield, CA 96117, USA",1,BLM,CA,Lassen
+Northern California District,SKEDADDLE,2004,2453180,Lightning,2453180,177,1800,368,40.4028,-120.173,"Lassen County, CA, USA",1,BLM,CA,Lassen
+Northern California District,LIGHT 37,2004,2453210,Lightning,2453210,206,2017,400,41.8517,-122.47,"10100-10230 Hornbrook Ager Rd, Hornbrook, CA 96044, USA",8,PRIVATE,CA,Siskiyou
+Northern California District,IRONGATE,2004,2453210,Lightning,2453210,210,800,2400,41.9539,-122.451,"Hornbrook, CA 96044, USA",8,PRIVATE,CA,Siskiyou
+Northern California District,OREGON,2004,2453230,Equipment Use,2453230,226,2000,2030,39.591,-121.512,"126 Buckhorn Trail, Oroville, CA 95965, USA",8,PRIVATE,CA,Butte
+Northern California District,BTU OREGON,2004,2453230,Powerline,2453230,226,1420,320,39.5482,-121.531,"384-410 Oregon Gulch Rd, Oroville, CA 95965, USA",1,BLM,CA,Butte
+Northern California District,SNAKE,2004,2453230,Lightning,2453230,227,1800,480,41.1882,-120.068,"Modoc County, CA, USA",1,BLM,CA,Modoc
+Northern California District,BELFAST,2004,2453230,Lightning,2453230,229,1800,446.9,40.4352,-120.484,"Lassen County, CA, USA",1,BLM,CA,Lassen
+Northern California District,STONEY,2004,2453230,Lightning,2453230,228,1800,910,40.5682,-120.193,"Lassen County, CA, USA",1,BLM,CA,Lassen
+Northern California District,LONG,2004,2453240,Miscellaneous,2453250,241,2000,400,39.047,-122.584,"CLEARLAKE OKS, CA 95423, USA",8,PRIVATE,CA,Lake
+Northern California District,RANCH,2005,2453580,Equipment Use,2453580,208,2000,430,40.3192,-122.797,"Wildwood, CA 96076, USA",8,PRIVATE,CA,Tehama
+Northern California District,SMOKE CREEK,2006,2453910,Lightning,2453920,181,1800,918,40.6164,-120.121,"Lassen County, CA, USA",1,BLM,CA,Lassen
+Northern California District,OBSERVATION,2006,2453910,Lightning,2453920,181,1800,2190,40.7653,-120.141,"California, USA",1,BLM,CA,Lassen
+Northern California District,RUSH,2006,2453910,Lightning,2453920,181,1800,517,40.6164,-120.121,"Lassen County, CA, USA",1,BLM,CA,Lassen
+Northern California District,NORTH HORSE,2006,2453910,Lightning,2453920,181,1800,415,40.7486,-120.461,"Lassen County, CA, USA",1,BLM,CA,Lassen
+Northern California District,LGT 11,2006,2453910,Lightning,2453910,177,2200,647,40.4022,-120.692,"Susanville, CA 96130, USA",8,PRIVATE,CA,Lassen
+Northern California District,LGT 17,2006,2453910,Lightning,2453910,178,1827,500,41.2335,-120.962,"Adin, CA 96006, USA",8,PRIVATE,CA,Modoc
+Northern California District,29,2006,2453930,Equipment Use,2453940,203,1545,550,38.6983,-122.599,"24462 Bradford Rd, Middletown, CA 95461, USA",8,PRIVATE,CA,Lake
+Northern California District,CREEK,2006,2453930,Miscellaneous,2453940,209,600,1234,40.3734,-120.729,"Lassen County, CA, USA",8,PRIVATE,CA,Lassen
+Northern California District,SHU JUNCTION,2006,2453950,Miscellaneous,2453950,216,1800,3192,40.7192,-123.035,"1041 Sky Ranch Rd, Junction City, CA 96048, USA",1,BLM,CA,Shasta
+Northern California District,CCD SAGE,2006,2453950,Lightning,2453950,219,1300,300,40.0094,-120.052,"752250 Homestead Ranch Rd, Doyle, CA 96109, USA",1,BLM,CA,Lassen
+Northern California District,MEU NOBLE,2006,2454000,Miscellaneous,2454010,273,800,1014,39.9514,-123.718,"Mendocino County, CA, USA",1,BLM,CA,Mendocino
+Northern California District,UNNAMED FIRE 3799,2007,2454240,Miscellaneous,2454240,142,1500,450,38.5121,-122.104,"CA-128, Napa, CA 94558, USA",8,PRIVATE,CA,Napa
+Northern California District,UNNAMED FIRE 3800,2007,2454290,Miscellaneous,2454290,193,1700,776,41.0019,-121.506,"FL RIVER MLS, CA 96028, USA",1,BLM,CA,Shasta
+Northern California District,UNNAMED FIRE 3798,2007,2454330,Smoking,2454330,227,430,400,38.4947,-122.027,"CA-128, Winters, CA 95694, USA",8,PRIVATE,CA,Yolo
+Northern California District,MEU ORR,2008,2454640,Lightning,2454660,194,2300,3416,39.2183,-123.411,"Mendocino County, CA, USA",1,BLM,CA,Mendocino
+Northern California District,MEU JACKS,2008,2454640,Lightning,2454660,194,2300,1538,39.2633,-123.331,"Mendocino County, CA, USA",8,PRIVATE,CA,Mendocino
+Northern California District,HUU PARADISE,2008,2454640,Lightning,2454670,200,1800,886,40.3994,-123.949,"26390 CA-254, Redcrest, CA 95569, USA",1,BLM,CA,Humboldt
+Northern California District,MEU RED MTN 1 3,2008,2454640,Lightning,2454670,207,1800,3597,39.8644,-123.665,"Mendocino County, CA, USA",1,BLM,CA,Humboldt
+Northern California District,SHU MOTION DEMOCRAT,2008,2454640,Lightning,2454710,242,1700,6267,40.6803,-122.488,"Shasta, CA, USA",1,BLM,CA,Shasta
+Northern California District,BTU CAMP,2008,2454640,Lightning,2454680,211,1800,787.5,39.7778,-121.552,"13189 Jordan Hill Rd, Oroville, CA 95965, USA",1,BLM,CA,Butte
+Northern California District,SHU MOON COMPLEX,2008,2454640,Lightning,2454710,242,1700,1167,40.5494,-122.756,"Ono, CA 96047, USA",1,BLM,CA,Shasta
+Northern California District,HUU WALKER,2008,2454640,Equipment Use,2454650,180,1200,11089,39.0464,-122.533,"CLEARLAKE OKS, CA 95423, USA",8,PRIVATE,CA,Lake
+Northern California District,LMU PETERSON COM,2008,2454640,Lightning,2454650,182,1800,4700,40.9114,-121.379,"Shasta County, CA, USA",1,BLM,CA,Shasta
+Northern California District,MENDIBOURNE,2009,2455040,Lightning,2455040,213,1800,1500,40.9639,-120.361,"Lassen County, CA, USA",1,BLM,CA,Lassen
+Northern California District,SHU CASSEL,2009,2455050,Lightning,2455050,222,1200,4500,40.9347,-121.526,"FL RIVER MLS, CA 96028, USA",1,BLM,CA,Shasta
+Northern California District,SHU COFFIN,2009,2455060,Debris Burning,2455060,227,1900,1098,40.6931,-122.84,"Lockhart Ranch Rd, Lewiston, CA 96052, USA",1,BLM,CA,Trinity
+Carson City District Office,SILVER  2,2002,2452480,Lightning,2452490,214,1800,600,38.5952,-119.612,"Sierra Nevada, California, USA",1,BLM,CA,Alpine
+Carson City District Office,MUD LAKE,2005,2453560,Miscellaneous,2453560,193,1930,580,38.8069,-119.83,"Markleeville, CA 96120, USA",1,BLM,CA,Alpine
+Carson City District Office,TRAILER 1,2009,2455030,Equipment Use,2455040,205,1800,1349,39.91,-120.013,"US-395, Doyle, CA 96109, USA",1,BLM,CA,Lassen
+Northern California Area Office,LOWER SHU LIGHTNING,2008,2454640,Lightning,2454660,196,1500,1309,40.6402,-122.759,"16400 CA-299, Lewiston, CA 96052, USA",10,BOR,CA,Shasta
+Lava Beds National Monument,JACK,2008,2454700,Lightning,2454710,244,1800,6065,41.8117,-121.528,"Tulelake, CA 96134, USA",3,NPS,CA,
+Death Valley National Park,HAPPY,2000,2451750,Debris Burning,2451760,221,1800,5861,36.0713,-117.107,"California, USA",3,NPS,CA,
+Death Valley National Park,TOWNES,2005,2453580,Lightning,2453580,210,1800,350,36.3999,-117.281,"Inyo County, CA, USA",3,NPS,CA,
+Death Valley National Park,BUTTE 2,2006,2453920,Lightning,2453920,187,1800,2039,36.0177,-117.068,"Inyo County, CA, USA",3,NPS,CA,
+Death Valley National Park,GOLD VALLEY,2006,2453940,Lightning,2453940,202,1700,480,36.0377,-116.633,"Inyo County, CA, USA",3,NPS,CA,
+Death Valley National Park,CALICO,2006,2453940,Lightning,2453940,209,1800,9280,36.5558,-117.052,"Inyo County, CA, USA",3,NPS,CA,
+Death Valley National Park,GOLDEN,2007,2454200,Miscellaneous,2454210,105,1300,1988,36.0217,-116.623,"Inyo County, CA, USA",3,NPS,CA,
+Joshua Tree National Monument,KINGSTON2,2005,2453580,Lightning,2453580,213,1800,500,34.6956,-115.92,"San Bernardino County, CA, USA",1,BLM,CA,
+Joshua Tree National Monument,GEO,2006,2453920,Lightning,2453920,183,1800,740,33.9986,-116.063,"TWENTYNIN PLM, CA 92277, USA",3,NPS,CA,
+Joshua Tree National Monument,PUSHWALLA,2006,2453920,Lightning,2453930,194,1800,2200,33.9117,-115.94,"California, USA",3,NPS,CA,
+Joshua Tree National Monument,COVINGTON,2006,2453940,Lightning,2453940,204,900,534,34.0728,-116.349,"Yucca Valley, CA 92284, USA",3,NPS,CA,
+Joshua Tree National Monument,WHISPERING PINES,2006,2453940,Lightning,2453950,213,1800,993,34.0725,-116.325,"Joshua Tree, CA 92252, USA",3,NPS,CA,
+Joshua Tree National Monument,LOST HORSE,2009,2454980,Arson,2454980,153,1800,450,33.9575,-116.133,"Riverside County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,BURNT,2001,2452120,Lightning,,,,2213,36.9604,-118.7,"Fresno County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,HIGHWAY,2001,2452140,Miscellaneous,2452150,243,0,4152,36.7502,-119.087,"41457-41525 E Kings Canyon Rd, Dunlap, CA 93621, USA",5,USFS,CA,
+Sequoia & Kings Canyon National Park,TAR,2001,2452160,Lightning,,,,508,36.4185,-118.671,"Tulare County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,PALISADE,2002,2452510,Lightning,,,,1497,37.0533,-118.537,"Fresno County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,WILLIAMS,2003,2452850,Lightning,,,,3471,36.715,-118.696,"Sierra Nevada, California, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,WEST KERN,2003,2452870,Lightning,,,,7963,36.361,-118.419,"Sierra Nevada, California, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,PARADISE 2,2003,2452910,Lightning,2452990,349,1200,1297,36.48,-118.75,"Tulare County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,HOTSPRINGS,2004,2453230,Lightning,,,,332,36.4686,-118.393,"Sierra Nevada, California, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,COMB,2005,2453570,Lightning,,,,8675,36.833,-118.671,"Fresno County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,KERN,2005,2453670,Lightning,,,,346,36.3657,-118.396,"Sierra Nevada, California, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,BURNT,2006,2453940,Lightning,,,,627,36.9542,-118.733,"Fresno County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,ROARING,2006,2453940,Lightning,2454080,349,1630,1643,36.767,-118.638,"Sierra Nevada, California, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,HIDDEN,2008,2454720,Lightning,2454750,282,1800,3685,36.6069,-118.858,"Tulare County, CA, USA",3,NPS,CA,
+Sequoia & Kings Canyon National Park,HORSE,2009,2455030,Lightning,2455120,285,1500,664,36.3873,-118.645,"Tulare County, CA, USA",3,NPS,CA,
+Lassen Volcanic National Park,BLUFF,2004,2453190,Lightning,,,,3413,40.4738,-121.381,"Shasta County, CA, USA",3,NPS,CA,
+Lassen Volcanic National Park,HORSESHOE,2005,2453620,Lightning,2453700,333,800,1525,40.2799,-121.201,"Plumas County, CA, USA",3,NPS,CA,
+Lassen Volcanic National Park,FAIRFIELD,2009,2455050,Lightning,2455100,273,1800,1664,40.522,-121.35,"California, USA",3,NPS,CA,
+Mojave National Park,WILDHORSE,2002,2452470,Lightning,2452470,195,1800,650,35.1417,-115.493,"San Bernardino County, CA, USA",3,NPS,CA,
+Mojave National Park,HACKBERRY,2005,2453540,Lightning,2453560,188,1800,5059,35.0581,-115.211,"San Bernardino County, CA, USA",3,NPS,CA,
+Mojave National Park,GOFFS#1,2005,2453540,Lightning,2453560,188,1800,2100,35.0506,-115.23,"San Bernardino County, CA, USA",3,NPS,CA,
+Mojave National Park,RANCH,2005,2453540,Lightning,2453550,178,1800,2500,34.9861,-115.472,"Essex, CA 92332, USA",3,NPS,CA,
+Mojave National Park,WILDHORSE,2005,2453540,Lightning,2453560,188,1800,63436,35.0608,-115.424,"San Bernardino County, CA, USA",3,NPS,CA,
+Mojave National Park,HALLORAN,2005,2453590,Lightning,2453590,215,2222,1064,35.3986,-115.78,"Baker, CA 92364, USA",3,NPS,CA,
+Mojave National Park,KINGSTON#3,2005,2453620,Miscellaneous,2453630,257,1700,635,35.7861,-115.939,"San Bernardino County, CA, USA",1,BLM,CA,
+Mojave National Park,MESQUITE,2006,2453930,Lightning,2453930,193,1800,586,35.7267,-115.708,"San Bernardino County, CA, USA",1,BLM,CA,
+Mojave National Park,TUFFNUT,2006,2453940,Lightning,2453940,209,1800,1200,35.0369,-115.509,"San Bernardino County, CA, USA",3,NPS,CA,
+Redwood National Park,TUK,2003,2452940,Debris Burning,2452940,305,1800,315,41.2229,-123.973,"Humboldt County, CA, USA",3,NPS,CA,
+Santa Monica Mountains National Recreation Area,CALABASAS,2000,2451710,Missing/Undefined,2451710,164,600,640,34.1833,-118.684,"Woodland Hills, CA 91367, USA",8,PRIVATE,CA,
+Santa Monica Mountains National Recreation Area,PACIFIC,2003,2452650,Powerline,2452650,7,2300,772,34.0417,-118.851,"5931 Trancas Canyon Rd, Malibu, CA 90265, USA",8,PRIVATE,CA,
+Santa Monica Mountains National Recreation Area,TOPANGA,2005,2453640,Miscellaneous,2453650,283,1800,24970,34.2833,-118.611,"11643 Poema Pl, Chatsworth, CA 91311, USA",3,NPS,CA,
+Santa Monica Mountains National Recreation Area,CANYON,2007,2454390,Missing/Undefined,2454400,299,1800,4565,34.0632,-118.699,"Malibu, CA 90265, USA",7,STATE,CA,
+Santa Monica Mountains National Recreation Area,CORRAL,2007,2454430,Campfire,2454430,332,1800,4901,34.0786,-118.756,"Castro Peak Motorway, Malibu, CA 90265, USA",3,NPS,CA,
+Whiskeytown National Recreation Area,FRENCH,2004,2453230,Arson,2453240,239,1800,12535,40.681,-122.641,"13532 Trinity Mountain Rd, French Gulch, CA 96033, USA",7,STATE,CA,
+Whiskeytown National Recreation Area,WHISKEYTOWN COMPLEX,2008,2454640,Lightning,2454740,278,1800,6420,40.614,-122.632,"Shasta, CA 96087, USA",3,NPS,CA,
+Yosemite National Park,HOOVER,2001,2452100,Lightning,,,,9300,37.6249,-119.487,"Madera County, CA, USA",3,NPS,CA,
+Yosemite National Park,WOLF,2002,2452470,Lightning,,,,2108,37.871,-119.679,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,SOK,2003,2452850,Lightning,,,,5524.8,38.0606,-119.866,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,WHISKEY,2003,2452850,Lightning,,,,1225,37.8497,-119.605,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,TUOLUMNE,2003,2452880,Lightning,,,,1600,37.8586,-119.716,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,KIBBIESUPP,2003,2452910,Lightning,2452930,289,1700,2771.9,38.0605,-119.851,"Tuolumne County, CA, USA",3,NPS,CA,
+Yosemite National Park,MEADOW,2004,2453190,Lightning,,,,5633,37.6569,-119.57,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,HETCHY,2004,2453290,Arson,2453300,291,800,2310,37.9544,-119.725,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,WAPAMA,2005,2453630,Lightning,2453680,305,1800,1058,38.0219,-119.767,"Tuolumne County, CA, USA",3,NPS,CA,
+Yosemite National Park,LAUREL,2005,2453630,Lightning,2453690,319,1800,477.5,38.0219,-119.783,"Tuolumne County, CA, USA",3,NPS,CA,
+Yosemite National Park,FROG,2006,2453940,Lightning,2454020,288,1200,6031,38.0111,-119.767,"Tuolumne County, CA, USA",3,NPS,CA,
+Yosemite National Park,BOUNDARY,2006,2453970,Campfire,2453980,240,600,459,37.7467,-119.649,"TUOLUMNE MEADOWS, CA 95389, USA",3,NPS,CA,
+Yosemite National Park,MIDDLE T,2006,2453970,Lightning,2454000,263,1700,345,37.8639,-119.711,"Yosemite National Park, California, USA",3,NPS,CA,
+Yosemite National Park,BALD WFU,2007,2454340,Lightning,2454350,248,1800,304,37.8732,-119.736,"Tuolumne County, CA, USA",3,NPS,CA,
+Yosemite National Park,JACK,2007,2454410,Lightning,2454450,352,2300,1082,37.5642,-119.67,"TUOLUMNE MEADOWS, CA 95389, USA",3,NPS,CA,
+Yosemite National Park,GROUSE,2009,2454980,Lightning,2455060,224,1800,3007,37.6907,-119.684,"Mariposa County, CA, USA",3,NPS,CA,
+Yosemite National Park,HARDEN,2009,2454990,Lightning,2455050,221,1700,1654,37.8937,-119.704,"Tuolumne County, CA, USA",3,NPS,CA,
+Yosemite National Park,BIG MEADOW SUPRESS,2009,2455070,Debris Burning,2455080,250,1800,7425,37.7092,-119.75,"4261 1st St, Wawona, CA 95389, USA",3,NPS,CA,
+Imperial National Wildlife Refuge,WHITEROCK,1992,2448730,Miscellaneous,2448730,111,800,2400,32.9333,-114.467,"Yuma County, AZ, USA",1,BLM,CA,
+Grasslands Wildlife Management Area,CHRISTMAN1,1992,2448890,Debris Burning,2448890,271,1600,450,37.6167,-121.167,"Stanislaus County, CA, USA",4,FWS,CA,
+Pixley National Wildlife Refuge,TURKEYTR,1992,2448790,Arson,2448790,164,1830,1200,35.9167,-119.417,"Earlimart, CA 93219, USA",4,FWS,CA,
+Clear Lake National Wildlife Refuge,ROCK PILE,1996,2450320,Lightning,2450320,240,1900,350,41.817,-121.114,"Modoc County, CA, USA",4,FWS,CA,
+Kern National Wildlife Refuge,COROCRAN,1996,2450260,Arson,2450260,177,1430,450,41,-120,"Lassen County, CA, USA",8,PRIVATE,CA,
+San Diego National Wildlife Refuge,OTAY322,1996,2450380,Campfire,2450380,302,800,14720,32.6439,-116.844,"Otay Ranch, Chula Vista, CA, USA",1,BLM,CA,
+Sacramento River National Wildlife Refuge,ROWLES,1999,2451450,Miscellaneous,2451450,269,1800,790,39.9053,-122.021,"Cohasset, CA 95973, USA",6,OTHER FEDERAL,CA,
+San Diego National Wildlife Refuge,PROCTOR,1999,2451450,Miscellaneous,2451450,274,1800,850,32.6684,-116.927,"Chula Vista, CA 91914, USA",4,FWS,CA,
+Clear Lake National Wildlife Refuge,CLEAR,2001,2452090,Lightning,2452100,186,1800,4317,41.8667,-121.125,"California, USA",4,FWS,CA,
+Grasslands Wildlife Management Area,AQUEDUCT,2001,2452090,Equipment Use,2452090,182,1130,700,37.0787,-120.989,"Los Banos, CA 93635, USA",6,OTHER FEDERAL,CA,
+San Luis National Wildlife Refuge,165,2001,2452070,Miscellaneous,2452070,165,2200,950,37.15,-120.852,"Los Banos, CA 93635, USA",4,FWS,CA,
+San Diego National Wildlife Refuge,BELL,2001,2452250,Miscellaneous,2452250,343,1800,1200,32.6167,-116.617,"24545 Stage Coach Rd, Potrero, CA 91963, USA",8,PRIVATE,CA,
+Grasslands Wildlife Management Area,BOX,2002,2452440,Smoking,2452440,170,2100,300,37.0621,-120.717,"15430 Branco Rd, Dos Palos, CA 93620, USA",6,OTHER FEDERAL,CA,
+Pixley National Wildlife Refuge,STATE OF CA #24,2002,2452440,Equipment Use,2452440,165,2200,641,35.8848,-119.313,"11221-11531 Co Rd J22, Earlimart, CA 93219, USA",6,OTHER FEDERAL,CA,
+Sacramento National Wildlife Refuge & Complex,SAC AB,2002,2452460,Equipment Use,2452470,196,1100,750,39.4494,-122.159,"Willows, CA 95988, USA",4,FWS,CA,
+Havasu National Wildlife Refuge,LIGHTNING,2003,2452840,Lightning,2452840,198,1900,2180,35.0058,-114.661,"Needles, CA 92363, USA",4,FWS,CA,
+Lower Klamath National Wildlife Refuge,OKLAHOMA,2003,2452910,Debris Burning,2452910,272,1900,427,41.9983,-121.703,"Dorris, CA 96023, USA",4,FWS,CA,
+San Luis National Wildlife Refuge,165,2003,2452800,Miscellaneous,2452800,157,1800,300,37.183,-120.783,"Dos Palos, CA 93620, USA",4,FWS,CA,
+Sacramento River National Wildlife Refuge,NATURE,2003,2452810,Miscellaneous,2452810,174,2200,610,39.9053,-122.021,"Cohasset, CA 95973, USA",6,OTHER FEDERAL,CA,
+Stone Lakes National Wildlife Refuge,ELK GROVE 1,2003,2452840,Miscellaneous,2452840,203,1900,422,38.38,-121.48,"Elk Grove, CA 95757, USA",7,STATE,CA,
+San Luis National Wildlife Refuge,PELICAN SJR,2004,2453210,Miscellaneous,2453210,210,1800,1500,37.613,-121.168,"Stanislaus County, CA, USA",4,FWS,CA,
+Grasslands Wildlife Management Area,DOS AMIGOS,2005,2453520,Equipment Use,2453520,154,2200,1232,36.9294,-120.841,"24500 CA-165, Los Banos, CA 93635, USA",8,PRIVATE,CA,
+San Luis National Wildlife Refuge,I-5,2005,2453580,Miscellaneous,2453580,213,2000,3200,36.79,-120.75,"Firebaugh, CA 93622, USA",8,PRIVATE,CA,
+San Diego National Wildlife Refuge,GOLF,2006,2453960,Miscellaneous,2453960,222,1700,800,33.8258,-116.909,"GLMN HOT SPGS, CA 92583, USA",7,STATE,CA,
+Kern National Wildlife Refuge,GARCES,2007,2454300,Miscellaneous,2454300,199,1200,500,35.7655,-119.574,"Wasco, CA 93280, USA",6,OTHER FEDERAL,CA,
+Pixley National Wildlife Refuge,DEER CREEK,2007,2454180,Arson,2454180,78,1500,300,35.9094,-119.345,"Earlimart, CA 93219, USA",4,FWS,CA,
+Pixley National Wildlife Refuge,NO NAME 128,2007,2454180,Miscellaneous,2454180,78,1730,500,35.9208,-119.322,"Ave 72, Earlimart, CA 93219, USA",6,OTHER FEDERAL,CA,
+San Diego National Wildlife Refuge,HARRIS,2007,2454390,Campfire,2454400,304,1800,90440,32.6088,-116.577,"1018 Harris Ranch Rd, Potrero, CA 91963, USA",8,PRIVATE,CA,
+Delevan National Wildlife Refuge,MAXWELL ASSIST,2008,2454750,Miscellaneous,2454750,283,1600,500,39.2733,-122.182,"5628 Maxwell Colusa Rd, Maxwell, CA 95955, USA",8,PRIVATE,CA,
+San Joaquin River National Wildlife Refuge,RIVER WF,2008,2454640,Miscellaneous,2454640,177,2030,580,37.6025,-121.183,"Stanislaus County, CA, USA",4,FWS,CA,
